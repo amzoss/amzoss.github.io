@@ -18,12 +18,12 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
-logo:             '/assets/logo.png'
+title:            'Angela Zoss'
+description:      'Personal website of Angela Zoss'
+url:              'https://amzoss.github.io'
+baseurl:          '/'
+copyright:        'Angela Zoss, 2020'
+#logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -61,16 +61,18 @@ kramdown:
 # For more info, refer to:
 # ~> https://jekyllrb.com/docs/collections/
 
+collections_dir: all_collections
 collections:
-  exhibits:
+  #exhibits:
+  #  output: true
+  projects:
     output: true
-  qatar: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'project'
+    #permalink: /:name
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'projects.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/projects' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -83,16 +85,16 @@ collections:
 search:
   main:
     index: '/search/index.json' # file the index will get written to
-    collections:
-      qatar:
-        content: false # whether or not to index page content
-        fields: # the metadata fields to index
-          - artist
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
+    #collections:
+    #  qatar:
+    #    content: false # whether or not to index page content
+    #    fields: # the metadata fields to index
+    #      - artist
+    #      - location
+    #      - label
+    #      - _date
+    #      - object_type
+    #      - current_location
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -102,26 +104,10 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
-    sub:
-      - label: 'Wax'
-        link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
-        link: '/credits/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+  - label: 'Resume'
+    link: '/resume/'
+  - label: 'Projects'
+    link: '/projects/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -131,12 +117,12 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/amzoss'
     - label: 'Credits'
       link: '/credits'
     - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
-  logos:
-    - img: '/img/logo.png'
+      link: '/contact'
+#  logos:
+#    - img: '/img/logo.png'
 
 # FIN
