@@ -1,0 +1,4 @@
+pid,institution,year,degree,thesis_title,thesis_type,committee,thesis_id,project_id
+ed_1,Indiana University,2018,Ph.D. in Information Science. Minor in Informatics,"Network Visualization Literacy: Task, Context, and Layout",Dissertation,"Supervised by Drs. Katy Börner, Hamid Ekbia, Staša Milojević, and Johan Bollen",th_1,prj_1
+ed_2,Cornell University,2008,M.S. in Communication. Member of Culturally-Embedded Computing Group and HCI Lab,From Measure to Leisure: Extending Theory on Technology in the Workplace,Thesis,"Supervised by Drs. Geri Gay, Tarleton Gillespie, and Phoebe Sengers",th_2,
+ed_3,Indiana University,2003,"B.A. in Communication & Culture, Cognitive Science. Minors in Computer Science, Music",,,,,

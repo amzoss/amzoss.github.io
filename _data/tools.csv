@@ -1,0 +1,7 @@
+pid,grouping,tools_list
+tool_1,Data wrangling,"Open Refine, R, Python, bash scripting"
+tool_2,Databases,"PostgreSQL, MySQL, Amazon Redshift, Airtable, Microsoft Access"
+tool_3,Graphic design and layout,"Adobe Illustrator, Adobe InDesign, Inkscape, Swift Publisher"
+tool_4,Statistical/data science software,"R, JMP, Python, Stata"
+tool_5,Visualization,"Excel, Tableau, R/tidyverse, Google Data Studio, Plot.ly, Gephi, RAW, JMP"
+tool_6,Web/CMS/Interface,"Wordpress, Drupal, R Shiny, HTML/CSS/JavaScript"

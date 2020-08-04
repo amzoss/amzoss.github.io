@@ -67,12 +67,57 @@ collections:
   #  output: true
   projects:
     output: true
-    layout: 'project'
+    #layout: 'project'
     #permalink: /:name
     metadata:
       source: 'projects.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/projects' # path to the directory of images within `_data`
+  awards:
+    output: false
+    metadata:
+      source: 'awards.csv' # path to the metadata file within `_data`
+  certifications:
+    output: false
+    metadata:
+      source: 'certifications.csv' # path to the metadata file within `_data`
+  chapters:
+    output: false
+    metadata:
+      source: 'chapters.csv' # path to the metadata file within `_data`
+  conferences:
+    output: false
+    metadata:
+      source: 'conferences.csv' # path to the metadata file within `_data`
+  education:
+    output: false
+    metadata:
+      source: 'education.csv' # path to the metadata file within `_data`
+  jobs:
+    output: false
+    metadata:
+      source: 'jobs.csv' # path to the metadata file within `_data`
+  journals:
+    output: false
+    metadata:
+      source: 'journals.csv' # path to the metadata file within `_data`
+  tools:
+    output: false
+    metadata:
+      source: 'tools.csv' # path to the metadata file within `_data`
+  presentations:
+    output: false
+    metadata:
+      source: 'presentations.csv' # path to the metadata file within `_data`
+  theses:
+    output: false
+    metadata:
+      source: 'theses.csv' # path to the metadata file within `_data`
+  reports:
+    output: false
+    metadata:
+      source: 'reports.csv' # path to the metadata file within `_data`
+
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,16 +130,87 @@ collections:
 search:
   main:
     index: '/search/index.json' # file the index will get written to
-    #collections:
-    #  qatar:
-    #    content: false # whether or not to index page content
-    #    fields: # the metadata fields to index
-    #      - artist
-    #      - location
-    #      - label
-    #      - _date
-    #      - object_type
-    #      - current_location
+    collections:
+      theses:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - title
+          - university
+      journals:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - authors
+          - title
+          - journal
+      chapters:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - authors
+          - title
+          - editor
+          - book_title
+      conferences:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - authors
+          - title
+          - editor
+          - conference_name
+          - conference_location
+      reports:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - authors
+          - title
+          - description
+      projects:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - title
+          - collaborators
+          - blurb
+          - responsibilities
+          - funding
+      certifications:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - certification
+      presentations:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - authors
+          - title
+          - location
+          - host
+          - type
+      tools:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - grouping
+          - tools_list
+      awards:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - author
+          - title
+          - description
+          - location
+          - award
+      education:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - institution
+          - degree
+          - thesis_title
+          - thesis_type
+          - committee
+      jobs:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
+          - job_title
+          - location
+          - department
+
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
