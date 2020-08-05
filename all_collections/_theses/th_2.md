@@ -9,7 +9,7 @@ university: Cornell University
 advisor: Dr. Geri Gay
 grad_date: May 2008
 type: Master’s thesis
-url: https://hdl.handle.net/1813/10736
+thesis_url: https://hdl.handle.net/1813/10736
 project_id: 
 educ_id: ed_2
 order: '1'

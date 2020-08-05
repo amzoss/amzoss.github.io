@@ -6,8 +6,11 @@ collaborators: Chin Hua Kong, Nianli Ma, Michael J. Stamper, Angela Zoss, Katy B
 blurb: MapSustain, building off the Job Map, visualizes funding, publication, and
   patent data related to sustainability research on linked geospatial and topic maps.
 responsibilities: 
-url: 
+project_url: 
 funding: 
 order: '08'
+layout: project
 collection: projects
+thumbnail: img/derivatives/simple/prj_9/thumbnail.jpg
+full: img/derivatives/simple/prj_9/full.jpg
 ---

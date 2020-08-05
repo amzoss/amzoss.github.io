@@ -5,8 +5,11 @@ date_range: May to June 2012
 collaborators: 
 blurb: 
 responsibilities: 
-url: 
+project_url: 
 funding: 
 order: '05'
+layout: project
 collection: projects
+thumbnail: img/derivatives/simple/prj_6/thumbnail.jpg
+full: img/derivatives/simple/prj_6/full.jpg
 ---

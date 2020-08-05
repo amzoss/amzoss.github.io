@@ -63,12 +63,15 @@ kramdown:
 
 collections_dir: all_collections
 collections:
+  posts:
+    output: true
+    layout: 'page' # doesn't seem to work
   #exhibits:
   #  output: true
   projects:
     output: true
-    #layout: 'project'
-    #permalink: /:name
+    layout: 'project'
+    #permalink: /:pid
     metadata:
       source: 'projects.csv' # path to the metadata file within `_data`
     images:
@@ -224,6 +227,8 @@ menu:
     link: '/resume/'
   - label: 'Projects'
     link: '/projects/'
+  - label: 'Posts'
+    link: '/posts/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

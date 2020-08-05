@@ -8,8 +8,11 @@ blurb: NSF CISE and SBE Advisory Committees contracted several teams to act as a
   analysis in order to better support Program Officers in short-term and long-term
   goals.
 responsibilities: 
-url: 
+project_url: 
 funding: 
 order: '10'
+layout: project
 collection: projects
+thumbnail: img/derivatives/simple/prj_11/thumbnail.jpg
+full: img/derivatives/simple/prj_11/full.jpg
 ---

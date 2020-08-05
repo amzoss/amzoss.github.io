@@ -5,8 +5,11 @@ date_range:
 collaborators: 
 blurb: 
 responsibilities: 
-url: 
+project_url: 
 funding: 
 order: '06'
+layout: project
 collection: projects
+thumbnail: img/derivatives/simple/prj_7/thumbnail.jpg
+full: img/derivatives/simple/prj_7/full.jpg
 ---

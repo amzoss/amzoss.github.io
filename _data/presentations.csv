@@ -1,9 +1,9 @@
-pid,project_id,authors,sort_year,title,location,host,pres_date,type,url
+pid,project_id,authors,sort_year,title,location,host,pres_date,type,pres_url
 prs_1,prj_4,"Nassar, Nassib, Beltaine, Sharon, Zoss, Angela M. and Walker, Kevin",2020,FOLIO Reporting with the Library Data Platform,presented online.,FOLIO Forum,"February 12, 2020",Webinar,
 prs_2,prj_4,"Zoss, Angela M.",2020,Reporting 101: Using the Library Data Platform (LDP) for Library Reporting,"College Station, TX",2020 World Open Library Foundation Conference (WOLFCon 2020),"January 23, 2020",Presentation and demonstration,
 prs_3,,"Zoss, Angela M.",2020,Visualization in R using ggplot2,"Durham, NC",Duke University Libraries’ Data and Visualization Services department workshop series,Fall 2017 to Spring 2020,Workshop,
 prs_4,prj_4,"Zoss, Angela M.",2020,Building an Open Source Reporting Platform for FOLIO,"Austin, TX",2020 Electronic Resources & Libraries Annual Conference (ER&L2020),"March 9, 2020",Poster presented,
-prs_5,prj_3,"Zoss, Angela M.",2020,Partnering with Data Science Students on Journal Usage Analysis,"Austin, TX",2020 Electronic Resources & Libraries Annual Conference (ER&L2020),"March 10, 2020",Presentation,URL: http://bit.ly/ERL20-60-02
+prs_5,prj_3,"Zoss, Angela M.",2020,Partnering with Data Science Students on Journal Usage Analysis,"Austin, TX",2020 Electronic Resources & Libraries Annual Conference (ER&L2020),"March 10, 2020",Presentation,http://bit.ly/ERL20-60-02
 prs_6,,"Forzetting, Sarah, Sidman, Angela and Zoss, Angela M.",2020,Protecting patron privacy - what are the issues and what can we do?,"Austin, TX",2020 Electronic Resources & Libraries Annual Conference (ER&L2020),"March 11, 2020",Panel presentation,
 prs_7,,"Zoss, Angela M.",2019,Accessibility in Word and PowerPoint,"Durham, NC",Duke University Libraries – Librarians’ Summer Camp,"July 31, 2019",Hands-on workshop,
 prs_8,,"Zoss, Angela M.",2019,Advanced ggplot2 techniques,"Durham, NC",Duke University Libraries’ Data and Visualization Services department workshop series,Fall 2019,Workshop,

@@ -11,7 +11,7 @@ publisher: IGI Global
 pages: 94-110
 short_title: Cognitive processes and traits related to graphic comprehension
 doi: 10.4018/978-1-4666-4309-3.ch005
-url: 
+chap_url: 
 order: '3'
 collection: chapters
 ---

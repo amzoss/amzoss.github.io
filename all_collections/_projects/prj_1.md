@@ -12,8 +12,11 @@ responsibilities: |-
   * Constructed a series of quantitative network visualization analysis tasks
   * Recruited hundreds of subjects to complete online test of network visualization comprehension
   * Developed R scripts to process sample network datasets, conduct network statistics and clustering algorithms, generate test visualizations, process participant response data, apply mixed effects models, and visualize results
-url: http://netvislit.org/
+project_url: http://netvislit.org/
 funding: 
 order: '00'
+layout: project
 collection: projects
+thumbnail: ''
+full: ''
 ---

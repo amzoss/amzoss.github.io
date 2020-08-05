@@ -11,7 +11,7 @@ volume: '2'
 issue: '2'
 pages: '1033'
 doi: 
-url: http://www.jscimedcentral.com/TranslationalMedicine/translationalmedicine-spid-collaboration-science-translational-medicine-1033.pdf
+jrnl_url: http://www.jscimedcentral.com/TranslationalMedicine/translationalmedicine-spid-collaboration-science-translational-medicine-1033.pdf
 order: '0'
 collection: journals
 ---

@@ -7,8 +7,11 @@ blurb: 'In the Job Map, job postings collected via RSS feeds are visualized geos
   and topically (overlaid on a Map of Science). Also accepted as a map to the Places
   & Spaces: Mapping Science exhibit, 6th iteration (U.S. Job Market map).'
 responsibilities: 
-url: 
+project_url: 
 funding: 
 order: '09'
+layout: project
 collection: projects
+thumbnail: img/derivatives/simple/prj_10/thumbnail.jpg
+full: img/derivatives/simple/prj_10/full.jpg
 ---

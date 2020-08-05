@@ -9,7 +9,7 @@ university: Indiana University
 advisor: Dr. Katy Börner
 grad_date: May 2018
 type: Doctoral dissertation
-url: http://hdl.handle.net/2022/22117
+thesis_url: http://hdl.handle.net/2022/22117
 project_id: prj_1
 educ_id: ed_1
 order: '0'

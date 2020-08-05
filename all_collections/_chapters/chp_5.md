@@ -14,7 +14,7 @@ pages: 238-247
 short_title: Where Are the Academic Jobs? Interactive Exploration of Job Advertisements
   in Geospatial and Topical Space
 doi: 10.1007/978-3-642-12079-4_30
-url: 
+chap_url: 
 order: '4'
 collection: chapters
 ---

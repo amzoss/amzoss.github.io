@@ -11,7 +11,7 @@ publisher: Rowman & Littlefield Publishers, Inc.
 pages: 19-44
 short_title: Designing Public Visualizations of Library Data
 doi: 10.6084/m9.figshare.3811713.v1
-url: 
+chap_url: 
 order: '2'
 collection: chapters
 ---

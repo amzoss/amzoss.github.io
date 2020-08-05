@@ -1,4 +1,4 @@
-pid,project_id,authors,year,title,journal,volume,issue,pages,doi,url
+pid,project_id,authors,year,title,journal,volume,issue,pages,doi,jrnl_url
 jrnl_1,,"Stipelman, Brooke A., Hall, Kara L., Zoss, Angela M., Okamoto, Janet, Stokols, Daniel and Börner, Katy",2014,Mapping the Impact of Transdisciplinary Research: A Visual Comparison of Investigator-Initiated and Team-Based Tobacco Use Research Publications,Journal of Translational Medicine & Epidemiology,2,2,1033,,http://www.jscimedcentral.com/TranslationalMedicine/translationalmedicine-spid-collaboration-science-translational-medicine-1033.pdf
 jrnl_2,,"Zoss, Angela M.",2012,Seeding a field: The growth of bibliometrics through co-authorship ties,Bulletin of the American Society for Information Science and Technology,38,6,29-32,10.1002/bult.2012.1720380608,
 jrnl_3,,"Börner, Katy, Klavans, Richard, Patek, Michael, Zoss, Angela M., Biberstine, Joseph R., Light, Robert P., Larivière, Vincent and Boyack, Kevin W.",2012,Design and update of a classification system: the UCSD map of science,PLoS One,7,7,e39464,10.1371/journal.pone.0039464,

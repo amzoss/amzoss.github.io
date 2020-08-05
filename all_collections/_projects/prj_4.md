@@ -9,8 +9,11 @@ blurb: "“FOLIO is a collaboration of libraries, developers and vendors buildin
 responsibilities: |-
   * Since joining the Reporting Special Interest Group (SIG) in September 2018, have held progressively more advanced leadership roles. Currently a member of the Reporting SIG leadership team, working as project manager and primary advisory for query development.
   * Responsibilities include database testing, loading data, generating test data, writing queries for both PostgreSQL and Amazon Redshift databases, reviewing queries for logic and style, creating and maintaining JIRA issues and wiki documentation, and maintaining the GitHub repository.
-url: https://wiki.folio.org/display/RPT/
+project_url: https://wiki.folio.org/display/RPT/
 funding: 
 order: '03'
+layout: project
 collection: projects
+thumbnail: ''
+full: ''
 ---

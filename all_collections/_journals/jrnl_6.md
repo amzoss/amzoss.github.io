@@ -9,7 +9,7 @@ volume: '24'
 issue: '4'
 pages: 78-81
 doi: 10.1109/MIS.2009.68
-url: 
+jrnl_url: 
 order: '5'
 collection: journals
 ---

@@ -8,9 +8,12 @@ blurb: This project involves a series of bibliometric analyses and visualization
   that aid in the evaluation of TTURC projects. Visualizations include geographic
   visualizations, co-authorship networks, Map of Science overlays, and keywords networks.
 responsibilities: 
-url: 
+project_url: 
 funding: This research was supported in part by the National Cancer Institute at the
   National Institutes of Health [contract number HHSN261200800812].
 order: '11'
+layout: project
 collection: projects
+thumbnail: img/derivatives/simple/prj_12/thumbnail.jpg
+full: img/derivatives/simple/prj_12/full.jpg
 ---
