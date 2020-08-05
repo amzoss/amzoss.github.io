@@ -8,7 +8,7 @@ location: San Francisco, CA
 host: Annual meeting of the American Library Association
 pres_date: June 1, 2015
 type: Half-day conference program
-url: 
+pres_url: 
 order: '076'
 collection: presentations
 ---

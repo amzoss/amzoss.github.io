@@ -9,7 +9,7 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2018
 type: Workshop
-url: 
+pres_url: 
 order: '021'
 collection: presentations
 ---

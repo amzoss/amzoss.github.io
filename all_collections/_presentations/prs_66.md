@@ -8,7 +8,7 @@ location: Durham, NC
 host: undergraduate course on Environment and Conflict
 pres_date: February 2, 2016
 type: Guest lecture
-url: 
+pres_url: 
 order: '065'
 collection: presentations
 ---

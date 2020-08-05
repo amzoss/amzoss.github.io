@@ -8,7 +8,7 @@ location: Durham, NC
 host: graduate Environment course on Applied Qualitative Research Methods
 pres_date: October 25, 2017
 type: Guest lecture
-url: 
+pres_url: 
 order: '055'
 collection: presentations
 ---

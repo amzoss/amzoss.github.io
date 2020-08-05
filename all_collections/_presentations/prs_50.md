@@ -8,7 +8,7 @@ location: Bloomington, IN
 host: Indiana University Network Science Institute Open Science Forum
 pres_date: November 1, 2017
 type: Presentation
-url: 
+pres_url: 
 order: '049'
 collection: presentations
 ---

@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke University Libraries – Librarians’ Summer Camp
 pres_date: July 31, 2019
 type: Hands-on workshop
-url: 
+pres_url: 
 order: '006'
 collection: presentations
 ---

@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke Science and Society’s Faculty SciComm Fellows Program
 pres_date: April 20, 2015
 type: Presentation
-url: 
+pres_url: 
 order: '087'
 collection: presentations
 ---

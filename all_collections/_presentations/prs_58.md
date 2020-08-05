@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke Pratt School of Engineering – PhDPlus Series
 pres_date: September 20, 2016
 type: Presentation
-url: 
+pres_url: 
 order: '057'
 collection: presentations
 ---

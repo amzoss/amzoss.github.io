@@ -8,7 +8,7 @@ location: Knoxville, TN
 host: the Digital Scholarship Bootcamp, hosted by University of Tennessee, Knoxville
 pres_date: May 1, 2017
 type: Three-day course
-url: 
+pres_url: 
 order: '046'
 collection: presentations
 ---

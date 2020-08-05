@@ -9,7 +9,7 @@ host: Duke University Marine Lab, Research Experience for Undergraduates in Estu
   and Coastal Marine Systems
 pres_date: July 1, 2017
 type: Full-day workshop for undergraduates
-url: 
+pres_url: 
 order: '045'
 collection: presentations
 ---

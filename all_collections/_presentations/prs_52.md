@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke Global Challenge
 pres_date: February 7, 2017
 type: Presentation
-url: 
+pres_url: 
 order: '051'
 collection: presentations
 ---

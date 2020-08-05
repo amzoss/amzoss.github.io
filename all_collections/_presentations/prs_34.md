@@ -8,7 +8,7 @@ location: Durham, NC
 host: undergraduate Sociology course on Managing Networks
 pres_date: March 19, 2018
 type: guest lecture
-url: 
+pres_url: 
 order: '033'
 collection: presentations
 ---

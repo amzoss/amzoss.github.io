@@ -8,7 +8,7 @@ location: Orlando, FL
 host: Annual meeting of the American Library Association
 pres_date: June 1, 2016
 type: Full-day pre-conference program
-url: 
+pres_url: 
 order: '071'
 collection: presentations
 ---

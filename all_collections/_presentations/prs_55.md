@@ -8,7 +8,7 @@ location: Sarasota Springs, NY
 host: Project VIS at Skidmore College
 pres_date: January 1, 2017
 type: Week-long residency
-url: 
+pres_url: 
 order: '054'
 collection: presentations
 ---

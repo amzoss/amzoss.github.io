@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke Nicholas Institute
 pres_date: April 7, 2014
 type: Panel presentation
-url: 
+pres_url: 
 order: '092'
 collection: presentations
 ---

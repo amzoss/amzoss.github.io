@@ -8,7 +8,7 @@ location: Durham, NC
 host: 'MediaLab: A Research Translation Boot Camp'
 pres_date: August 21, 2014
 type: 
-url: 
+pres_url: 
 order: '095'
 collection: presentations
 ---

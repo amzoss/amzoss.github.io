@@ -9,7 +9,7 @@ host: Special Libraries Association Southern California Chapter, Professional De
   Day
 pres_date: September 1, 2016
 type: Full-day workshop
-url: 
+pres_url: 
 order: '067'
 collection: presentations
 ---

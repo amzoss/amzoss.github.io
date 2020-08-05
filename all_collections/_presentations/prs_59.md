@@ -8,7 +8,7 @@ location: Baltimore, MD
 host: Pedagogy of Data Visualization Workshop at IEEE VIS 2016
 pres_date: October 23, 2016
 type: Accepted member of panel
-url: 
+pres_url: 
 order: '058'
 collection: presentations
 ---

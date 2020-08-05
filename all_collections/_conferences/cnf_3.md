@@ -12,7 +12,7 @@ pages: 57-61
 short_title: 'MAPSustain: Visualising biomass and biofuel research'
 publisher: 
 doi: 
-url: 
+conf_url: http://hdl.handle.net/10919/86852
 order: '2'
 collection: conferences
 ---

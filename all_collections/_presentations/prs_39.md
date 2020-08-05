@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke University
 pres_date: Fall 2017 to Spring 2018
 type: Year-long research-based course and project
-url: 
+pres_url: 
 order: '038'
 collection: presentations
 ---

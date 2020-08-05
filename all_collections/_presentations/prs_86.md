@@ -8,7 +8,7 @@ location: Durham, NC
 host: the Duke Visualization Friday Forum
 pres_date: January 23, 2015
 type: Presentation
-url: 
+pres_url: 
 order: '085'
 collection: presentations
 ---

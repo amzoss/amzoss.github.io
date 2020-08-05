@@ -71,7 +71,7 @@ permalink: /resume/
 {% if chap.doi != nil %}
 <a href="https://dx.doi.org/{{ chap.doi }}">{{ chap.title }}</a>.
 {% elsif chap.chap_url != nil %}
-<a href="{{ chap.jrnl_url }}">{{ chap.title }}</a>.
+<a href="{{ chap.chap_url }}">{{ chap.title }}</a>.
 {% else %}
 {{ chap.title }}.
 {% endif %}
@@ -84,9 +84,66 @@ In {{ chap.editor}} (Eds.), <i>{{ chap.book_title }}</i>{% if chap.pages != nil 
 
 <h3>Conference Papers</h3>
 
+<ul>
+{% assign paps = site.conferences | sort: 'year' | reverse %}
+{% for pap in paps %}
+{% assign auth_end = pap.authors | slice: -1 %}
+<li>{{ pap.authors }}{%- if auth_end != "." and auth_end != " " %}.{% endif %}
+({{ pap.year }}).
+{% if pap.doi != nil %}
+<a href="https://dx.doi.org/{{ pap.doi }}"><i>{{ pap.title }}</i></a>.
+{% elsif pap.conf_url != nil %}
+<a href="{{ pap.conf_url }}"><i>{{ pap.title }}</i></a>.
+{% else %}
+<i>{{ pap.title }}</i>.
+{% endif %}
+Paper presented at {{ pap.conference_name }}, {{pap.conference_location}}.
+{% if pap.doi != nil %}doi: {{pap.doi}}.{% endif %}
+</li>
+{% endfor %}
+</ul>
+
 <h3>White Papers</h3>
 
+<ul>
+{% assign reps = site.reports | sort: 'year' | reverse %}
+{% for rep in reps %}
+{% assign auth_end = rep.authors | slice: -1 %}
+<li>{{ rep.authors }}{%- if auth_end != "." and auth_end != " " %}.{% endif %}
+({{ rep.year }}).
+{% if rep.doi != nil %}
+<a href="https://dx.doi.org/{{ rep.doi }}"><i>{{ rep.title }}</i></a>.
+{% elsif rep.rep_url != nil %}
+<a href="{{ rep.rep_url }}"><i>{{ rep.title }}</i></a>.
+{% else %}
+<i>{{ rep.title }}</i>.
+{% endif %}
+{{ rep.description }}.
+{% if rep.doi != nil %}doi: {{rep.doi}}.{% endif %}
+</li>
+{% endfor %}
+</ul>
+
 <h2>Projects</h2>
+
+<ul>
+{% assign projs = site.projects %}
+{% for proj in projs %}
+{% assign auth_end = proj.collaborators | slice: -1 %}
+<li><b>
+{% if proj.doi != nil %}
+<a href="https://dx.doi.org/{{ proj.doi }}"><i>{{ proj.title }}</i></a>.
+{% elsif proj.project_url != nil %}
+<a href="{{ proj.project_url }}"><i>{{ proj.title }}</i></a>.
+{% else %}
+{{ proj.title }}.
+{% endif %}</b> ({{ proj.date_range }}).<br />
+{% if proj.collaborators != nil %}{{ proj.collaborators }}{%- if auth_end != nil and auth_end != "." and auth_end != " " %}.{% endif %}<br />{% endif %}
+<i>{{ proj.blurb }}</i><br />
+{{ proj.responsibilities | markdownify }}
+</li>
+{% endfor %}
+</ul>
 
 <h2>Certifications</h2>
 

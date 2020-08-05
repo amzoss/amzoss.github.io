@@ -8,7 +8,7 @@ location: Chapel Hill, NC and Statesville, NC
 host: State Library of North Carolina – Library Data Users’ Group
 pres_date: September 26 and 27, 2019
 type: Half-day workshop for library data professionals
-url: 
+pres_url: 
 order: '011'
 collection: presentations
 ---

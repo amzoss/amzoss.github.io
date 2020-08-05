@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke Communicators
 pres_date: October 10, 2018
 type: Presentation
-url: 
+pres_url: 
 order: '020'
 collection: presentations
 ---

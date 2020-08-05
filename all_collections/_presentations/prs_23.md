@@ -8,7 +8,7 @@ location: Durham, NC
 host: Duke University Libraries – First Wednesday Series
 pres_date: July 11, 2018
 type: Presentation
-url: 
+pres_url: 
 order: '022'
 collection: presentations
 ---

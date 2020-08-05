@@ -12,8 +12,8 @@ conference_location: Philadelphia, PA
 pages: 
 short_title: 
 publisher: iSchools
-doi: 
-url: https://doi.org/10.9776%2F16303
+doi: 10.9776/16303
+conf_url: 
 order: '1'
 collection: conferences
 ---
