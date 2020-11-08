@@ -38,11 +38,11 @@ vertically, or diagonally.</p>
 
 <div id="bingo-card" style="margin-top: 50px;">
   <div class="row">
-    <div class="col text-center display-2 bg-danger text-light" style="border: thin solid #000000;">B</div>
-    <div class="col text-center display-2 bg-danger text-light" style="border: thin solid #000000;">I</div>
-    <div class="col text-center display-2 bg-danger text-light" style="border: thin solid #000000;">N</div>
-    <div class="col text-center display-2 bg-danger text-light" style="border: thin solid #000000;">G</div>
-    <div class="col text-center display-2 bg-danger text-light" style="border: thin solid #000000;">O</div>
+    <div class="col text-center display-2 bg-danger text-light" style="width: 20%; border: thin solid #000000;">B</div>
+    <div class="col text-center display-2 bg-danger text-light" style="width: 20%; border: thin solid #000000;">I</div>
+    <div class="col text-center display-2 bg-danger text-light" style="width: 20%; border: thin solid #000000;">N</div>
+    <div class="col text-center display-2 bg-danger text-light" style="width: 20%; border: thin solid #000000;">G</div>
+    <div class="col text-center display-2 bg-danger text-light" style="width: 20%; border: thin solid #000000;">O</div>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ vertically, or diagonally.</p>
     for (i = 0; i < 5; i++) {
       var newRow = document.createElement("div");
       newRow.classList.add("row");
-      newRow.style.height = "160px";
+      //newRow.style.height = "160px";
 
 
       for (j = 0; j < 5; j++) {
@@ -78,6 +78,7 @@ vertically, or diagonally.</p>
         var newCol = document.createElement("div");
         newCol.classList.add("col");
         newCol.classList.add("bg-light");
+        newCol.style.padding = "0";
         newCol.style.width = "20%";
         newCol.style.height = "160px";
         newCol.style.border = "thin solid #000000";
@@ -86,21 +87,21 @@ vertically, or diagonally.</p>
         var newCircle = document.createElement("div");
         newCircle.id = "circle"+runningIndex;
         newCircle.classList.add("circle");
-        newCircle.style.height = "130px";
-        newCircle.style.width = "130px";
+        newCircle.style.height = "80%";
+        newCircle.style.width = "80%";
         newCircle.style.backgroundColor = "#ffdbd9";
         newCircle.style.borderRadius = "50%";
-        newCircle.style.marginTop = "15px";
+        newCircle.style.margin = "10%";
         newCircle.style.position = "absolute";
         newCircle.style.display = "none";
         newCol.appendChild(newCircle);
 
-        //newCol.innerHTML = newOptions[runningIndex];
         var newSpan = document.createElement("div");
         newSpan.innerHTML = newOptions[runningIndex];
         newSpan.classList.add("align-self-center");
         newSpan.classList.add("text");
-        newSpan.style.width = "130px";        
+        newSpan.style.width = "80%";        
+        newSpan.style.margin = "10%";
         newSpan.style.position = "absolute";
         newSpan.classList.add("text-center");
         newSpan.classList.add("font-weight-bold");
@@ -109,9 +110,9 @@ vertically, or diagonally.</p>
         var overlay = document.createElement("div");
         overlay.id = "overlay"+runningIndex;
         overlay.classList.add("overlay");
-        overlay.style.height = "130px";
-        overlay.style.width = "130px";
-        overlay.style.marginTop = "15px";
+        overlay.style.height = "80%";
+        overlay.style.width = "80%";
+        overlay.style.margin = "10%";
         overlay.style.position = "absolute";
         newCol.appendChild(overlay);
 
