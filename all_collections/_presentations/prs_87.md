@@ -8,7 +8,8 @@ location: Durham, NC
 host: undergraduate Computer Science course called Everything Data
 pres_date: March 18, 2015
 type: Guest lecture and visualization contest
+grouping: guest
 pres_url: 
-order: '086'
+order: '082'
 collection: presentations
 ---

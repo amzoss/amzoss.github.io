@@ -8,7 +8,8 @@ location: Durham, NC
 host: Duke ASIST Responsible Conduct of Research Series
 pres_date: April 19, 2019
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '012'
+order: '099'
 collection: presentations
 ---

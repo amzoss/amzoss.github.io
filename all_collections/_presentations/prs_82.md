@@ -9,7 +9,8 @@ host: North Carolina State University Libraries’ week-long series of data scie
   short courses
 pres_date: October 1, 2015
 type: One-day course for NCSU library staff
+grouping: extended
 pres_url: 
-order: '081'
+order: '043'
 collection: presentations
 ---

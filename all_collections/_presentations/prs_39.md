@@ -8,7 +8,8 @@ location: Durham, NC
 host: Duke University
 pres_date: Fall 2017 to Spring 2018
 type: Year-long research-based course and project
-pres_url: 
-order: '038'
+grouping: semester
+pres_url: https://bassconnections.duke.edu/project-teams/visualizing-social-mobility-developing-world-2017-2018
+order: '095'
 collection: presentations
 ---

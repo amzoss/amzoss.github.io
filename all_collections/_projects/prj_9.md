@@ -1,6 +1,7 @@
 ---
 pid: prj_9
 title: MAPSustain
+sort_year: '2010'
 date_range: Jan. 2010 to Dec. 2010
 collaborators: Chin Hua Kong, Nianli Ma, Michael J. Stamper, Angela Zoss, Katy Börner
 blurb: MapSustain, building off the Job Map, visualizes funding, publication, and

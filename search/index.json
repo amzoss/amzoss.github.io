@@ -466,7 +466,7 @@ layout: none
     "title": "Making sense of data through visualization",
     "location": "Orlando, FL",
     "host": "Annual meeting of the American Library Association",
-    "type": "Full-day pre-conference program",
+    "type": "One-day pre-conference program",
     "collection": "presentations",
     "permalink": "/presentations/prs_72",
     "lunr_id": 43
@@ -488,7 +488,7 @@ layout: none
     "title": "Designing Academic Figures and Posters",
     "location": "Beaufort, NC",
     "host": "Duke University Marine Lab, Research Experience for Undergraduates in Estuarine and Coastal Marine Systems",
-    "type": "Full-day workshop for undergraduates",
+    "type": "One-day workshop for undergraduates",
     "collection": "presentations",
     "permalink": "/presentations/prs_46",
     "lunr_id": 45
@@ -708,7 +708,7 @@ layout: none
     "title": "Designing Academic Figures and Posters",
     "location": "Beaufort, NC",
     "host": "Duke University Marine Lab, Research Experience for Undergraduates in Estuarine and Coastal Marine Systems",
-    "type": "Full-day workshop for undergraduates",
+    "type": "One-day workshop for undergraduates",
     "collection": "presentations",
     "permalink": "/presentations/prs_26",
     "lunr_id": 65
@@ -928,7 +928,7 @@ layout: none
     "title": "Introduction to data visualization",
     "location": "Long Beach, CA",
     "host": "Special Libraries Association Southern California Chapter, Professional Development Day",
-    "type": "Full-day workshop",
+    "type": "One-day workshop",
     "collection": "presentations",
     "permalink": "/presentations/prs_68",
     "lunr_id": 85
@@ -1016,7 +1016,7 @@ layout: none
     "title": "Designing Academic Figures and Posters",
     "location": "Beaufort, NC",
     "host": "Duke University Marine Lab, Research Experience for Undergraduates in Estuarine and Coastal Marine Systems",
-    "type": "Full-day workshop for undergraduates",
+    "type": "One-day workshop for undergraduates",
     "collection": "presentations",
     "permalink": "/presentations/prs_79",
     "lunr_id": 93
@@ -1335,7 +1335,7 @@ layout: none
     "title": "Designing Academic Figures and Posters",
     "location": "Beaufort, NC",
     "host": "Duke University Marine Lab, Research Experience for Undergraduates in Estuarine and Coastal Marine Systems",
-    "type": "Full-day workshop for undergraduates",
+    "type": "One-day workshop for undergraduates",
     "collection": "presentations",
     "permalink": "/presentations/prs_102",
     "lunr_id": 122
@@ -1390,7 +1390,7 @@ layout: none
     "title": "Imprints in the Museum: Social Navigation Technology for Participatory Expression",
     "location": "New York City, NY",
     "host": "International Communication Association (ICA) 2005",
-    "type": "Poster Presentation",
+    "type": "Poster presentation",
     "collection": "presentations",
     "permalink": "/presentations/prs_143",
     "lunr_id": 127
@@ -1500,7 +1500,7 @@ layout: none
     "title": "Introduction to Effective Data Visualization",
     "location": "Durham, NC",
     "host": "graduate Public Policy course called Public Policy Presentation Practicum",
-    "type": "guest lecture",
+    "type": "Guest lecture",
     "collection": "presentations",
     "permalink": "/presentations/prs_31",
     "lunr_id": 137
@@ -1621,7 +1621,7 @@ layout: none
     "title": "Designing Academic Figures and Posters",
     "location": "Beaufort, NC",
     "host": "Duke University Marine Lab, Research Experience for Undergraduates in Estuarine and Coastal Marine Systems",
-    "type": "Full-day workshop for undergraduates",
+    "type": "One-day workshop for undergraduates",
     "collection": "presentations",
     "permalink": "/presentations/prs_64",
     "lunr_id": 148
@@ -1764,7 +1764,7 @@ layout: none
     "title": "Network Visualizations",
     "location": "Durham, NC",
     "host": "undergraduate Sociology course on Managing Networks",
-    "type": "guest lecture",
+    "type": "Guest lecture",
     "collection": "presentations",
     "permalink": "/presentations/prs_34",
     "lunr_id": 161
@@ -1775,7 +1775,7 @@ layout: none
     "title": "Creating clean, effective charts and graphs",
     "location": "Durham, NC",
     "host": "MediaLab: A Research Translation Boot Camp",
-    "type": null,
+    "type": "Workshop",
     "collection": "presentations",
     "permalink": "/presentations/prs_96",
     "lunr_id": 162
@@ -1918,7 +1918,7 @@ layout: none
     "title": "Building an Open Source Reporting Platform for FOLIO",
     "location": "Austin, TX",
     "host": "2020 Electronic Resources & Libraries Annual Conference (ER&L2020)",
-    "type": "Poster presented",
+    "type": "Poster presentation",
     "collection": "presentations",
     "permalink": "/presentations/prs_4",
     "lunr_id": 175

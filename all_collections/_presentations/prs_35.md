@@ -8,7 +8,8 @@ location: Durham, NC
 host: Duke Innovation Co-Lab Roots workshop series
 pres_date: April 11, 2018
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '034'
+order: '104'
 collection: presentations
 ---

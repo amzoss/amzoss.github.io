@@ -8,7 +8,8 @@ location: Raleigh, NC
 host: North Carolina State University Libraries’ Coffee and Viz series
 pres_date: October 18, 2019
 type: Invited presentation
+grouping: conference
 pres_url: 
-order: '016'
+order: '012'
 collection: presentations
 ---

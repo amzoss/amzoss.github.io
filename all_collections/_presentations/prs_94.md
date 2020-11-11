@@ -9,7 +9,8 @@ host: the HASTAC NSF EAGER-sponsored event entitled Big (and messy) Data & Colla
   Workshop & Conference
 pres_date: May 28, 2014
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '093'
+order: '114'
 collection: presentations
 ---

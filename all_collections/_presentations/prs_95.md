@@ -8,7 +8,8 @@ location: Durham, NC
 host: undergraduate course on Data Visualization
 pres_date: January 31, 2014
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '094'
+order: '069'
 collection: presentations
 ---

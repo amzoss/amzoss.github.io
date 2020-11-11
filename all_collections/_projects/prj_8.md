@@ -1,6 +1,7 @@
 ---
 pid: prj_8
 title: Updating Maps of Science
+sort_year: '2011'
 date_range: Jan. 2011 to July 2011
 collaborators: Richard Klavans, Michael Patek, Joseph Biberstine, Vincent Larivière,
   Kevin W. Boyack, Katy Börner, Angela Zoss

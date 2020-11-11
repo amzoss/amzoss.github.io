@@ -8,7 +8,8 @@ location: Durham, NC
 host: the Duke University Libraries First Wednesday Series
 pres_date: February 4, 2015
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '072'
+order: '109'
 collection: presentations
 ---

@@ -1,6 +1,7 @@
 ---
 pid: prj_2
 title: 'Diseases across the Top Five Languages of the PubMed Database: 1961-2012'
+sort_year: '2014'
 date_range: January 2014 to June 2014
 collaborators: 
 blurb: A team submission to the Data Visualization Challenge for WebSci’14. Original

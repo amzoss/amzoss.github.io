@@ -1,6 +1,7 @@
 ---
 pid: prj_3
 title: 'Breaking the Bundle: Analyzing Duke’s Journal Subscriptions'
+sort_year: '2020'
 date_range: November 2018 to March 2020
 collaborators: 
 blurb: A data science project to combine and visualize various measures of value for

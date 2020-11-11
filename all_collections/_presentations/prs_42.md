@@ -8,7 +8,8 @@ location: Lawrence, KS
 host: IASSIST Annual Conference 2017
 pres_date: May 26, 2017
 type: Accepted conference presentation
+grouping: conference
 pres_url: 
-order: '041'
+order: '002'
 collection: presentations
 ---

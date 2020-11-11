@@ -8,7 +8,8 @@ location: College Station, TX
 host: 2020 World Open Library Foundation Conference (WOLFCon 2020)
 pres_date: January 23, 2020
 type: Presentation and demonstration
+grouping: conference
 pres_url: 
-order: '001'
+order: '027'
 collection: presentations
 ---

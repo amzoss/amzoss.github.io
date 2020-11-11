@@ -8,7 +8,8 @@ location: Durham, NC
 host: Duke University Library Advisory Board Fall 2017 Meeting
 pres_date: November 18, 2017
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '042'
+order: '105'
 collection: presentations
 ---

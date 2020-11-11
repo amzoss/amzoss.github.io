@@ -8,7 +8,8 @@ location: Durham, NC
 host: graduate course on Historical and Cultural Visualization
 pres_date: October 2, 2015
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '080'
+order: '064'
 collection: presentations
 ---

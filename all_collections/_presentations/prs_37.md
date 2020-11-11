@@ -9,7 +9,8 @@ host: Data Matters Data Science Short Course Series, sponsored by the National C
   for Data Science, The Odum Institute, and RENCI
 pres_date: August 1, 2018
 type: Two-day course
+grouping: extended
 pres_url: 
-order: '036'
+order: '046'
 collection: presentations
 ---

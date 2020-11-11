@@ -8,7 +8,8 @@ location: Durham, NC
 host: the Duke Center for Health Informatics Informatics Research Seminar Series
 pres_date: February 11, 2015
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '090'
+order: '113'
 collection: presentations
 ---

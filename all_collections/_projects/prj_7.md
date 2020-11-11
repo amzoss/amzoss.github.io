@@ -1,6 +1,7 @@
 ---
 pid: prj_7
 title: SciSIP Community
+sort_year: '2011'
 date_range: 
 collaborators: 
 blurb: 

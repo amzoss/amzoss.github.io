@@ -8,7 +8,8 @@ location: Durham, NC
 host: graduate Environment course on Sustainable Systems
 pres_date: February 24, 2015
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '084'
+order: '065'
 collection: presentations
 ---

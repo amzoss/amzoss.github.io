@@ -1,6 +1,7 @@
 ---
 pid: prj_11
 title: NSF Discovery in Research Portfolio
+sort_year: '2010'
 date_range: Apr. 2010 to Oct. 2010
 collaborators: Angela Zoss, Katy Börner
 blurb: NSF CISE and SBE Advisory Committees contracted several teams to act as a subcommittee

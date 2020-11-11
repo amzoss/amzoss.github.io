@@ -8,7 +8,8 @@ location: Durham, NC
 host: Bass Connections course on Effects of Shale Gas Development
 pres_date: October 19, 2015
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '077'
+order: '062'
 collection: presentations
 ---

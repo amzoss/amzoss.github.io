@@ -1,6 +1,7 @@
 ---
 pid: prj_10
 title: JobMap
+sort_year: '2010'
 date_range: Jan. 2009 to May 2010
 collaborators: Angela Zoss, Michael Conover, Katy Börner
 blurb: 'In the Job Map, job postings collected via RSS feeds are visualized geospatially

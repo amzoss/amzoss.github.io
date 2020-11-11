@@ -8,7 +8,8 @@ location: Durham, NC
 host: graduate Statistical Science course on Programming for Statistical Science
 pres_date: September 26 and 28, 2016
 type: Two-part guest lecture and activity
+grouping: guest
 pres_url: 
-order: '060'
+order: '090'
 collection: presentations
 ---

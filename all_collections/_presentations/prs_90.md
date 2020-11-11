@@ -8,7 +8,8 @@ location: Durham, NC
 host: Bass Connections course called Energy Data Analytics Lab
 pres_date: September 29, 2015
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '089'
+order: '067'
 collection: presentations
 ---

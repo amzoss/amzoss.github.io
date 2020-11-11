@@ -1,6 +1,7 @@
 ---
 pid: prj_14
 title: Imprints in the Museum
+sort_year: '2004'
 date_range: Aug. 2004 to Dec. 2004
 collaborators: 
 blurb: 

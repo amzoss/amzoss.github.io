@@ -8,7 +8,8 @@ location: Durham, NC
 host: graduate Interdisciplinary Data Science course on Data Visualization
 pres_date: February 8, 2019
 type: Guest lecture and activity
+grouping: guest
 pres_url: 
-order: '018'
+order: '079'
 collection: presentations
 ---

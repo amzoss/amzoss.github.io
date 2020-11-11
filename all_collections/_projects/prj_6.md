@@ -1,6 +1,7 @@
 ---
 pid: prj_6
 title: Growth of Bibliometrics
+sort_year: '2012'
 date_range: May to June 2012
 collaborators: 
 blurb: 

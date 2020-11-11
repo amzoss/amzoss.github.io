@@ -8,7 +8,8 @@ location: Durham, NC
 host: undergraduate Information Science + Studies course on The Googlization of Knowledge
 pres_date: November 7, 2019
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '008'
+order: '051'
 collection: presentations
 ---

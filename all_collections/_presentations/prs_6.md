@@ -8,7 +8,8 @@ location: Austin, TX
 host: 2020 Electronic Resources & Libraries Annual Conference (ER&L2020)
 pres_date: March 11, 2020
 type: Panel presentation
+grouping: conference
 pres_url: 
-order: '005'
+order: '015'
 collection: presentations
 ---

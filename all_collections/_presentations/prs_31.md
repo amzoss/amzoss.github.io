@@ -7,8 +7,9 @@ title: Introduction to Effective Data Visualization
 location: Durham, NC
 host: graduate Public Policy course called Public Policy Presentation Practicum
 pres_date: February 20, 2018
-type: guest lecture
+type: Guest lecture
+grouping: guest
 pres_url: 
-order: '030'
+order: '053'
 collection: presentations
 ---

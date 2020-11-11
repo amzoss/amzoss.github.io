@@ -8,8 +8,9 @@ location: Long Beach, CA
 host: Special Libraries Association Southern California Chapter, Professional Development
   Day
 pres_date: September 1, 2016
-type: Full-day workshop
+type: One-day workshop
+grouping: extended
 pres_url: 
-order: '067'
+order: '032'
 collection: presentations
 ---

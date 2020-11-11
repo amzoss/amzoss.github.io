@@ -9,7 +9,8 @@ host: the Data Science and Visualization Institute for Librarians, sponsored by 
   Carolina State University
 pres_date: June 1, 2018
 type: One-day course for library professionals
+grouping: extended
 pres_url: 
-order: '028'
+order: '040'
 collection: presentations
 ---

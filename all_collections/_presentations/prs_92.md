@@ -9,7 +9,8 @@ host: Bass Connections course on The University as a Laboratory for Smart Grid D
   Analytics
 pres_date: February 23, 2015
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '091'
+order: '068'
 collection: presentations
 ---

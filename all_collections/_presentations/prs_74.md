@@ -8,7 +8,8 @@ location: Durham, NC
 host: the Duke Media Arts + Sciences Rendezvous
 pres_date: January 29, 2015
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '073'
+order: '110'
 collection: presentations
 ---

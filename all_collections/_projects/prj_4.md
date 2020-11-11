@@ -1,6 +1,7 @@
 ---
 pid: prj_4
 title: FOLIO (The Future of Libraries is Open), Library Data Platform.
+sort_year: '2020'
 date_range: September 2018 to present
 collaborators: 
 blurb: "“FOLIO is a collaboration of libraries, developers and vendors building an

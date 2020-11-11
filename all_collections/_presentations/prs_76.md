@@ -8,7 +8,8 @@ location: Durham, NC
 host: Doctoral Seminar in Nursing Science
 pres_date: November 3, 2015
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '075'
+order: '061'
 collection: presentations
 ---

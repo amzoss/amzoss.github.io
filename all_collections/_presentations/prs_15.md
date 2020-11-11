@@ -8,7 +8,8 @@ location: Durham, NC
 host: DataFest Workshop Series
 pres_date: March 26, 2019
 type: Presentation
+grouping: workshop
 pres_url: 
-order: '014'
+order: '100'
 collection: presentations
 ---

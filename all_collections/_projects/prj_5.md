@@ -1,6 +1,7 @@
 ---
 pid: prj_5
 title: Mental Disorders Over Time
+sort_year: '2016'
 date_range: 
 collaborators: 
 blurb: 

@@ -8,7 +8,8 @@ location: offered online
 host: DataBytes series, sponsored by the National Consortium for Data Science
 pres_date: May 3, 2017
 type: Webinar
+grouping: conference
 pres_url: 
-order: '052'
+order: '029'
 collection: presentations
 ---

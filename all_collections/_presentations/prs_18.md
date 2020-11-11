@@ -8,7 +8,8 @@ location: Austin, TX
 host: Designing for Digital (D4D) Conference 2019
 pres_date: March 5, 2019
 type: Accepted conference presentation
+grouping: conference
 pres_url: 
-order: '017'
+order: '001'
 collection: presentations
 ---

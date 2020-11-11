@@ -57,6 +57,15 @@ vertically, or diagonally.</p>
     }
   }
 
+  function myRowFull(overlay) {
+  }
+
+  function myColFull(overlay) {
+  }
+
+  function myDiagFull(overlay) {
+  }
+
   $( document ).ready(function() {
     var allOptions = '{{ page.options | join: ","}}'.split(",")
     shuffleArray(allOptions);

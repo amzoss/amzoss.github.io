@@ -8,7 +8,8 @@ location: Durham, NC
 host: 2019 ComSciCon – Triangle Communicating Science Workshop
 pres_date: April 6, 2019
 type: Invited panel presentation
+grouping: conference
 pres_url: 
-order: '015'
+order: '011'
 collection: presentations
 ---

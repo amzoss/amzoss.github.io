@@ -7,8 +7,9 @@ title: Creating clean, effective charts and graphs
 location: Durham, NC
 host: 'MediaLab: A Research Translation Boot Camp'
 pres_date: August 21, 2014
-type: 
+type: Workshop
+grouping: workshop
 pres_url: 
-order: '095'
+order: '143'
 collection: presentations
 ---

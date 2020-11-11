@@ -8,7 +8,8 @@ location: Durham, NC
 host: undergraduate Math course called Math Everywhere
 pres_date: February 11, 2016
 type: Guest lecture and activity
+grouping: guest
 pres_url: 
-order: '061'
+order: '080'
 collection: presentations
 ---

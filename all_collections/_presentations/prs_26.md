@@ -8,8 +8,9 @@ location: Beaufort, NC
 host: Duke University Marine Lab, Research Experience for Undergraduates in Estuarine
   and Coastal Marine Systems
 pres_date: July 1, 2018
-type: Full-day workshop for undergraduates
+type: One-day workshop for undergraduates
+grouping: extended
 pres_url: 
-order: '025'
+order: '033'
 collection: presentations
 ---

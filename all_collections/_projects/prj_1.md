@@ -1,6 +1,7 @@
 ---
 pid: prj_1
 title: 'Network Visualization Literacy: Task, Context, and Layout'
+sort_year: '2018'
 date_range: Fall 2010 to Spring 2018
 collaborators: 
 blurb: My dissertation research on network visualization literacy included an opinion

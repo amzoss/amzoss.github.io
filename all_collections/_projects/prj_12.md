@@ -1,6 +1,7 @@
 ---
 pid: prj_12
 title: Evaluation of Transdisciplinary Tobacco Use Research Centers (TTURC)
+sort_year: '2010'
 date_range: Aug. 2008 to June 2010
 collaborators: David Berrigan, Annie Feng, Kara Hall, Stephen Marcus, Glen Morgan,
   Brooke Stipelman, Daniel Stokols, Amanda L. Vogel, Angela Zoss, Katy Börner

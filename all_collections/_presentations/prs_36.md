@@ -8,7 +8,8 @@ location: Chapel Hill, NC
 host: undergraduate/graduate Information and Library Science course on Visual Analytics
 pres_date: November 27, 2018
 type: Guest lecture
+grouping: guest
 pres_url: 
-order: '035'
+order: '055'
 collection: presentations
 ---
