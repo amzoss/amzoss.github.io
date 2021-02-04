@@ -6,22 +6,22 @@
       "description": "Angela M. Zoss, Ph.D.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-03T21:36:33-05:00"
+      "last_modified": "2021-02-03T22:42:38-05:00"
     },
     {
       "path": "index.html",
       "title": "Angela Zoss",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-03T21:36:35-05:00"
+      "last_modified": "2021-02-03T22:42:40-05:00"
     },
     {
       "path": "resume.html",
       "title": "Resume",
       "description": "Angela M. Zoss, Ph.D.",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-02-03T21:36:38-05:00"
+      "contents": "\n\n\n\n\n\n\n",
+      "last_modified": "2021-02-03T22:42:54-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

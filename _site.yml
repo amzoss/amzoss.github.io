@@ -6,6 +6,7 @@ description: |
 output_dir: "docs"
 base_url: https://github.com/amzoss/amzoss.github.io 
 repository_url: https://github.com/amzoss/amzoss.github.io 
+creative_commons: CC BY-SA
 navbar:
   right:
     - text: "Home"
