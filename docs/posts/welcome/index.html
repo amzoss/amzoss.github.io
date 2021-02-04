@@ -2193,14 +2193,14 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --bkgd-color:       #005C5C;
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --bkgd-color:       #005C5C;
 }
 
 /*-- Additional custom styles --*/
@@ -2394,8 +2394,12 @@ d-appendix d-footnote-list a.footnote-backlink {
 <input id="distill-search" class="nav-search hidden" type="text" placeholder="Search..."/>
 </div>
 <div class="nav-right">
-<a href="../../index.html">Home</a>
+<a href="../../about.html">About</a>
+<a href="../../blog.html">Blog</a>
 <a href="../../resume.html">Resume</a>
+<a href="../../blog.xml">
+<i class="fa fa-rss" aria-hidden="true"></i>
+</a>
 <a href="https://github.com/amzoss/amzoss.github.io" aria-label="Link to source">
 <i class="fab fa-github" aria-hidden="true"></i>
 </a>
@@ -2424,6 +2428,18 @@ d-appendix d-footnote-list a.footnote-backlink {
 <p>This site will be a place for me to gather my work and interests, and I’ll be working to add content gradually.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
+<div class="article-footer">
+  <p>
+    <div class="subscribe"><form method='post' action='https://blogtrottr.com'>
+  <p>Enjoy this blog? Get notified of new posts via email:</p>
+  <input type='text' name='btr_email' />
+  <input type='hidden' name='btr_url'
+         value='https://github.com/amzoss/amzoss.github.io/blog.xml'/>
+  <input type='hidden' name='schedule_type' value='0' />
+  <input type='submit' value='Subscribe' />
+</form></div>
+  </p>
+</div>
 <!--/radix_placeholder_article_footer-->
 </div>
 

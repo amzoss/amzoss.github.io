@@ -6,14 +6,21 @@
       "description": "Angela M. Zoss, Ph.D.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-03T22:53:37-05:00"
+      "last_modified": "2021-02-04T18:49:16-05:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "Angela Zoss",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-04T18:49:19-05:00"
     },
     {
       "path": "index.html",
       "title": "Angela Zoss",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-02-03T22:53:39-05:00"
+      "last_modified": "2021-02-04T18:49:21-05:00"
     },
     {
       "path": "resume.html",
@@ -21,7 +28,7 @@
       "description": "Angela M. Zoss, Ph.D.",
       "author": [],
       "contents": "\n\n\n\n\n\n\n\n  \n  Angela M. Zoss, Ph.D.\n    \n      \n        \n            Education\n          \n          \n            Work Experience\n          \n          \n            Publications\n            \n          \n          \n            Projects\n          \n          \n        \n      \n        Education\n        \n        Work Experience\n        \n        Publications\n        Theses\n        \n        Journal Articles\n        \n        Book Chapters\n        \n        Conference Papers\n        \n        White Papers\n        \n        Projects\n        \n        \n      \n    \n  \n\n  \n\n\n\n\n",
-      "last_modified": "2021-02-03T22:53:41-05:00"
+      "last_modified": "2021-02-04T18:49:23-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

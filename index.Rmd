@@ -1,5 +1,4 @@
 ---
 title: "Angela Zoss"
 site: distill::distill_website
-listing: posts
 ---
