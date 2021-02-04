@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "Angela M. Zoss, Ph.D.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-03T21:29:24-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Angela Zoss",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-03T21:30:28-05:00"
+    },
+    {
+      "path": "resume.html",
+      "title": "Resume",
+      "description": "Angela M. Zoss, Ph.D.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-02-03T21:29:29-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

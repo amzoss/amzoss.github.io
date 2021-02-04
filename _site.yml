@@ -1,0 +1,17 @@
+name: "distill-blog"
+title: "Angela Zoss"
+theme: theme.css
+description: |
+  Angela Zoss's Personal Website
+output_dir: "docs"
+base_url: https://github.com/amzoss/amzoss.github.io 
+repository_url: https://github.com/amzoss/amzoss.github.io 
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+  search: true
+  source_url: true
+output: distill::distill_article
