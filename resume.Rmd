@@ -8,7 +8,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r}
+```{r, eval=F}
 
 # NOTE: this works when I want to generate static files, but doesn't
 # give me a live feed from Google
@@ -41,5 +41,10 @@ names(all_sheets) <- names
     
 
 
+```
+
+```{r}
+library(htmltools)
+htmltools::includeHTML("webresume.html")
 ```
 
