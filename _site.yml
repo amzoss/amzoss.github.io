@@ -5,7 +5,7 @@ description: |
   A place to share projects and posts.
 output_dir: "docs"
 exclude: ["webresume.html", "*.csv"]
-base_url: https://github.com/amzoss/amzoss.github.io 
+base_url: https://amzoss.github.io/
 repository_url: https://github.com/amzoss/amzoss.github.io 
 creative_commons: CC BY-SA
 navbar:
