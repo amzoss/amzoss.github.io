@@ -6,3 +6,5 @@ Gemfile.lock
 package-lock.json
 .Rproj.user
 *.Rproj
+.Rhistory
+runAfterBuild.R
