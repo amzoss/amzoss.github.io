@@ -54,7 +54,65 @@
       sectionId: 'proj',
       rowFunction: 'projRow',
       itemFormat: 'ul'
+    },
+    {
+      title: 'Certification',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/9/public/values?alt=json',
+      sectionId: 'cert',
+      rowFunction: 'certRow',
+      itemFormat: 'ul'
+    },
+    {
+      title: 'Tools',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/10/public/values?alt=json',
+      sectionId: 'skills',
+      rowFunction: 'skillsRow',
+      itemFormat: 'ul'
+    },
+        {
+      title: 'Awards',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/11/public/values?alt=json',
+      sectionId: 'awards',
+      rowFunction: 'awardsRow',
+      itemFormat: 'ul'
+    },
+    {
+      title: 'ConferencePres',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/12/public/values?alt=json',
+      sectionId: 'presentations',
+      rowFunction: 'presRow',
+      itemFormat: 'ul'
+    },
+    {
+      title: 'Extended',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/13/public/values?alt=json',
+      sectionId: 'long-workshops',
+      rowFunction: 'presRow',
+      itemFormat: 'ul'
+    },
+    {
+      title: 'Guest',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/14/public/values?alt=json',
+      sectionId: 'lectures',
+      rowFunction: 'presRow',
+      itemFormat: 'ul'
+    },
+    {
+      title: 'Semester',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/15/public/values?alt=json',
+      sectionId: 'courses',
+      rowFunction: 'presRow',
+      itemFormat: 'ul'
+    },
+    {
+      title: 'Workshop',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/16/public/values?alt=json',
+      sectionId: 'workshops',
+      rowFunction: 'presRow',
+      itemFormat: 'ul'
     }
+
+
   ]
 
 // TODO: add section title to data object and pass it through to genBuild?
@@ -301,5 +359,71 @@
     return output;
 
   }
+  
+  function certRow(row) {
 
+    return row.gsx$certification.$t;
+
+  }
+  
+  function skillsRow(row) {
+
+    return "<b>" + row.gsx$grouping.$t + "</b>: " + row.gsx$toolslist.$t;
+
+  }
+  
+  function awardsRow(row) {
+
+    //add in logic for when there's no data in pages, publisher, placePublished
+
+    if (row.gsx$awdurl.$t != "") {
+      var title = "<a href='" + row.gsx$awdurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    }
+    else {
+      var title = row.gsx$title.$t;
+    }
+
+    var authors = row.gsx$author.$t;
+
+    var output = authors
+    + (authors.charAt(authors.length-1) == "." ? "" : ".")
+    + " ("
+    + row.gsx$year.$t + "). <b>"
+    + title
+    + "</b>. "
+    + row.gsx$description.$t
+    + ". "
+    + row.gsx$location.$t
+    + ". Won “"
+    + row.gsx$award.$t
+    + "” award.";
+
+    return output;
+
+  }
+
+function presRow(row) {
+
+  if (row.gsx$presurl.$t != "") {
+      var title = "<a href='" + row.gsx$presurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    }
+    else {
+      var title = row.gsx$title.$t;
+    }
+
+    var authors = row.gsx$authors.$t;
+
+    var output = authors
+    + (authors.charAt(authors.length-1) == "." ? "" : ".")
+    + " (" + row.gsx$presdate.$t + "). <b>" + title + "</b>. " +
+    row.gsx$type.$t + " at " + row.gsx$host.$t + "</i>, " + row.gsx$location.$t + ".";
+
+    return output;
+    
+
+  }
+
+
+
+    
   document.addEventListener('DOMContentLoaded', init)

@@ -2,3 +2,21 @@
 title: "Angela Zoss"
 site: distill::distill_website
 ---
+
+## Select Projects
+
+### [Visualization for Data Science in R](https://github.com/amzoss/RVis-DM2019)
+
+A two-day course on Visualization for Data Science in R, offered during [Data Matters](http://datamatters.org/) 2019.
+
+### [Teach Viz By Example](https://github.com/visualizingthefuture/examples-repository)
+
+A space for the data visualization teaching community to find, share, and contribute exemplary data visualizations + visualization-ready datasets.
+
+### [FOLIO analytics](https://github.com/folio-org/folio-analytics)
+
+A repository of reports and other analytics developed for FOLIO and designed to run on the [Library Data Platform](https://github.com/library-data-platform/ldp).
+
+### [Duke Libraries Journal Usage Dashboard](https://github.com/amzoss/journal_dashboard)
+
+R scripts to prepare journal usage data and generate a dashboard.
