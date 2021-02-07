@@ -7,7 +7,39 @@
     <description>A place to share projects and posts.
 </description>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Library Data Platform Query Development</title>
+      <link>https://www.angelazoss.com/projects/library-data-platform-query-development</link>
+      <description>September 2018 to present</description>
+      <guid>https://www.angelazoss.com/projects/library-data-platform-query-development</guid>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/library-data-platform-query-development/FOLIO_Logo.png" medium="image" type="image/png" width="580" height="322"/>
+    </item>
+    <item>
+      <title>Visualizing the Future</title>
+      <link>https://www.angelazoss.com/projects/visualizing-the-future</link>
+      <description>May 2017 to present</description>
+      <guid>https://www.angelazoss.com/projects/visualizing-the-future</guid>
+      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/visualizing-the-future/bowtie8d.png" medium="image" type="image/png" width="3780" height="3418"/>
+    </item>
+    <item>
+      <title>Breaking the Bundle</title>
+      <link>https://www.angelazoss.com/projects/breaking-the-bundle</link>
+      <description>November 2018 to March 2020</description>
+      <guid>https://www.angelazoss.com/projects/breaking-the-bundle</guid>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/breaking-the-bundle/study-2053811.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Network Visualization Literacy: Task, Context, and Layout</title>
+      <link>https://www.angelazoss.com/projects/network-visualization-literacy</link>
+      <description>Fall 2010 to Spring 2018</description>
+      <guid>https://www.angelazoss.com/projects/network-visualization-literacy</guid>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/network-visualization-literacy/netvislit-red-01.png" medium="image" type="image/png" width="720" height="569"/>
+    </item>
     <item>
       <title>Mental Disorders Over Time</title>
       <link>https://www.angelazoss.com/projects/mental-disorders-over-time</link>
