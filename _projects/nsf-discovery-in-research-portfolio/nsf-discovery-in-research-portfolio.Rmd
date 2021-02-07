@@ -1,0 +1,23 @@
+---
+title: "NSF Discovery in Research Portfolio"
+description: |
+  April 2010 to October 2010
+date: 10-01-2010
+base_url: https://www.angelazoss.com/projects/nsf-discovery-in-research-portfolio
+preview: NSF-MRI-Scimap-01.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](NSF-MRI-Scimap-01.png){width=50%}
+
+*Collaborators: Angela Zoss, Katy Börner*
+
+NSF CISE and SBE Advisory Committees contracted several teams to act as a subcommittee and help in identifying tools and approaches that would be effective for proposal analysis in order to better support Program Officers in short-term and long-term goals.
+
+[White paper](http://ivl.slis.indiana.edu/km/pub/2010-borner-zoss-sbe-evolvepop.pdf)

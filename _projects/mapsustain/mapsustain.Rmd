@@ -1,0 +1,21 @@
+---
+title: "MapSustain"
+description: |
+  January 2010 to December 2010
+date: 12-01-2010
+base_url: https://www.angelazoss.com/projects/mapsustain
+preview: mapsustain-scimap.png 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](mapsustain-scimap.png){width=50%}
+
+*Collaborators: Chin Hua Kong, Nianli Ma, Michael J. Stamper, Angela Zoss, Katy Börner*
+
+[MapSustain](http://mapsustain.cns.iu.edu/), building off the [Job Map](http://angelazoss.com/?/projects/jobmap/), visualizes funding, publication, and patent data related to sustainability research on linked geospatial and topic maps.

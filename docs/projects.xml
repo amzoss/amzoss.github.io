@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Angela Zoss</title>
+    <link>https://www.angelazoss.com</link>
+    <atom:link href="https://www.angelazoss.com/projects.xml" rel="self" type="application/rss+xml"/>
+    <description>A place to share projects and posts.
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Mental Disorders Over Time</title>
+      <link>https://www.angelazoss.com/projects/mental-disorders-over-time</link>
+      <description>June 2014 to January 2016</description>
+      <guid>https://www.angelazoss.com/projects/mental-disorders-over-time</guid>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/mental-disorders-over-time/mental_disability-01.png" medium="image" type="image/png" width="3529" height="2083"/>
+    </item>
+    <item>
+      <title>PubMed Diseases</title>
+      <link>https://www.angelazoss.com/projects/pubmed-diseases</link>
+      <description>January 2014 to June 2014</description>
+      <guid>https://www.angelazoss.com/projects/pubmed-diseases</guid>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/pubmed-diseases/WebSci14-poster.png" medium="image" type="image/png" width="800" height="566"/>
+    </item>
+    <item>
+      <title>Growth of Bibliometrics</title>
+      <link>https://www.angelazoss.com/projects/growth-of-bibliometrics</link>
+      <description>May to June 2012</description>
+      <guid>https://www.angelazoss.com/projects/growth-of-bibliometrics</guid>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/growth-of-bibliometrics/Figure9.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>SciSIP Community</title>
+      <link>https://www.angelazoss.com/projects/scisip-community</link>
+      <description>December 2010 to January 2012</description>
+      <guid>https://www.angelazoss.com/projects/scisip-community</guid>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/scisip-community/scisipprogramnetwork_final.png" medium="image" type="image/png" width="3038" height="1787"/>
+    </item>
+    <item>
+      <title>Updating Maps of Science</title>
+      <link>https://www.angelazoss.com/projects/updating-maps-of-science</link>
+      <description>Jan. 2011 to July 2011</description>
+      <guid>https://www.angelazoss.com/projects/updating-maps-of-science</guid>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/updating-maps-of-science/updating-ucsd.png" medium="image" type="image/png" width="1477" height="824"/>
+    </item>
+    <item>
+      <title>MapSustain</title>
+      <link>https://www.angelazoss.com/projects/mapsustain</link>
+      <description>January 2010 to December 2010</description>
+      <guid>https://www.angelazoss.com/projects/mapsustain</guid>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/mapsustain/mapsustain-scimap.png" medium="image" type="image/png" width="664" height="455"/>
+    </item>
+    <item>
+      <title>NSF Discovery in Research Portfolio</title>
+      <link>https://www.angelazoss.com/projects/nsf-discovery-in-research-portfolio</link>
+      <description>April 2010 to October 2010</description>
+      <guid>https://www.angelazoss.com/projects/nsf-discovery-in-research-portfolio</guid>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/nsf-discovery-in-research-portfolio/NSF-MRI-Scimap-01.png" medium="image" type="image/png" width="492" height="187"/>
+    </item>
+    <item>
+      <title>Evaluation of Transdisciplinary Tobacco Use Research Centers (TTURC)</title>
+      <link>https://www.angelazoss.com/projects/evaluation-of-transdisciplinary-tobacco-use-research-centers-tturc</link>
+      <description>August 2008 to June 2010</description>
+      <guid>https://www.angelazoss.com/projects/evaluation-of-transdisciplinary-tobacco-use-research-centers-tturc</guid>
+      <pubDate>Tue, 01 Jun 2010 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/evaluation-of-transdisciplinary-tobacco-use-research-centers-tturc/tturc.png" medium="image" type="image/png" width="544" height="648"/>
+    </item>
+    <item>
+      <title>Job Mapping</title>
+      <link>https://www.angelazoss.com/projects/job-mapping</link>
+      <description>January 2009 to May 2010</description>
+      <guid>https://www.angelazoss.com/projects/job-mapping</guid>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/job-mapping/jobmap-geo.png" medium="image" type="image/png" width="973" height="547"/>
+    </item>
+    <item>
+      <title>Master’s Thesis – Sandbox</title>
+      <link>https://www.angelazoss.com/projects/masters-thesis-sandbox</link>
+      <description>January 2006 to May 2008</description>
+      <guid>https://www.angelazoss.com/projects/masters-thesis-sandbox</guid>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/masters-thesis-sandbox/sandbox.jpg" medium="image" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Imprints in the Museum</title>
+      <link>https://www.angelazoss.com/projects/imprints-in-the-museum</link>
+      <description>August 2004 to December 2004</description>
+      <guid>https://www.angelazoss.com/projects/imprints-in-the-museum</guid>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <media:content url="https://www.angelazoss.com/projects/imprints-in-the-museum/imprints.jpg" medium="image" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

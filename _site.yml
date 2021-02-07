@@ -5,7 +5,7 @@ description: |
   A place to share projects and posts.
 output_dir: "docs"
 exclude: ["webresume.html", "*.csv"]
-base_url: https://amzoss.github.io/
+base_url: https://www.angelazoss.com
 repository_url: https://github.com/amzoss/amzoss.github.io 
 creative_commons: CC BY-SA
 navbar:
@@ -14,7 +14,9 @@ navbar:
       href: about.html
     - text: "Blog"
       href: blog.html
-    - text: "Resume"
+    - text: "Projects"
+      href: projects.html
+    - text: "Résumé"
       href: resume.html
     - icon: fa fa-rss
       href: blog.xml  
@@ -24,3 +26,8 @@ output: distill::distill_article
 collections:
   posts:
     subscribe: _subscribe.html
+  projects:
+    categories: true
+    categories_metadata: true
+    authors_metadata: false
+    citation_metadata: false

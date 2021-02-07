@@ -1,23 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>https://amzoss.github.io/about.html</loc>
+    <loc>https://www.angelazoss.com/about.html</loc>
     <lastmod>2021-02-04T22:36:10-05:00</lastmod>
   </url>
   <url>
-    <loc>https://amzoss.github.io/blog.html</loc>
+    <loc>https://www.angelazoss.com/blog.html</loc>
     <lastmod>2021-02-04T22:22:44-05:00</lastmod>
   </url>
   <url>
-    <loc>https://amzoss.github.io/</loc>
-    <lastmod>2021-02-04T23:15:01-05:00</lastmod>
+    <loc>https://www.angelazoss.com/</loc>
+    <lastmod>2021-02-05T19:50:34-05:00</lastmod>
   </url>
   <url>
-    <loc>https://amzoss.github.io/resume.html</loc>
+    <loc>https://www.angelazoss.com/projects.html</loc>
+    <lastmod>2021-02-05T19:28:25-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/resume.html</loc>
     <lastmod>2021-02-04T23:01:13-05:00</lastmod>
   </url>
   <url>
-    <loc>https://amzoss.github.io/posts/welcome/</loc>
+    <loc>https://www.angelazoss.com/posts/welcome/</loc>
     <lastmod>2021-02-03T21:15:41-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/mental-disorders-over-time/</loc>
+    <lastmod>2021-02-07T00:56:22-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/pubmed-diseases/</loc>
+    <lastmod>2021-02-07T00:58:11-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/growth-of-bibliometrics/</loc>
+    <lastmod>2021-02-07T00:51:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/scisip-community/</loc>
+    <lastmod>2021-02-07T01:12:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/updating-maps-of-science/</loc>
+    <lastmod>2021-02-07T01:12:51-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/mapsustain/</loc>
+    <lastmod>2021-02-07T00:54:13-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/nsf-discovery-in-research-portfolio/</loc>
+    <lastmod>2021-02-07T00:57:23-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/evaluation-of-transdisciplinary-tobacco-use-research-centers-tturc/</loc>
+    <lastmod>2021-02-07T00:50:58-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/job-mapping/</loc>
+    <lastmod>2021-02-07T00:53:06-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/masters-thesis-sandbox/</loc>
+    <lastmod>2021-02-07T00:55:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.angelazoss.com/projects/imprints-in-the-museum/</loc>
+    <lastmod>2021-02-07T00:52:35-05:00</lastmod>
   </url>
 </urlset>

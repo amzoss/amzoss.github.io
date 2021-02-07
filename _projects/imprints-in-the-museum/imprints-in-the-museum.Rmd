@@ -1,0 +1,21 @@
+---
+title: "Imprints in the Museum"
+description: |
+  August 2004 to December 2004
+date: 12-01-2004
+base_url: https://www.angelazoss.com/projects/imprints-in-the-museum
+preview: imprints.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<video width="320" height="240" src="chimovie.mov" controls>
+![](imprints.jpg)
+</video>
+

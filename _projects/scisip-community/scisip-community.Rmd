@@ -1,0 +1,19 @@
+---
+title: "SciSIP Community"
+description: |
+  December 2010 to January 2012
+date: 01-01-2012
+base_url: https://www.angelazoss.com/projects/scisip-community
+preview: scisipprogramnetwork_final.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](scisipprogramnetwork_final.png){width=50%}
+
+Angela M. Zoss, Katy Börner. (2012). Mapping interactions within the evolving science of science and innovation policy community, Scientometrics 91(2), p. 631-644, Springer Netherlands, [url](http://link.springer.com/10.1007/s11192-011-0574-8), [doi:10.1007/s11192-011-0574-8](http://dx.doi.org/10.1007/s11192-011-0574-8)
