@@ -14,6 +14,20 @@
     "preview_height": 322
   },
   {
+    "path": "projects/reviewing-library-data-privacy-and-retention-practices/",
+    "title": "Reviewing Library Data Privacy and Retention Practices",
+    "description": "September 2018 to present",
+    "author": [],
+    "date": "2021-02-07",
+    "categories": [],
+    "contents": "\nSummary of library systems that interact with patron dataA multi-year effort to review and improve how the Duke University Libraries approach the collection, retention, and analysis of patron data.\nResponsibilities\nRepresented the Duke University Libraries at the September 2018 National Web Privacy Forum at Montana State University Library\nWith Joyce Chapman, conducted an audit of Duke’s data systems and practices\nChaired Data Privacy and Retention Task Force, guiding efforts to compose a statement on Duke University Libraries’ priorities and principles related to patron privacy\nProject Outcomes\nForzetting, Sarah, Sidman, Angela and Zoss, Angela M. (March 11, 2020). Protecting patron privacy - what are the issues and what can we do?. Panel presentation at 2020 Electronic Resources & Libraries Annual Conference (ER&L2020), Austin, TX.\nChapman, Joyce and Zoss, Angela M. (February 27, 2020). DUL Data Privacy & Retention Audit. Presentation at Duke University Libraries – Open Forum, Durham, NC.\nChapman, Joyce and Zoss, Angela M. (2020). Duke Libraries Data Privacy and Retention Audit Report. Public report on the results of a data privacy and retention audit conducted at Duke University Libraries in the fall of 2019.\nZoss, Angela M. (2018). Participant, National Web Privacy Forum. Bozeman, MT.\n\n\n\n",
+    "preview": "projects/reviewing-library-data-privacy-and-retention-practices/data_audit.png",
+    "last_modified": "2021-02-13T22:03:42-05:00",
+    "input_file": {},
+    "preview_width": 635,
+    "preview_height": 510
+  },
+  {
     "path": "projects/visualizing-the-future/",
     "title": "Visualizing the Future",
     "description": "May 2017 to present",
@@ -28,6 +42,20 @@
     "preview_height": 3418
   },
   {
+    "path": "projects/print-collections-circulation-dashboard/",
+    "title": "Print Collections Circulation Dashboard",
+    "description": "April 2020 to October 2020",
+    "author": [],
+    "date": "2020-10-01",
+    "categories": [],
+    "contents": "\nPrimary Tableau dashboardAnalyzing usage of print materials is important for collection development, but the need for many years of data, and the plurality and variability of some data attributes, makes analysis challenging. In a cooperative effort between Collection Strategy and Development and Assessment and User Experience, Duke has developed a tool for exploring circulation of printed books. The resulting Tableau visualization allows high-level views and filtering by LC class, method of acquisition, year of acquisition, and language. Filtered views also allow users to download more comprehensive data for further analysis offline.\nResponsibilities\nServe as technical lead for project\nAssist with requirements gathering and user feedback sessions\nEvaluate and select technical solutions for project requirements\nBuild and test data processing workflow\nBuild and test dashboard and download interface\nContribute to project use and maintenance documentation\nProject Outcomes\nKosokoff, Jeff & Zoss, Angela. (2020). Print Circs! A tool to inform understanding of 10 years of print acquisitions at Duke. Presentation at 2020 TRLN Annual Meeting, virtual.\nAdditional Project Views\nCustom download interfaceTableau Prep Builder workflow\n\n\n",
+    "preview": "projects/print-collections-circulation-dashboard/dashboard.png",
+    "last_modified": "2021-02-13T20:39:38-05:00",
+    "input_file": {},
+    "preview_width": 997,
+    "preview_height": 795
+  },
+  {
     "path": "projects/breaking-the-bundle/",
     "title": "Breaking the Bundle",
     "description": "November 2018 to March 2020",
@@ -38,6 +66,34 @@
     "preview": "projects/breaking-the-bundle/study-2053811.jpg",
     "last_modified": "2021-02-07T15:17:07-05:00",
     "input_file": {}
+  },
+  {
+    "path": "projects/redesigning-library-wayfinding-and-signage/",
+    "title": "Redesigning Library Wayfinding and Signage",
+    "description": "November 2018 to July 2019",
+    "author": [],
+    "date": "2019-07-01",
+    "categories": [],
+    "contents": "\nLost patrons in the libraryAs a response to repeated feedback from patrons and staff about difficulties navigating our library spaces, Duke University Libraries undertook a study to explore patron wayfinding patterns. The study gathered data about patron wayfinding issues by surveying library staff – a recognition that small-scale observational studies and self-reported concerns via patron surveys would result in only a small number of the situations where patrons frequently have trouble with navigation. The survey asked staff to report areas of our building where patrons typically find themselves lost and what location they are trying to find. Results of this survey were synthesized into a report making general recommendations about how to improve signage and wayfinding. A project to redesign signage in response to these findings is underway.\nResponsibilities\nDesign, conduct, and analyze staff survey\nSummarize survey results in internal reports\nServe as project lead for implementation of suggestions\nDevelop proposal for building improvements, including phased and tiered project options\nOffer advice on related local graphic design work\nProject Outcomes\nInternal whitepaper (May 2019) and addendum (July 2019)\nZoss, Angela M. (December 2019). Where do patrons get lost? A study of library navigation.. Blog post.\nAdditional Project Views\nSimple diagram of building connectionsSummary of survey findings\n\n\n",
+    "preview": "projects/redesigning-library-wayfinding-and-signage/Perkins2.png",
+    "last_modified": "2021-02-13T21:10:44-05:00",
+    "input_file": {},
+    "preview_width": 1090,
+    "preview_height": 768
+  },
+  {
+    "path": "projects/visualizing-manuscript-metadata/",
+    "title": "Visualizing Manuscript Metadata",
+    "description": "March 2019 to July 2019",
+    "author": [],
+    "date": "2019-07-01",
+    "categories": [],
+    "contents": "\nTableau dashboard for visualizing manuscript data, including term co-occurrence networkA project to process and visualize metadata from manuscript collections being considered for a re-description project.\nResponsibilities\nProcessed manuscript metadata into a simple tabular format to facilitate manual keyword select\nUsed manually selected keywords to further process metadata into a term co-occurrence network\nCreated interactive dashboard combining tabular views of metadata with term co-occurrence network\nProject Outcomes\nLyon, Meghan and Zoss, Angela M. (July 11, 2019). Exploring and Visualizing Manuscript Metadata for Project Prioritization. Presentation at 2019 TRLN Annual Meeting, Chapel Hill, NC.\n\n\n\n",
+    "preview": "projects/visualizing-manuscript-metadata/manuscript_dashboard.png",
+    "last_modified": "2021-02-13T22:33:44-05:00",
+    "input_file": {},
+    "preview_width": 1004,
+    "preview_height": 845
   },
   {
     "path": "projects/network-visualization-literacy/",
@@ -60,9 +116,9 @@
     "author": [],
     "date": "2016-01-01",
     "categories": [],
-    "contents": "\n\nInna Kouper, Angela Zoss, Trevor Edelblute, Michael Boyles, Hamid Ekbia. (2016). Mental Disorders Over Time: A Dictionary-Based Approach to the Analysis of Knowledge Domains, iConference 2016 Proceedings, iSchools, url, doi:10.9776/16303\n\n\n\n",
+    "contents": "\n\nEvery decade brings changes in the perceptions of normal in mental health, as well as in how abnormal is labeled, understood, and dealt with. Neurosis, hysteria, and homosexuality are just a few examples of such changes. The shifts in terminology and classifications reflect our continuous struggle with social representations and treatment of the “other.” How could we best understand mental illness categorizations and become aware of their changes over time? In this paper, we seek to address this and other questions by applying an automated dictionary-based classification approach to the analysis of relevant research literature over time. We propose to examine the domain of mental health literature with an iterative workflow that combines large-scale data, an automated classifier, and visual analytics. We report on the early results of our analysis and discuss challenges and opportunities of using the workflow in domain analysis over time.\nResponsibilities\ncreated text analysis scripts in python to identify disorder terms in paper titles\nvisualized processed output using Tableau and Raw\nco-authored paper on results\nProject Outcomes\nInna Kouper, Angela Zoss, Trevor Edelblute, Michael Boyles, Hamid Ekbia. (2016). Mental Disorders Over Time: A Dictionary-Based Approach to the Analysis of Knowledge Domains, iConference 2016 Proceedings, iSchools, url, doi:10.9776/16303\n\n\n\n",
     "preview": "projects/mental-disorders-over-time/mental_disability-01.png",
-    "last_modified": "2021-02-07T00:56:22-05:00",
+    "last_modified": "2021-02-13T22:53:39-05:00",
     "input_file": {},
     "preview_width": 3529,
     "preview_height": 2083
@@ -88,9 +144,9 @@
     "author": [],
     "date": "2012-07-01",
     "categories": [],
-    "contents": "\n\nAngela Zoss. (2012). Seeding a field: The growth of bibliometrics through co-authorship ties, Bulletin of the American Society for Information Science and Technology, 38(6), p. 29-32, Wiley Subscription Services, Inc., A Wiley Company, url, doi:10.1002/bult.2012.1720380608\n\n\n\n",
+    "contents": "\n\n“Angela Zoss applies the latest visualization techniques to the co‐authorship patterns of a handful of ASIS&T award winners who have shaped the field of bibliometrics and scholarly communication. This provides not only a historical overview for the perspective of these canonical authors, but also serves to highlight the importance of visualization in metric‐related research.” Milojević & Sugimoto, 2012\nProject Outcomes\nAngela Zoss. (2012). Seeding a field: The growth of bibliometrics through co-authorship ties, Bulletin of the American Society for Information Science and Technology, 38(6), p. 29-32, Wiley Subscription Services, Inc., A Wiley Company, url, doi:10.1002/bult.2012.1720380608\n\n\n\n",
     "preview": "projects/growth-of-bibliometrics/Figure9.jpg",
-    "last_modified": "2021-02-07T00:51:18-05:00",
+    "last_modified": "2021-02-13T23:31:51-05:00",
     "input_file": {}
   },
   {
@@ -100,9 +156,9 @@
     "author": [],
     "date": "2012-01-01",
     "categories": [],
-    "contents": "\n\nAngela M. Zoss, Katy Börner. (2012). Mapping interactions within the evolving science of science and innovation policy community, Scientometrics 91(2), p. 631-644, Springer Netherlands, url, doi:10.1007/s11192-011-0574-8\n\n\n\n",
+    "contents": "\n\nThe Science of Science and Innovation Policy (SciSIP) program at the National Science Foundation (NSF) supports research designed to advance the scientific basis of science and innovation policy. The program was established at NSF in 2005 in response to a call from Dr. John Marburger III, then science advisor to the U.S. President, for a “science” of science policy. As of January 2011, it has co-funded 162 awards that aim to develop, improve, and expand data, analytical tools, and models that can be directly applied in the science policy decision making process. The long-term goals of the SciSIP program are to provide a scientifically rigorous and quantitative basis for science policy and to establish an international community of practice. The program has an active listserv that, as of January 2011, has almost 700 members from academia, government, and industry. This study analyzed all SciSIP awards (through January 2011) to identify existing collaboration networks and co-funding relations between SciSIP and other areas of science. In addition, listserv data was downloaded and analyzed to derive complementary discourse information. Key results include evidence of rich diversity in communication and funding networks and effective strategies for interlinking researcher and science policy makers, prompting discussion, and resource sharing.\nResponsibilities\nWith support from advisor, conducted all analyses and created all visualizations related to this project\nCo-authored article and presentation on work\nProject Outcomes\nAngela M. Zoss, Katy Börner. (2012). Mapping interactions within the evolving science of science and innovation policy community, Scientometrics 91(2), p. 631-644, Springer Netherlands, url, doi:10.1007/s11192-011-0574-8\nZoss, Angela M. and Börner, Katy. (July 6, 2011). Mapping interactions within the evolving Science of Science and Innovation Policy community. Accepted presentation at 13th International Society of Scientometrics and Informetrics (ISSI) conference, Durban, South Africa.\n\n\n\n",
     "preview": "projects/scisip-community/scisipprogramnetwork_final.png",
-    "last_modified": "2021-02-07T01:12:18-05:00",
+    "last_modified": "2021-02-13T22:58:44-05:00",
     "input_file": {},
     "preview_width": 3038,
     "preview_height": 1787
@@ -114,9 +170,9 @@
     "author": [],
     "date": "2011-07-01",
     "categories": [],
-    "contents": "\n\nCollaborators: Richard Klavans, Michael Patek, Joseph Biberstine, Vincent Larivière, Kevin W. Boyack, Katy Börner, Angela Zoss\nRecent research has explored how extant maps of science can be systematically and usefully updated to reflect the constantly evolving environment of science.\nBörner, K., Klavans, R., Patek, M., Zoss, A. M., Biberstine, J. R., Light, R. P., Larivière, V., & Boyack, K. W. (2012). Design and update of a classification system: The UCSD Map of Science. PLoS ONE, 7(7), e39464.\n\n\n\n",
+    "contents": "\n\nCollaborators: Richard Klavans, Michael Patek, Joseph Biberstine, Vincent Larivière, Kevin W. Boyack, Katy Börner, Angela Zoss\nGlobal maps of science can be used as a reference system to chart career trajectories, the location of emerging research frontiers, or the expertise profiles of institutes or nations. This paper details data preparation, analysis, and layout performed when designing and subsequently updating the UCSD map of science and classification system.\nResponsibilities\ncontributed materially to calculations and visualization output related to updating the map of science\nProject Outcomes\nBörner, K., Klavans, R., Patek, M., Zoss, A. M., Biberstine, J. R., Light, R. P., Larivière, V., & Boyack, K. W. (2012). Design and update of a classification system: The UCSD Map of Science. PLoS ONE, 7(7), e39464.\n\n\n\n",
     "preview": "projects/updating-maps-of-science/updating-ucsd.png",
-    "last_modified": "2021-02-07T01:12:51-05:00",
+    "last_modified": "2021-02-13T23:11:01-05:00",
     "input_file": {},
     "preview_width": 1477,
     "preview_height": 824
@@ -128,9 +184,9 @@
     "author": [],
     "date": "2010-12-01",
     "categories": [],
-    "contents": "\n\nCollaborators: Chin Hua Kong, Nianli Ma, Michael J. Stamper, Angela Zoss, Katy Börner\nMapSustain, building off the Job Map, visualizes funding, publication, and patent data related to sustainability research on linked geospatial and topic maps.\n\n\n\n",
+    "contents": "\n\nCollaborators: Chin Hua Kong, Nianli Ma, Michael J. Stamper, Angela Zoss, Katy Börner\nMapSustain, building off the Job Map, visualizes funding, publication, and patent data related to sustainability research on linked geospatial and topic maps.\nProject Outcomes\nStamper, Michael J., Kong, Chin Hua, Ma, Nianli, Zoss, Angela M. and Börner, Katy. (2011). MAPSustain: Visualising biomass and biofuel research. Paper presented at Making Visible the Invisible: Art, Design and Science in Data Visualization, University of Huddersfield, United Kingdom.\n\n\n\n",
     "preview": "projects/mapsustain/mapsustain-scimap.png",
-    "last_modified": "2021-02-07T00:54:13-05:00",
+    "last_modified": "2021-02-13T23:12:24-05:00",
     "input_file": {},
     "preview_width": 664,
     "preview_height": 455
@@ -170,9 +226,9 @@
     "author": [],
     "date": "2010-05-01",
     "categories": [],
-    "contents": "\n\nCollaborators: Angela Zoss, Michael Conover, Katy Börner\nIn the Job Map, job postings collected via RSS feeds are visualized geospatially and topically (overlaid on a Map of Science). Also accepted as a map to the Places & Spaces: Mapping Science exhibit, 6th iteration (U.S. Job Market map).\n\n\n\n",
+    "contents": "\n\nCollaborators: Angela Zoss, Michael Conover, Katy Börner\nIn the Job Map, job postings collected via RSS feeds are visualized geospatially and topically (overlaid on a Map of Science). Also accepted as a map to the Places & Spaces: Mapping Science exhibit, 6th iteration (U.S. Job Market map).\nProject Outcomes\nZoss, Angela M., Conover, Michael and Börner, Katy. (2010). Where Are the Academic Jobs? Interactive Exploration of Job Advertisements in Geospatial and Topical Space. In Chai, S.-K., Salerno, J. and Mabry, P. L. (Eds.), Advances in Social Computing: Third International Conference on Social Computing, Behavioral Modeling and Prediction, SBP10 (pp. 238-247). Bethesda, MD: Springer. doi:[10.1007/978-3-642-12079-4_30](https://dx.doi.org/10.1007/978-3-642-12079-4_30)\n\n\n\n",
     "preview": "projects/job-mapping/jobmap-geo.png",
-    "last_modified": "2021-02-07T00:53:06-05:00",
+    "last_modified": "2021-02-13T23:14:56-05:00",
     "input_file": {},
     "preview_width": 973,
     "preview_height": 547
@@ -184,9 +240,9 @@
     "author": [],
     "date": "2008-05-01",
     "categories": [],
-    "contents": "\n\n\n\n\n",
+    "contents": "\n\nThe values present both in modern organizations and in research on these organizations reflect the organizational culture that has developed gradually over time. For example, research on organizations regularly focuses on the aspects of work that can be most easily quantified, such as the hierarchy within the organization or the physical arrangement of the office. Less defined aspects of organizations, such as the support for visibility and reflection, are more difficult to study and potentially less valued by the organizational culture. Similarly, the scientific management movement that spurred the Industrial Revolution is a very visible example of the high value that has been assigned to quantifiable efficiency within the workplace itself. Though the scientific management movement was soon contradicted by findings that showed the importance of psychological factors such as individual recognition, the ultimate response within organizations was to quantify additional aspects of the work environment, to varying degrees of success. The values that give efficiency and quantification this prominence in the workplace and in organizational research also impact the design and use of computing technology in the workplace. Computing has become a significant element in the modern organization, but the accepted role for computing technologies is often restricted to the automation of analytic tasks formerly accomplished by workers. In this way, computing technology becomes a surrogate for a human brain, attempting to model the way a specific type of work has traditionally been done. The mental processes involved in work, however, are not simply analytical. David Levy (2005) contends that the excess of information available for analysis in contemporary work environments cannot be meaningfully processed without allowing workers time for reflection and contemplation. This time may help workers draw connections that are still difficult for computers, or it may provide workers with opportunities for collaboration and diversification. The elevation of the importance of visibility and reflection within the workplace may have more success if undertaken in conjunction with the installation of technology designed for this purpose. Because current organizational studies typically omit activities with complex motivations, initial studies on the subject must gather data for the purpose of grounded (inductive) theory generation. The study described herein addresses traditional organizational research topics as well as the presence and use of non-task-based activities in the workplace. The study takes a broad look at a university department encompassing approximately 60 individuals, utilizing surveys and interviews to collect a variety of background information. As an additional intervention, a prototype technology devise with ludic intentions was introduced to the department, and its use provided further insight into the role of technology in the workplace. Ultimately, a series of testable hypotheses are proposed to guide further research into visibility and reflection in the workplace.\nZoss, Angela M. (2008). From Measure to Leisure: Extending Theory on Technology in the Workplace (Master’s thesis). Supervised by Dr. Geri Gay. Department of Communication, Cornell University: Ithaca, NY.\n\n\n\n",
     "preview": "projects/masters-thesis-sandbox/sandbox.jpg",
-    "last_modified": "2021-02-07T00:55:18-05:00",
+    "last_modified": "2021-02-13T23:18:59-05:00",
     "input_file": {}
   },
   {
@@ -196,9 +252,9 @@
     "author": [],
     "date": "2004-12-01",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\n\nPersonalization and social awareness, important aspects in the definition of a place, are traditionally overlooked in the design of technology for museums. We describe Imprints, a system to enhance the role of visitor participation beyond information receiver to active creator of sense of place. Overall response to the Imprints system is explored through interviews and log analysis of use. Despite some usability issues, response to the system was positive, and it was appropriated for both personalization and awareness of others. The results suggest an opportunity to introduce technology that plays with the dynamic between private expression and public presence in the traditional environment of the art museum.\nResponsibilities\nbuilt Java drawing application to allow study participants to create custom avatars\nconducted observational research of system in use in the museum\nco-authored conference paper\nco-design poster\nProject Outcomes\nBoehner, Kirsten, Thom-Santelli, Jenn, Zoss, Angela M., Gay, Geri, Barrett, Tucker and Hall, Justin S. (May 29, 2005). Imprints in the Museum: Social Navigation Technology for Participatory Expression. Poster presentation at International Communication Association (ICA) 2005, New York City, NY.\nBoehner, Kirsten, Thom-Santelli, Jenn, Zoss, Angela, Gay, Geri, Hall, Justin S. and Barrett, Tucker. (2005). Imprints of place: Creative expressions of the museum experience. Paper presented at ACM CHI 2005, Conference on Human Factors in Computing Systems, Portland, OR. doi:[10.1145/1056808.1056881](https://dx.doi.org/10.1145/1056808.1056881)\n\n\n\n",
     "preview": "projects/imprints-in-the-museum/imprints.jpg",
-    "last_modified": "2021-02-07T00:52:35-05:00",
+    "last_modified": "2021-02-13T23:26:11-05:00",
     "input_file": {}
   }
 ]

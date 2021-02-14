@@ -1,0 +1,30 @@
+---
+title: "Visualizing Manuscript Metadata"
+description: |
+  March 2019 to July 2019
+base_url: https://www.angelazoss.com/projects/visualizing-manuscript-metadata
+preview: manuscript_dashboard.png
+date: 07-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Tableau dashboard for visualizing manuscript data, including term co-occurrence network](manuscript_dashboard.png)
+
+A project to process and visualize metadata from manuscript collections being considered for a re-description project.
+
+
+## Responsibilities
+
+- Processed manuscript metadata into a simple tabular format to facilitate manual keyword select
+- Used manually selected keywords to further process metadata into a term co-occurrence network
+- Created interactive dashboard combining tabular views of metadata with term co-occurrence network 
+
+## Project Outcomes
+
+-   Lyon, Meghan and Zoss, Angela M. (July 11, 2019). **Exploring and Visualizing Manuscript Metadata for Project Prioritization**. Presentation at 2019 TRLN Annual Meeting, Chapel Hill, NC.
