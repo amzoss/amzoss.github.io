@@ -1,112 +1,112 @@
   var data = [
     {
       title: 'Education',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/1/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Education?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'ed',
       rowFunction: 'edRow',
       itemFormat: 'p'
     },
     {
       title: 'Job',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/2/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Job?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'work',
       rowFunction: 'workRow',
       itemFormat: 'p'
     },
     {
       title: 'Thesis',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/3/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Thesis?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'theses',
       rowFunction: 'thesisRow',
       itemFormat: 'ul'
     },
     {
       title: 'JournalArticle',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/4/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/JournalArticle?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'jrnl',
       rowFunction: 'jrnlRow',
       itemFormat: 'ul'
     },
     {
       title: 'BookSection',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/5/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/BookSection?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'bkchp',
       rowFunction: 'bkchpRow',
       itemFormat: 'ul'
     },
     {
       title: 'ConferencePaper',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/6/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/ConferencePaper?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'conf',
       rowFunction: 'confRow',
       itemFormat: 'ul'
     },
     {
       title: 'WhitePaper',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/7/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/WhitePaper?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'whitepapers',
       rowFunction: 'whtpapRow',
       itemFormat: 'ul'
     },
     {
       title: 'Project',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/8/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Project?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'proj',
       rowFunction: 'projRow',
       itemFormat: 'ul'
     },
     {
       title: 'Certification',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/9/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Certification?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'cert',
       rowFunction: 'certRow',
       itemFormat: 'ul'
     },
     {
       title: 'Tools',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/10/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Tools?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'skills',
       rowFunction: 'skillsRow',
       itemFormat: 'ul'
     },
         {
       title: 'Awards',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/11/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Awards?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'awards',
       rowFunction: 'awardsRow',
       itemFormat: 'ul'
     },
     {
       title: 'ConferencePres',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/12/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/ConferencePres?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'presentations',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Extended',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/13/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Extended?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'long-workshops',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Guest',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/14/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Guest?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'lectures',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Semester',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/15/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Semester?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'courses',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Workshop',
-      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/16/public/values?alt=json',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Workshop?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'workshops',
       rowFunction: 'presRow',
       itemFormat: 'ul'
@@ -120,13 +120,15 @@
 
   function init() {
     for (var s = 0; s < data.length; s++) {
-      //console.log(s);
+      //console.log(data[s]);
       let url = data[s].url;
       let elem = data[s].sectionId;
       let rowFun = data[s].rowFunction;
       let itmFrmt = data[s].itemFormat;
       fetch(url)
+      //.then(res => console.log(res))
       .then(res => res.json())
+      //.then(data => console.log(data))
       .then(allData => {
         //console.log(allData.feed.title.$t);
         genBuild(allData, elem, rowFun, itmFrmt);
@@ -137,8 +139,10 @@
 
   function genBuild(allData, elem, rowFun, itmFrmt) {
 
-    var title = allData.feed.title.$t;
-    var entries = allData.feed.entry;
+    //var title = allData.feed.title.$t;
+    var entries = allData.values;
+    entries.shift();
+    console.log(entries);
     var htmlObj = "";
 
     var fnstring = rowFun;
@@ -168,12 +172,12 @@
 
 
   function edRow(row) {
-    var inst = row.gsx$institution.$t;
-    var year = row.gsx$year.$t;
-    var deg = row.gsx$degree.$t;
-    var thesisTitle = row.gsx$thesistitle.$t;
-    var thesisType = row.gsx$thesistype.$t;
-    var comm = row.gsx$committee.$t;
+    var inst = row[1] ? row[1] : "";
+    var year = row[2] ? row[2] : "";
+    var deg = row[3] ? row[3] : "";
+    var thesisTitle = row[4] ? row[4] : "";
+    var thesisType = row[5] ? row[5] : "";
+    var comm = row[6] ? row[6] : "";
 
     var output = inst + ". (" + year + "). " + deg + ".";
 
@@ -186,26 +190,43 @@
 
   function workRow(row) {
     //console.log(row);
+    var title = row[1] ? row[1] : "";
+    var location = row[2] ? row[2] : "";
+    var dep = row[3] ? row[3] : "";
+    var daterange = row[4] ? row[4] : "";
+    var sortyear = row[5] ? row[5] : "";
 
-    var output = "<b>" + row.gsx$jobtitle.$t + "</b> (" + row.gsx$daterange.$t + ")<br/><i>" + row.gsx$department.$t + " &mdash; " + row.gsx$location.$t + "</i>";
+    
+
+    var output = "<b>" + title + "</b> (" + daterange + ")<br/><i>" + dep + " &mdash; " + location + "</i>";
     return output;
 
   }
 
   function thesisRow(row) {
+    var author = row[1] ? row[1] : "";
+    var year = row[2] ? row[2] : "";
+    var thesisTitle = row[3] ? row[3] : "";
+    var dept = row[4] ? row[4] : "";
+    var location = row[5] ? row[5] : "";
+    var university = row[6] ? row[6] : "";
+    var advisor = row[7] ? row[7] : "";
+    var gradDate = row[8] ? row[8] : "";
+    var type = row[9] ? row[9] : "";
+    var thesisUrl = row[10] ? row[10] : "";
 
-    if (row.gsx$thesisurl.$t != "") {
-      var title = "<a href='" + row.gsx$thesisurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    if (thesisUrl != "") {
+      var title = "<a href='" + thesisUrl + "'>" + thesisTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = thesisTitle;
     }
 
-    var authors = row.gsx$author.$t;
+    var authors = author;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + row.gsx$year.$t + "). <i><b>" + title + "</b></i> (" +
-    row.gsx$type.$t + "). Supervised by " + row.gsx$advisor.$t + ". " + row.gsx$dept.$t + ", " + row.gsx$university.$t + ": " + row.gsx$location.$t + ".";
+    + " (" + year + "). <i><b>" + title + "</b></i> (" +
+    type + "). Supervised by " + advisor + ". " + dept + ", " + university + ": " + location + ".";
 
     return output;
 
@@ -213,21 +234,31 @@
 
   function jrnlRow(row) {
 
-    if (row.gsx$jrnlurl.$t != "") {
-      var title = "<a href='" + row.gsx$jrnlurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var artTitle = row[4] ? row[4] : "";
+    var journal = row[5] ? row[5] : "";
+    var volume = row[6] ? row[6] : "";
+    var issue = row[7] ? row[7] : "";
+    var pages = row[8] ? row[8] : "";
+    var doi = row[9] ? row[9] : "";
+    var artUrl = row[10] ? row[10] : "";
+    
+    if (artUrl != "") {
+      var title = "<a href='" + artUrl + "'>" + artTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = artTitle;
     }
 
-    var authors = row.gsx$authors.$t;
+    var authors = author;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + row.gsx$year.$t + "). <b>" + title + "</b>. <i>" +
-    row.gsx$journal.$t + ", " + row.gsx$volume.$t + "</i>(" + row.gsx$issue.$t + "), " + row.gsx$pages.$t + ".";
+    + " (" + year + "). <b>" + title + "</b>. <i>" +
+    journal + ", " + volume + "</i>(" + issue + "), " + pages + ".";
 
-    if (row.gsx$doi.$t != "") {
-      output += " doi:<a href='https://dx.doi.org/" + row.gsx$doi.$t + "'>" + row.gsx$doi.$t + "</a>";
+    if (doi != "") {
+      output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
     }
     return output;
 
@@ -235,23 +266,36 @@
 
   function bkchpRow(row) {
 
-    //add in logic for when there's no data in pages, publisher, placePublished
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var chapTitle = row[4] ? row[4] : "";
+    var editor = row[5] ? row[5] : "";
+    var bookTitle = row[6] ? row[6] : "";
+    var place = row[7] ? row[7] : "";
+    var publisher = row[8] ? row[8] : "";
+    var pages = row[9] ? row[9] : "";
+    var shortTitle = row[10] ? row[10] : "";
+    var doi = row[11] ? row[11] : "";
+    var chapUrl = row[12] ? row[12] : "";
 
-    if (row.gsx$chapurl.$t != "") {
-      var title = "<a href='" + row.gsx$chapurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    if (chapUrl != "") {
+      var title = "<a href='" + chapUrl + "'>" + chapTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = chapTitle;
     }
 
-    var authors = row.gsx$authors.$t;
+    var authors = author;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + row.gsx$year.$t + "). <b>" + title + "</b>. In " +
-    row.gsx$editor.$t + " (Eds.), <i>" + row.gsx$booktitle.$t + "</i> (pp. " + row.gsx$pages.$t + "). " + row.gsx$placepublished.$t + ": " + row.gsx$publisher.$t + ".";
+    + " (" + year + "). <b>" + title + "</b>. In " +
+    editor + " (Eds.), <i>" + bookTitle + "</i>" + 
+    (pages != "" ? " (pp. " + pages + ")" : "") + ". " + 
+    place + (place == "" || publisher == "" ? "" : ": ") + 
+    publisher + (publisher.charAt(publisher.length-1) == "." ? "" : ".");
 
-    if (row.gsx$doi.$t != "") {
-      output += " doi:<a href='https://dx.doi.org/" + row.gsx$doi.$t + "'>" + row.gsx$doi.$t + "</a>";
+    if (doi != "") {
+      output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
     }
     return output;
 
@@ -259,24 +303,34 @@
 
   function confRow(row) {
 
-    //add in logic for when there's no data in pages, publisher, placePublished
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var confTitle = row[4] ? row[4] : "";
+    var editor = row[5] ? row[5] : "";
+    var conference = row[6] ? row[6] : "";
+    var location = row[7] ? row[7] : "";
+    var pages = row[8] ? row[8] : "";
+    var shortTitle = row[9] ? row[9] : "";
+    var publisher = row[10] ? row[10] : "";
+    var doi = row[11] ? row[11] : "";
+    var confUrl = row[12] ? row[12] : "";
 
-    if (row.gsx$confurl.$t != "") {
-      var title = "<a href='" + row.gsx$confurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    if (confUrl != "") {
+      var title = "<a href='" + confUrl + "'>" + confTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = confTitle;
     }
 
-    var authors = row.gsx$authors.$t;
+    var authors = author;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + row.gsx$year.$t + "). <b>" + title + "</b>. Paper presented at <i>" +
-    row.gsx$conferencename.$t + "</i>, " + row.gsx$conferencelocation.$t + ".";
+    + " (" + year + "). <b>" + title + "</b>. Paper presented at <i>" +
+    conference + "</i>, " + location + ".";
 
-    if (row.gsx$doi.$t != "") {
-      output += " doi:<a href='https://dx.doi.org/" + row.gsx$doi.$t + "'>" + row.gsx$doi.$t + "</a>";
+    if (doi != "") {
+      output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
     }
     return output;
 
@@ -286,22 +340,28 @@
 
     //add in logic for when there's no data in pages, publisher, placePublished
 
-    if (row.gsx$repurl.$t != "") {
-      var title = "<a href='" + row.gsx$repurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var repTitle = row[4] ? row[4] : "";
+    var description = row[5] ? row[5] : "";
+    var repUrl = row[6] ? row[6] : "";
+
+    if (repUrl != "") {
+      var title = "<a href='" + repUrl + "'>" + repTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = repTitle;
     }
 
-    var authors = row.gsx$authors.$t;
+    var authors = author;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
     + " ("
-    + row.gsx$year.$t + "). <b>"
+    + year + "). <b>"
     + title
     + "</b>. "
-    + row.gsx$description.$t
+    + description
     + ".";
 
     return output;
@@ -310,39 +370,48 @@
 
   function projRow(row) {
 
-    if (row.gsx$projecturl.$t != "") {
-      var title = "<a href='" + row.gsx$projecturl.$t + "'>" + row.gsx$title.$t + "</a>";
+    var projTitle = row[1] ? row[1] : "";
+    var sortYear = row[2] ? row[2] : "";
+    var dateRan = row[3] ? row[3] : "";
+    var collaborators = row[4] ? row[4] : "";
+    var projBlurb = row[5] ? row[5] : "";
+    var projResp = row[6] ? row[6] : "";
+    var projectUrl = row[7] ? row[7] : "";
+    var projFund = row[8] ? row[8] : "";
+
+    if (projectUrl != "") {
+      var title = "<a href='" + projectUrl + "'>" + projTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = projTitle;
     }
 
-    var daterange = row.gsx$daterange.$t;
+    var daterange = dateRan;
 
     if (daterange.length > 0) {
       daterange = "(" + daterange + ")"
     }
 
 
-    var authors = row.gsx$collaborators.$t;
+    var authors = collaborators;
 
     if (authors.length > 0) {
       authors = "<p>Collaborators: " + authors + "</p>"
     }
 
-    var blurb = row.gsx$blurb.$t;
+    var blurb = projBlurb;
 
     if (blurb.length > 0) {
       blurb = "<p><i>" + blurb + "</i></p>"
     }
 
-    var responsibilities = row.gsx$responsibilities.$t;
+    var responsibilities = projResp;
 
     if (responsibilities.length > 0) {
       responsibilities = "<p>Responsibilities:</p>" + responsibilities + "<p></p>"
     }
 
-    var funding = row.gsx$funding.$t;
+    var funding = projFund;
 
     if (funding.length > 0) {
       funding = "<p>" + funding + "</p>"
@@ -362,40 +431,46 @@
   
   function certRow(row) {
 
-    return row.gsx$certification.$t;
+    return row[1];
 
   }
   
   function skillsRow(row) {
 
-    return "<b>" + row.gsx$grouping.$t + "</b>: " + row.gsx$toolslist.$t;
+    return "<b>" + row[1] + "</b>: " + row[2];
 
   }
   
   function awardsRow(row) {
 
-    //add in logic for when there's no data in pages, publisher, placePublished
+    var author = row[1] ? row[1] : "";
+    var year = row[2] ? row[2] : "";
+    var awdTitle = row[3] ? row[3] : "";
+    var awdDesc = row[4] ? row[4] : "";
+    var awdLoc = row[5] ? row[5] : "";
+    var awd = row[6] ? row[6] : "";
+    var awdUrl = row[7] ? row[7] : "";
 
-    if (row.gsx$awdurl.$t != "") {
-      var title = "<a href='" + row.gsx$awdurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    if (awdUrl != "") {
+      var title = "<a href='" + awdUrl + "'>" + awdTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = awdTitle;
     }
 
-    var authors = row.gsx$author.$t;
+    var authors = author;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
     + " ("
-    + row.gsx$year.$t + "). <b>"
+    + year + "). <b>"
     + title
     + "</b>. "
-    + row.gsx$description.$t
+    + awdDesc
     + ". "
-    + row.gsx$location.$t
+    + awdLoc
     + ". Won “"
-    + row.gsx$award.$t
+    + awd
     + "” award.";
 
     return output;
@@ -404,19 +479,29 @@
 
 function presRow(row) {
 
-  if (row.gsx$presurl.$t != "") {
-      var title = "<a href='" + row.gsx$presurl.$t + "'>" + row.gsx$title.$t + "</a>";
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var presTitle = row[4] ? row[4] : "";
+    var presLoc = row[5] ? row[5] : "";
+    var presHost = row[6] ? row[6] : "";
+    var presDate = row[7] ? row[7] : "";
+    var presType = row[8] ? row[8] : "";
+    var presGrouping = row[9] ? row[9] : "";
+    var presUrl = row[10] ? row[10] : "";
+
+  if (presUrl != "") {
+      var title = "<a href='" + presUrl + "'>" + presTitle + "</a>";
     }
     else {
-      var title = row.gsx$title.$t;
+      var title = presTitle;
     }
 
-    var authors = row.gsx$authors.$t;
+    var authors = author;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + row.gsx$presdate.$t + "). <b>" + title + "</b>. " +
-    row.gsx$type.$t + " at " + row.gsx$host.$t + "</i>, " + row.gsx$location.$t + ".";
+    + " (" + presDate + "). <b>" + title + "</b>. " +
+    presType + " at " + presHost + "</i>, " + presLoc + ".";
 
     return output;
     
