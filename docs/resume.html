@@ -2438,103 +2438,115 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </aside>
 <div class="layout-chunk" data-layout="l-body">
 <p><script src="https://cdn.jsdelivr.net/npm/public-google-sheets-parser@latest"></script></p>
-<script>const spreadsheetId = '1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8'
-const parser = new PublicGoogleSheetsParser()
-
-  
-  var data = [
+<script>  var data = [
     {
       title: 'Education',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Education?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'ed',
       rowFunction: 'edRow',
       itemFormat: 'p'
     },
     {
       title: 'Job',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Job?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'work',
       rowFunction: 'workRow',
       itemFormat: 'p'
     },
     {
       title: 'Thesis',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Thesis?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'theses',
       rowFunction: 'thesisRow',
       itemFormat: 'ul'
     },
     {
       title: 'JournalArticle',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/JournalArticle?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'jrnl',
       rowFunction: 'jrnlRow',
       itemFormat: 'ul'
     },
     {
       title: 'BookSection',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/BookSection?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'bkchp',
       rowFunction: 'bkchpRow',
       itemFormat: 'ul'
     },
     {
       title: 'ConferencePaper',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/ConferencePaper?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'conf',
       rowFunction: 'confRow',
       itemFormat: 'ul'
     },
     {
       title: 'WhitePaper',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/WhitePaper?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'whitepapers',
       rowFunction: 'whtpapRow',
       itemFormat: 'ul'
     },
     {
       title: 'Project',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Project?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'proj',
       rowFunction: 'projRow',
       itemFormat: 'ul'
     },
     {
       title: 'Certification',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Certification?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'cert',
       rowFunction: 'certRow',
       itemFormat: 'ul'
     },
     {
       title: 'Tools',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Tools?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'skills',
       rowFunction: 'skillsRow',
       itemFormat: 'ul'
     },
         {
       title: 'Awards',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Awards?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'awards',
       rowFunction: 'awardsRow',
       itemFormat: 'ul'
     },
     {
       title: 'ConferencePres',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/ConferencePres?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'presentations',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Extended',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Extended?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'long-workshops',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Guest',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Guest?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'lectures',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Semester',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Semester?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'courses',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Workshop',
+      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Workshop?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
       sectionId: 'workshops',
       rowFunction: 'presRow',
       itemFormat: 'ul'
@@ -2548,37 +2560,29 @@ const parser = new PublicGoogleSheetsParser()
 
   function init() {
     for (var s = 0; s < data.length; s++) {
-      //console.log(s);
+      //console.log(data[s]);
       let url = data[s].url;
       let elem = data[s].sectionId;
       let rowFun = data[s].rowFunction;
       let itmFrmt = data[s].itemFormat;
-      let sheetTitle = data[s].title;
-      
-      parser.parse(spreadsheetId, sheetTitle).then((items) => {
-        // items should be [{ a: 10, b: 20, c: 30 }, { a: 40, b: 50, c: 60 }, { a: 70, b: 80, c: 90 }]   
-        console.log(items);
-        genBuild(items, elem, rowFun, itmFrmt);
-      })
-
-/*
       fetch(url)
+      //.then(res => console.log(res))
       .then(res => res.json())
+      //.then(data => console.log(data))
       .then(allData => {
         //console.log(allData.feed.title.$t);
         genBuild(allData, elem, rowFun, itmFrmt);
       })
       .catch(err => { throw err });
-*/      
-      
     }
   }
 
   function genBuild(allData, elem, rowFun, itmFrmt) {
 
     //var title = allData.feed.title.$t;
-    //var entries = allData.feed.entry;
-    var entries = allData;
+    var entries = allData.values;
+    entries.shift();
+    console.log(entries);
     var htmlObj = "";
 
     var fnstring = rowFun;
@@ -2608,12 +2612,12 @@ const parser = new PublicGoogleSheetsParser()
 
 
   function edRow(row) {
-    var inst = row.institution ? row.institution : "";
-    var year = row.year ? row.year : "";
-    var deg = row.degree ? row.degree : "";
-    var thesisTitle = row.thesis_title ? row.thesis_title : "";
-    var thesisType = row.thesis_type ? row.thesis_type : "";
-    var comm = row.committee ? row.committee : "";
+    var inst = row[1] ? row[1] : "";
+    var year = row[2] ? row[2] : "";
+    var deg = row[3] ? row[3] : "";
+    var thesisTitle = row[4] ? row[4] : "";
+    var thesisType = row[5] ? row[5] : "";
+    var comm = row[6] ? row[6] : "";
 
     var output = inst + ". (" + year + "). " + deg + ".";
 
@@ -2626,43 +2630,43 @@ const parser = new PublicGoogleSheetsParser()
 
   function workRow(row) {
     //console.log(row);
-    var jobtitle = row.job_title ? row.job_title : "";
-    var loc = row["location"] ? row["location"] : "";
-    var dep = row.department ? row.department : "";
-    var dateRange = row.date_range ? row.date_range : "";
+    var title = row[1] ? row[1] : "";
+    var location = row[2] ? row[2] : "";
+    var dep = row[3] ? row[3] : "";
+    var daterange = row[4] ? row[4] : "";
+    var sortyear = row[5] ? row[5] : "";
+
     
-    var output = "<b>" + jobtitle + "</b> (" + dateRange + ")<br/><i>" + dep + " &mdash; " + loc + "</i>";
+
+    var output = "<b>" + title + "</b> (" + daterange + ")<br/><i>" + dep + " &mdash; " + location + "</i>";
     return output;
 
   }
 
   function thesisRow(row) {
-
-    var author = row.author ? row.author : "";
-    var year = row.year ? row.year : "";
-    var tit = row.title ? row.title : "";
-    var dep = row.dept ? row.dept : "";
-    var loc = row["location"] ? row["location"] : "";
-    var univ = row.university ? row.university : "";
-    var advisor = row.advisor ? row.advisor : "";
-    var gradDate = row.grad_date ? row.grad_date : "";
-    var type = row.type ? row.type : "";
-    var thesisUrl = row.thesis_url ? row.thesis_url : "";
-
-                            
+    var author = row[1] ? row[1] : "";
+    var year = row[2] ? row[2] : "";
+    var thesisTitle = row[3] ? row[3] : "";
+    var dept = row[4] ? row[4] : "";
+    var location = row[5] ? row[5] : "";
+    var university = row[6] ? row[6] : "";
+    var advisor = row[7] ? row[7] : "";
+    var gradDate = row[8] ? row[8] : "";
+    var type = row[9] ? row[9] : "";
+    var thesisUrl = row[10] ? row[10] : "";
 
     if (thesisUrl != "") {
-      var title = "<a href='" + thesisUrl + "'>" + tit + "</a>";
+      var title = "<a href='" + thesisUrl + "'>" + thesisTitle + "</a>";
     }
     else {
-      var title = tit;
+      var title = thesisTitle;
     }
 
     var authors = author;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
     + " (" + year + "). <i><b>" + title + "</b></i> (" +
-    type + "). Supervised by " + advisor + ". " + dep + ", " + univ + ": " + loc + ".";
+    type + "). Supervised by " + advisor + ". " + dept + ", " + university + ": " + location + ".";
 
     return output;
 
@@ -2670,28 +2674,28 @@ const parser = new PublicGoogleSheetsParser()
 
   function jrnlRow(row) {
 
-    var author = row.authors ? row.authors : "";
-    var year = row.year ? row.year : "";
-    var tit = row.title ? row.title : "";
-    var jrnl = row.journal ? row.journal : "";
-    var vol = row.volume ? row.volume : "";
-    var issue = row.issue ? row.issue : "";
-    var pgs = row.pages ? row.pages : "";
-    var doi = row.doi ? row.doi : "";
-    var jrnlUrl = row.jrnl_url ? row.jrnl_url : "";
-
-    if (jrnlUrl != "") {
-      var title = "<a href='" + jrnlUrl + "'>" + tit + "</a>";
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var artTitle = row[4] ? row[4] : "";
+    var journal = row[5] ? row[5] : "";
+    var volume = row[6] ? row[6] : "";
+    var issue = row[7] ? row[7] : "";
+    var pages = row[8] ? row[8] : "";
+    var doi = row[9] ? row[9] : "";
+    var artUrl = row[10] ? row[10] : "";
+    
+    if (artUrl != "") {
+      var title = "<a href='" + artUrl + "'>" + artTitle + "</a>";
     }
     else {
-      var title = tit;
+      var title = artTitle;
     }
 
     var authors = author;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
     + " (" + year + "). <b>" + title + "</b>. <i>" +
-    jrnl + ", " + vol + "</i>(" + issue + "), " + pgs + ".";
+    journal + ", " + volume + "</i>(" + issue + "), " + pages + ".";
 
     if (doi != "") {
       output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
@@ -2702,18 +2706,18 @@ const parser = new PublicGoogleSheetsParser()
 
   function bkchpRow(row) {
 
-    var author = row.authors ? row.authors : "";
-    var year = row.year ? row.year : "";
-    var chapTitle = row.title ? row.title : "";
-    var editor = row.editor ? row.editor : "";
-    var bookTitle = row.book_title ? row.book_title : "";
-    var place = row.place_published ? row.place_published : "";
-    var publisher = row.publisher ? row.publisher : "";
-    var pages = row.pages ? row.pages : "";
-    var shortTitle = row.short_title ? row.short_title : "";
-    var doi = row.doi ? row.doi : "";
-    var chapUrl = row.chap_url ? row.chap_url : "";
-    
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var chapTitle = row[4] ? row[4] : "";
+    var editor = row[5] ? row[5] : "";
+    var bookTitle = row[6] ? row[6] : "";
+    var place = row[7] ? row[7] : "";
+    var publisher = row[8] ? row[8] : "";
+    var pages = row[9] ? row[9] : "";
+    var shortTitle = row[10] ? row[10] : "";
+    var doi = row[11] ? row[11] : "";
+    var chapUrl = row[12] ? row[12] : "";
+
     if (chapUrl != "") {
       var title = "<a href='" + chapUrl + "'>" + chapTitle + "</a>";
     }
@@ -2739,18 +2743,18 @@ const parser = new PublicGoogleSheetsParser()
 
   function confRow(row) {
 
-    var author = row.authors ? row.authors : "";
-    var year = row.year ? row.year : "";
-    var confTitle = row.title ? row.title : "";
-    var editor = row.editor ? row.editor : "";
-    var conference = row.conference_name ? row.conference_name : "";
-    var location = row.conference_location ? row.conference_location : "";
-    var pages = row.pages ? row.pages : "";
-    var shortTitle = row.short_title ? row.short_title : "";
-    var publisher = row.publisher ? row.publisher : "";
-    var doi = row.doi ? row.doi : "";
-    var confUrl = row.conf_url ? row.conf_url : "";
-    
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var confTitle = row[4] ? row[4] : "";
+    var editor = row[5] ? row[5] : "";
+    var conference = row[6] ? row[6] : "";
+    var location = row[7] ? row[7] : "";
+    var pages = row[8] ? row[8] : "";
+    var shortTitle = row[9] ? row[9] : "";
+    var publisher = row[10] ? row[10] : "";
+    var doi = row[11] ? row[11] : "";
+    var confUrl = row[12] ? row[12] : "";
+
     if (confUrl != "") {
       var title = "<a href='" + confUrl + "'>" + confTitle + "</a>";
     }
@@ -2769,16 +2773,19 @@ const parser = new PublicGoogleSheetsParser()
       output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
     }
     return output;
+
   }
 
   function whtpapRow(row) {
 
-    var author = row.authors ? row.authors : "";
-    var year = row.year ? row.year : "";
-    var repTitle = row.title ? row.title : "";
-    var description = row["description"] ? row["description"] : "";
-    var repUrl = row.rep_url ? row.rep_url : "";
-    
+    //add in logic for when there's no data in pages, publisher, placePublished
+
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var repTitle = row[4] ? row[4] : "";
+    var description = row[5] ? row[5] : "";
+    var repUrl = row[6] ? row[6] : "";
+
     if (repUrl != "") {
       var title = "<a href='" + repUrl + "'>" + repTitle + "</a>";
     }
@@ -2803,14 +2810,14 @@ const parser = new PublicGoogleSheetsParser()
 
   function projRow(row) {
 
-    var projTitle = row.title ? row.title : "";
-    var sortYear = row.sort_year ? row.sort_year : "";
-    var dateRan = row.date_range ? row.date_range : "";
-    var collaborators = row.collaborators ? row.collaborators : "";
-    var projBlurb = row.blurb ? row.blurb : "";
-    var projResp = row.responsibilities ? row.responsibilities : "";
-    var projectUrl = row.project_url ? row.project_url : "";
-    var projFund = row.funding ? row.funding : "";
+    var projTitle = row[1] ? row[1] : "";
+    var sortYear = row[2] ? row[2] : "";
+    var dateRan = row[3] ? row[3] : "";
+    var collaborators = row[4] ? row[4] : "";
+    var projBlurb = row[5] ? row[5] : "";
+    var projResp = row[6] ? row[6] : "";
+    var projectUrl = row[7] ? row[7] : "";
+    var projFund = row[8] ? row[8] : "";
 
     if (projectUrl != "") {
       var title = "<a href='" + projectUrl + "'>" + projTitle + "</a>";
@@ -2857,30 +2864,31 @@ const parser = new PublicGoogleSheetsParser()
     + funding
 
     return output;
+
   }
   
   function certRow(row) {
 
-    return row.certification;
+    return row[1];
 
   }
   
   function skillsRow(row) {
 
-    return "<b>" + row.grouping + "</b>: " + row.tools_list;
+    return "<b>" + row[1] + "</b>: " + row[2];
 
   }
   
   function awardsRow(row) {
 
-    var author = row.author ? row.author : "";
-    var year = row.year ? row.year : "";
-    var awdTitle = row.title ? row.title : "";
-    var awdDesc = row["description"] ? row["description"] : "";
-    var awdLoc = row["location"] ? row["location"] : "";
-    var awd = row.award ? row.award : "";
-    var awdUrl = row.awd_url ? row.awd_url : "";
-    
+    var author = row[1] ? row[1] : "";
+    var year = row[2] ? row[2] : "";
+    var awdTitle = row[3] ? row[3] : "";
+    var awdDesc = row[4] ? row[4] : "";
+    var awdLoc = row[5] ? row[5] : "";
+    var awd = row[6] ? row[6] : "";
+    var awdUrl = row[7] ? row[7] : "";
+
     if (awdUrl != "") {
       var title = "<a href='" + awdUrl + "'>" + awdTitle + "</a>";
     }
@@ -2909,16 +2917,16 @@ const parser = new PublicGoogleSheetsParser()
 
 function presRow(row) {
 
-    var author = row.authors ? row.authors : "";
-    var year = row.sort_year ? row.sort_year : "";
-    var presTitle = row.title ? row.title : "";
-    var presLoc = row["location"] ? row["location"] : "";
-    var presHost = row["host"] ? row["host"] : "";
-    var presDate = row.pres_date ? row.pres_date : "";
-    var presType = row.type ? row.type : "";
-    var presGrouping = row.grouping ? row.grouping : "";
-    var presUrl = row.pres_url ? row.pres_url : "";
-    
+    var author = row[2] ? row[2] : "";
+    var year = row[3] ? row[3] : "";
+    var presTitle = row[4] ? row[4] : "";
+    var presLoc = row[5] ? row[5] : "";
+    var presHost = row[6] ? row[6] : "";
+    var presDate = row[7] ? row[7] : "";
+    var presType = row[8] ? row[8] : "";
+    var presGrouping = row[9] ? row[9] : "";
+    var presUrl = row[10] ? row[10] : "";
+
   if (presUrl != "") {
       var title = "<a href='" + presUrl + "'>" + presTitle + "</a>";
     }
@@ -2935,7 +2943,9 @@ function presRow(row) {
 
     return output;
     
+
   }
+
     
   document.addEventListener('DOMContentLoaded', init)</script>
 </div>
