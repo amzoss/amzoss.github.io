@@ -184,12 +184,12 @@ const parser = new PublicGoogleSheetsParser()
 
 
   function edRow(row) {
-    var inst = row.institution;
-    var year = row.year;
-    var deg = row.degree;
-    var thesisTitle = row.thesis_title;
-    var thesisType = row.thesis_type;
-    var comm = row.committee;
+    var inst = row.institution ? row.institution : "";
+    var year = row.year ? row.year : "";
+    var deg = row.degree ? row.degree : "";
+    var thesisTitle = row.thesis_title ? row.thesis_title : "";
+    var thesisType = row.thesis_type ? row.thesis_type : "";
+    var comm = row.committee ? row.committee : "";
 
     var output = inst + ". (" + year + "). " + deg + ".";
 
