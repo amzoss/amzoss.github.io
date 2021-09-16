@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r}
 library(htmltools)
+htmltools::tags$script(src = "https://cdn.jsdelivr.net/npm/public-google-sheets-parser@latest")
 htmltools::includeScript("buildresume.js")
 ```
 

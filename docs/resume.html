@@ -2437,115 +2437,120 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="&#39;AngelaZoss-Resume-2021-02-04.pdf&#39;">PDF version</a>
 </aside>
 <div class="layout-chunk" data-layout="l-body">
-<script>  var data = [
+<p><script src="https://cdn.jsdelivr.net/npm/public-google-sheets-parser@latest"></script></p>
+<script>const spreadsheetId = '1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8'
+const parser = new PublicGoogleSheetsParser()
+
+  
+  var data = [
     {
       title: 'Education',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Education?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/1/public/values?alt=json',
       sectionId: 'ed',
       rowFunction: 'edRow',
       itemFormat: 'p'
     },
     {
       title: 'Job',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Job?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/2/public/values?alt=json',
       sectionId: 'work',
       rowFunction: 'workRow',
       itemFormat: 'p'
     },
     {
       title: 'Thesis',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Thesis?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/3/public/values?alt=json',
       sectionId: 'theses',
       rowFunction: 'thesisRow',
       itemFormat: 'ul'
     },
     {
       title: 'JournalArticle',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/JournalArticle?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/4/public/values?alt=json',
       sectionId: 'jrnl',
       rowFunction: 'jrnlRow',
       itemFormat: 'ul'
     },
     {
       title: 'BookSection',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/BookSection?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/5/public/values?alt=json',
       sectionId: 'bkchp',
       rowFunction: 'bkchpRow',
       itemFormat: 'ul'
     },
     {
       title: 'ConferencePaper',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/ConferencePaper?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/6/public/values?alt=json',
       sectionId: 'conf',
       rowFunction: 'confRow',
       itemFormat: 'ul'
     },
     {
       title: 'WhitePaper',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/WhitePaper?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/7/public/values?alt=json',
       sectionId: 'whitepapers',
       rowFunction: 'whtpapRow',
       itemFormat: 'ul'
     },
     {
       title: 'Project',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Project?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/8/public/values?alt=json',
       sectionId: 'proj',
       rowFunction: 'projRow',
       itemFormat: 'ul'
     },
     {
       title: 'Certification',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Certification?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/9/public/values?alt=json',
       sectionId: 'cert',
       rowFunction: 'certRow',
       itemFormat: 'ul'
     },
     {
       title: 'Tools',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Tools?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/10/public/values?alt=json',
       sectionId: 'skills',
       rowFunction: 'skillsRow',
       itemFormat: 'ul'
     },
         {
       title: 'Awards',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Awards?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/11/public/values?alt=json',
       sectionId: 'awards',
       rowFunction: 'awardsRow',
       itemFormat: 'ul'
     },
     {
       title: 'ConferencePres',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/ConferencePres?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/12/public/values?alt=json',
       sectionId: 'presentations',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Extended',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Extended?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/13/public/values?alt=json',
       sectionId: 'long-workshops',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Guest',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Guest?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/14/public/values?alt=json',
       sectionId: 'lectures',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Semester',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Semester?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/15/public/values?alt=json',
       sectionId: 'courses',
       rowFunction: 'presRow',
       itemFormat: 'ul'
     },
     {
       title: 'Workshop',
-      url: 'https://sheets.googleapis.com/v4/spreadsheets/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/values/Workshop?key=AIzaSyDPvVX1Khq7tE2SJTOEw7LMfTa-aVkGszs',
+      url: 'https://spreadsheets.google.com/feeds/list/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/16/public/values?alt=json',
       sectionId: 'workshops',
       rowFunction: 'presRow',
       itemFormat: 'ul'
@@ -2559,29 +2564,37 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   function init() {
     for (var s = 0; s < data.length; s++) {
-      //console.log(data[s]);
+      //console.log(s);
       let url = data[s].url;
       let elem = data[s].sectionId;
       let rowFun = data[s].rowFunction;
       let itmFrmt = data[s].itemFormat;
+      let sheetTitle = data[s].title;
+      
+      parser.parse(spreadsheetId, sheetTitle).then((items) => {
+        // items should be [{ a: 10, b: 20, c: 30 }, { a: 40, b: 50, c: 60 }, { a: 70, b: 80, c: 90 }]   
+        console.log(items);
+        genBuild(items, elem, rowFun, itmFrmt);
+      })
+
+/*
       fetch(url)
-      //.then(res => console.log(res))
       .then(res => res.json())
-      //.then(data => console.log(data))
       .then(allData => {
         //console.log(allData.feed.title.$t);
         genBuild(allData, elem, rowFun, itmFrmt);
       })
       .catch(err => { throw err });
+*/      
+      
     }
   }
 
   function genBuild(allData, elem, rowFun, itmFrmt) {
 
     //var title = allData.feed.title.$t;
-    var entries = allData.values;
-    entries.shift();
-    console.log(entries);
+    //var entries = allData.feed.entry;
+    var entries = allData;
     var htmlObj = "";
 
     var fnstring = rowFun;
@@ -2611,12 +2624,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   function edRow(row) {
-    var inst = row[1] ? row[1] : "";
-    var year = row[2] ? row[2] : "";
-    var deg = row[3] ? row[3] : "";
-    var thesisTitle = row[4] ? row[4] : "";
-    var thesisType = row[5] ? row[5] : "";
-    var comm = row[6] ? row[6] : "";
+    var inst = row.institution;
+    var year = row.year;
+    var deg = row.degree;
+    var thesisTitle = row.thesis_title;
+    var thesisType = row.thesis_type;
+    var comm = row.committee;
 
     var output = inst + ". (" + year + "). " + deg + ".";
 
@@ -2627,45 +2640,29 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     return output;
   }
 
+/*
   function workRow(row) {
     //console.log(row);
-    var title = row[1] ? row[1] : "";
-    var location = row[2] ? row[2] : "";
-    var dep = row[3] ? row[3] : "";
-    var daterange = row[4] ? row[4] : "";
-    var sortyear = row[5] ? row[5] : "";
 
-    
-
-    var output = "<b>" + title + "</b> (" + daterange + ")<br/><i>" + dep + " &mdash; " + location + "</i>";
+    var output = "<b>" + row.gsx$jobtitle.$t + "</b> (" + row.gsx$daterange.$t + ")<br/><i>" + row.gsx$department.$t + " &mdash; " + row.gsx$location.$t + "</i>";
     return output;
 
   }
 
   function thesisRow(row) {
-    var author = row[1] ? row[1] : "";
-    var year = row[2] ? row[2] : "";
-    var thesisTitle = row[3] ? row[3] : "";
-    var dept = row[4] ? row[4] : "";
-    var location = row[5] ? row[5] : "";
-    var university = row[6] ? row[6] : "";
-    var advisor = row[7] ? row[7] : "";
-    var gradDate = row[8] ? row[8] : "";
-    var type = row[9] ? row[9] : "";
-    var thesisUrl = row[10] ? row[10] : "";
 
-    if (thesisUrl != "") {
-      var title = "<a href='" + thesisUrl + "'>" + thesisTitle + "</a>";
+    if (row.gsx$thesisurl.$t != "") {
+      var title = "<a href='" + row.gsx$thesisurl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = thesisTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var authors = author;
+    var authors = row.gsx$author.$t;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + year + "). <i><b>" + title + "</b></i> (" +
-    type + "). Supervised by " + advisor + ". " + dept + ", " + university + ": " + location + ".";
+    + " (" + row.gsx$year.$t + "). <i><b>" + title + "</b></i> (" +
+    row.gsx$type.$t + "). Supervised by " + row.gsx$advisor.$t + ". " + row.gsx$dept.$t + ", " + row.gsx$university.$t + ": " + row.gsx$location.$t + ".";
 
     return output;
 
@@ -2673,31 +2670,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   function jrnlRow(row) {
 
-    var author = row[2] ? row[2] : "";
-    var year = row[3] ? row[3] : "";
-    var artTitle = row[4] ? row[4] : "";
-    var journal = row[5] ? row[5] : "";
-    var volume = row[6] ? row[6] : "";
-    var issue = row[7] ? row[7] : "";
-    var pages = row[8] ? row[8] : "";
-    var doi = row[9] ? row[9] : "";
-    var artUrl = row[10] ? row[10] : "";
-    
-    if (artUrl != "") {
-      var title = "<a href='" + artUrl + "'>" + artTitle + "</a>";
+    if (row.gsx$jrnlurl.$t != "") {
+      var title = "<a href='" + row.gsx$jrnlurl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = artTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var authors = author;
+    var authors = row.gsx$authors.$t;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + year + "). <b>" + title + "</b>. <i>" +
-    journal + ", " + volume + "</i>(" + issue + "), " + pages + ".";
+    + " (" + row.gsx$year.$t + "). <b>" + title + "</b>. <i>" +
+    row.gsx$journal.$t + ", " + row.gsx$volume.$t + "</i>(" + row.gsx$issue.$t + "), " + row.gsx$pages.$t + ".";
 
-    if (doi != "") {
-      output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
+    if (row.gsx$doi.$t != "") {
+      output += " doi:<a href='https://dx.doi.org/" + row.gsx$doi.$t + "'>" + row.gsx$doi.$t + "</a>";
     }
     return output;
 
@@ -2705,36 +2692,23 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   function bkchpRow(row) {
 
-    var author = row[2] ? row[2] : "";
-    var year = row[3] ? row[3] : "";
-    var chapTitle = row[4] ? row[4] : "";
-    var editor = row[5] ? row[5] : "";
-    var bookTitle = row[6] ? row[6] : "";
-    var place = row[7] ? row[7] : "";
-    var publisher = row[8] ? row[8] : "";
-    var pages = row[9] ? row[9] : "";
-    var shortTitle = row[10] ? row[10] : "";
-    var doi = row[11] ? row[11] : "";
-    var chapUrl = row[12] ? row[12] : "";
+    //add in logic for when there's no data in pages, publisher, placePublished
 
-    if (chapUrl != "") {
-      var title = "<a href='" + chapUrl + "'>" + chapTitle + "</a>";
+    if (row.gsx$chapurl.$t != "") {
+      var title = "<a href='" + row.gsx$chapurl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = chapTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var authors = author;
+    var authors = row.gsx$authors.$t;
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + year + "). <b>" + title + "</b>. In " +
-    editor + " (Eds.), <i>" + bookTitle + "</i>" + 
-    (pages != "" ? " (pp. " + pages + ")" : "") + ". " + 
-    place + (place == "" || publisher == "" ? "" : ": ") + 
-    publisher + (publisher.charAt(publisher.length-1) == "." ? "" : ".");
+    + " (" + row.gsx$year.$t + "). <b>" + title + "</b>. In " +
+    row.gsx$editor.$t + " (Eds.), <i>" + row.gsx$booktitle.$t + "</i> (pp. " + row.gsx$pages.$t + "). " + row.gsx$placepublished.$t + ": " + row.gsx$publisher.$t + ".";
 
-    if (doi != "") {
-      output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
+    if (row.gsx$doi.$t != "") {
+      output += " doi:<a href='https://dx.doi.org/" + row.gsx$doi.$t + "'>" + row.gsx$doi.$t + "</a>";
     }
     return output;
 
@@ -2742,34 +2716,24 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   function confRow(row) {
 
-    var author = row[2] ? row[2] : "";
-    var year = row[3] ? row[3] : "";
-    var confTitle = row[4] ? row[4] : "";
-    var editor = row[5] ? row[5] : "";
-    var conference = row[6] ? row[6] : "";
-    var location = row[7] ? row[7] : "";
-    var pages = row[8] ? row[8] : "";
-    var shortTitle = row[9] ? row[9] : "";
-    var publisher = row[10] ? row[10] : "";
-    var doi = row[11] ? row[11] : "";
-    var confUrl = row[12] ? row[12] : "";
+    //add in logic for when there's no data in pages, publisher, placePublished
 
-    if (confUrl != "") {
-      var title = "<a href='" + confUrl + "'>" + confTitle + "</a>";
+    if (row.gsx$confurl.$t != "") {
+      var title = "<a href='" + row.gsx$confurl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = confTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var authors = author;
+    var authors = row.gsx$authors.$t;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + year + "). <b>" + title + "</b>. Paper presented at <i>" +
-    conference + "</i>, " + location + ".";
+    + " (" + row.gsx$year.$t + "). <b>" + title + "</b>. Paper presented at <i>" +
+    row.gsx$conferencename.$t + "</i>, " + row.gsx$conferencelocation.$t + ".";
 
-    if (doi != "") {
-      output += " doi:<a href='https://dx.doi.org/" + doi + "'>" + doi + "</a>";
+    if (row.gsx$doi.$t != "") {
+      output += " doi:<a href='https://dx.doi.org/" + row.gsx$doi.$t + "'>" + row.gsx$doi.$t + "</a>";
     }
     return output;
 
@@ -2779,28 +2743,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
     //add in logic for when there's no data in pages, publisher, placePublished
 
-    var author = row[2] ? row[2] : "";
-    var year = row[3] ? row[3] : "";
-    var repTitle = row[4] ? row[4] : "";
-    var description = row[5] ? row[5] : "";
-    var repUrl = row[6] ? row[6] : "";
-
-    if (repUrl != "") {
-      var title = "<a href='" + repUrl + "'>" + repTitle + "</a>";
+    if (row.gsx$repurl.$t != "") {
+      var title = "<a href='" + row.gsx$repurl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = repTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var authors = author;
+    var authors = row.gsx$authors.$t;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
     + " ("
-    + year + "). <b>"
+    + row.gsx$year.$t + "). <b>"
     + title
     + "</b>. "
-    + description
+    + row.gsx$description.$t
     + ".";
 
     return output;
@@ -2809,47 +2767,38 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   function projRow(row) {
 
-    var projTitle = row[1] ? row[1] : "";
-    var sortYear = row[2] ? row[2] : "";
-    var dateRan = row[3] ? row[3] : "";
-    var collaborators = row[4] ? row[4] : "";
-    var projBlurb = row[5] ? row[5] : "";
-    var projResp = row[6] ? row[6] : "";
-    var projectUrl = row[7] ? row[7] : "";
-    var projFund = row[8] ? row[8] : "";
-
-    if (projectUrl != "") {
-      var title = "<a href='" + projectUrl + "'>" + projTitle + "</a>";
+    if (row.gsx$projecturl.$t != "") {
+      var title = "<a href='" + row.gsx$projecturl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = projTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var daterange = dateRan;
+    var daterange = row.gsx$daterange.$t;
 
     if (daterange.length > 0) {
       daterange = "(" + daterange + ")"
     }
 
-    var authors = collaborators;
+    var authors = row.gsx$collaborators.$t;
 
     if (authors.length > 0) {
       authors = "<p>Collaborators: " + authors + "</p>"
     }
 
-    var blurb = projBlurb;
+    var blurb = row.gsx$blurb.$t;
 
     if (blurb.length > 0) {
       blurb = "<p><i>" + blurb + "</i></p>"
     }
 
-    var responsibilities = projResp;
+    var responsibilities = row.gsx$responsibilities.$t;
 
     if (responsibilities.length > 0) {
       responsibilities = "<p>Responsibilities:</p>" + responsibilities + "<p></p>"
     }
 
-    var funding = projFund;
+    var funding = row.gsx$funding.$t;
 
     if (funding.length > 0) {
       funding = "<p>" + funding + "</p>"
@@ -2868,46 +2817,40 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   function certRow(row) {
 
-    return row[1];
+    return row.gsx$certification.$t;
 
   }
   
   function skillsRow(row) {
 
-    return "<b>" + row[1] + "</b>: " + row[2];
+    return "<b>" + row.gsx$grouping.$t + "</b>: " + row.gsx$toolslist.$t;
 
   }
   
   function awardsRow(row) {
 
-    var author = row[1] ? row[1] : "";
-    var year = row[2] ? row[2] : "";
-    var awdTitle = row[3] ? row[3] : "";
-    var awdDesc = row[4] ? row[4] : "";
-    var awdLoc = row[5] ? row[5] : "";
-    var awd = row[6] ? row[6] : "";
-    var awdUrl = row[7] ? row[7] : "";
+    //add in logic for when there's no data in pages, publisher, placePublished
 
-    if (awdUrl != "") {
-      var title = "<a href='" + awdUrl + "'>" + awdTitle + "</a>";
+    if (row.gsx$awdurl.$t != "") {
+      var title = "<a href='" + row.gsx$awdurl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = awdTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var authors = author;
+    var authors = row.gsx$author.$t;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
     + " ("
-    + year + "). <b>"
+    + row.gsx$year.$t + "). <b>"
     + title
     + "</b>. "
-    + awdDesc
+    + row.gsx$description.$t
     + ". "
-    + awdLoc
+    + row.gsx$location.$t
     + ". Won “"
-    + awd
+    + row.gsx$award.$t
     + "” award.";
 
     return output;
@@ -2916,34 +2859,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 function presRow(row) {
 
-    var author = row[2] ? row[2] : "";
-    var year = row[3] ? row[3] : "";
-    var presTitle = row[4] ? row[4] : "";
-    var presLoc = row[5] ? row[5] : "";
-    var presHost = row[6] ? row[6] : "";
-    var presDate = row[7] ? row[7] : "";
-    var presType = row[8] ? row[8] : "";
-    var presGrouping = row[9] ? row[9] : "";
-    var presUrl = row[10] ? row[10] : "";
-
-  if (presUrl != "") {
-      var title = "<a href='" + presUrl + "'>" + presTitle + "</a>";
+  if (row.gsx$presurl.$t != "") {
+      var title = "<a href='" + row.gsx$presurl.$t + "'>" + row.gsx$title.$t + "</a>";
     }
     else {
-      var title = presTitle;
+      var title = row.gsx$title.$t;
     }
 
-    var authors = author;
+    var authors = row.gsx$authors.$t;
 
     var output = authors
     + (authors.charAt(authors.length-1) == "." ? "" : ".")
-    + " (" + presDate + "). <b>" + title + "</b>. " +
-    presType + " at " + presHost + "</i>, " + presLoc + ".";
+    + " (" + row.gsx$presdate.$t + "). <b>" + title + "</b>. " +
+    row.gsx$type.$t + " at " + row.gsx$host.$t + "</i>, " + row.gsx$location.$t + ".";
 
     return output;
     
 
   }
+
+*/
 
     
   document.addEventListener('DOMContentLoaded', init)</script>
