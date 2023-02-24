@@ -14,7 +14,7 @@ jobs:
       - run: |
           wget -O 'resume.xlsx' 'https://docs.google.com/spreadsheets/d/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/pub?output=xlsx' 
           convert-excel-to-json --config='{"sourceFile": "resume.xlsx", "header": {"rows": 1}, "columnToKey": {"*": "{{columnHeader}}"}}' > resume.json
-          date > generated.txt
+          rm resume.xlsx
           git config user.name 'Angela Zoss'
           git config user.email 'amzoss@users.noreply.github.com'
           git add .
