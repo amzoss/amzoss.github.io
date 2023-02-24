@@ -1,6 +1,9 @@
 name: Download Commit Push via Web
 run-name: downloading Google Sheets data
-on: [push]
+on: 
+  push:
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   Download-Commit-Push:
     runs-on: ubuntu-latest
