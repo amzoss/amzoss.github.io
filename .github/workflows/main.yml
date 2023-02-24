@@ -20,7 +20,9 @@ jobs:
         run:  wget -O 'resume.xlsx' 'https://docs.google.com/spreadsheets/d/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/pub?output=xlsx' 
       - name: Convert Excel to JSON
         run: |
-          convert-excel-to-json --config='{"sourceFile": "resume.xlsx", "header": {"rows": 1}, "columnToKey": {"*": "{{columnHeader}}"}}' > resume.json
+          echo "var sheetData = " > resumeData.js
+          convert-excel-to-json --config='{"sourceFile": "resume.xlsx", "header": {"rows": 1}, "columnToKey": {"*": "{{columnHeader}}"}}' >> resumeData.js
+          echo ";" >> resumeData.js
           rm resume.xlsx
       - name: Check if there are any changes
         id: verify_diff
