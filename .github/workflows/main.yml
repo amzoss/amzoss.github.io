@@ -18,7 +18,7 @@ jobs:
         env:
           GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}
           GSHEET_PRIVATE_KEY: ${{ secrets.GSHEET_PRIVATE_KEY }}
-        run: echo ${{ steps.update_worksheet.outputs.results }}
+      - run: echo ${{ steps.update_worksheet.outputs.results }}
       - run: |
           date > generated.txt
           git config user.name 'Angela Zoss'
