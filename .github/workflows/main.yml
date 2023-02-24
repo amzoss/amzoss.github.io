@@ -11,6 +11,7 @@ jobs:
         with:
           node-version: 16
       - run: npm install -g convert-excel-to-json
+      - run: convert-excel-to-json --sourceFile="resume.xlsx"
       - run: |
           wget -O 'resume.xlsx' 'https://docs.google.com/spreadsheets/d/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/pub?output=xlsx' 
           date > generated.txt
