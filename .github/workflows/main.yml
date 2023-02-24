@@ -7,6 +7,18 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
+      - id: 'update_worksheet'
+        uses: jroehl/gsheet.action@v1.0.0 # you can specify '@release' to always have the latest changes
+        with:
+          spreadsheetId: '1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8'
+          commands: | # list of commands, specified as a valid JSON string
+            [
+              { "command": "getData", "args": { "range": "'Education'!A2:I4" } }
+            ]
+        env:
+          GSHEET_CLIENT_EMAIL: ${{ secrets.GSHEET_CLIENT_EMAIL }}
+          GSHEET_PRIVATE_KEY: ${{ secrets.GSHEET_PRIVATE_KEY }}
+        run: echo ${{ steps.update_worksheet.outputs.results }}
       - run: |
           date > generated.txt
           git config user.name 'Angela Zoss'
