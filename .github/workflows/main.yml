@@ -13,7 +13,7 @@ jobs:
       - run: npm install -g convert-excel-to-json
       - run: |
           wget -O 'resume.xlsx' 'https://docs.google.com/spreadsheets/d/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/pub?output=xlsx' 
-          convert-excel-to-json --config='{"sourceFile": "tests/test-data.xlsx", columnToKey: {'*': '{{columnHeader}}'}}' > resume.json
+          convert-excel-to-json --config='{sourceFile: 'resume.xlsx', columnToKey: {'*': '{{columnHeader}}'}}' > resume.json
           date > generated.txt
           git config user.name 'Angela Zoss'
           git config user.email 'amzoss@users.noreply.github.com'
