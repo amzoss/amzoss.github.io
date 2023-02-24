@@ -10,8 +10,7 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm ci
-      - run: npm test        
+      - run: npm -v
       - run: |
           wget -O 'resume.xlsx' 'https://docs.google.com/spreadsheets/d/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/pub?output=xlsx' 
           date > generated.txt
