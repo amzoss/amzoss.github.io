@@ -10,17 +10,28 @@ jobs:
     steps:
       - name: Check out repository code
         uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Install node
+        uses: actions/setup-node@v3
         with:
           node-version: 16
-      - run: npm install -g convert-excel-to-json
-      - run: |
-          wget -O 'resume.xlsx' 'https://docs.google.com/spreadsheets/d/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/pub?output=xlsx' 
+      - name: Install convert-excel-to-json
+        run: npm install -g convert-excel-to-json
+      - name: Download Excel file
+        run:  wget -O 'resume.xlsx' 'https://docs.google.com/spreadsheets/d/1ofp1zsbczW2_t_7BAizj-gO1VL3w4y2IsFtLwvIGVv8/pub?output=xlsx' 
+      - name: Convert Excel to JSON
+        run: |
           convert-excel-to-json --config='{"sourceFile": "resume.xlsx", "header": {"rows": 1}, "columnToKey": {"*": "{{columnHeader}}"}}' > resume.json
           rm resume.xlsx
-          git config user.name 'Angela Zoss'
-          git config user.email 'amzoss@users.noreply.github.com'
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+      - name: Commit if updated
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.name 'Angela Zoss [GitHub Actions]'
+          git config --local user.email 'amzoss@users.noreply.github.com'
           git add .
-          git commit -m "generated"
+          git commit -m "Resume updated $(date)"
           git push
-      - run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: echo "This job's status is ${{ job.status }}."
