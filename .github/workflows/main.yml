@@ -1,5 +1,5 @@
 name: Download Commit Push via Web
-run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
+run-name: downloading Google Sheets data
 on: [push]
 jobs:
   Download-Commit-Push:
