@@ -27,7 +27,7 @@ jobs:
       - name: Check if there are any changes
         id: verify_diff
         run: |
-          git diff --exit-code . 
+          git diff 
       - name: Commit if updated
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
