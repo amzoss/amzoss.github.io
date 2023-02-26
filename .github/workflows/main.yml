@@ -1,6 +1,7 @@
 name: Download Commit Push via Web
 run-name: downloading Google Sheets data
 on: 
+  workflow_dispatch:
   push:
   schedule:
     - cron: "0 0 * * *"
