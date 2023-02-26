@@ -27,7 +27,7 @@ jobs:
       - name: Check if there are any changes
         id: verify_diff
         run: |
-          git diff --exit-code . || echo "changed=true" >> $GITHUB_OUTPUT
+          git diff --exit-code . 
       - name: Commit if updated
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
