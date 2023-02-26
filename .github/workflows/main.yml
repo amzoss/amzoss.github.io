@@ -24,7 +24,6 @@ jobs:
           echo "var sheetData = " > resumeData.js
           convert-excel-to-json --config='{"sourceFile": "resume.xlsx", "header": {"rows": 1}, "columnToKey": {"*": "{{columnHeader}}"}}' >> resumeData.js
           echo ";" >> resumeData.js
-          rm resume.xlsx
       - name: Check if there are any changes
         id: verify_diff
         run: |
