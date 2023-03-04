@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<p><em>{{ page.date_range }}</em></p>
+
+<p>{{ page.blurb }}</p>
+
+{{ content }}
+
+{% if page.related-links %}
+
+  <h2>Related Links:</h2>
+
+  <ul>
+  {% for lnk in page.related-links %}
+    <li>{{ lnk }}</li>
+  {% endfor %}
+  </ul>
+
+{% endif %}
+
+{% assign refs = "" | split: ',' %}
+
+{% for collection in site.collections %}
+    {% for obj in site[collection.label] %}
+        {% if obj.job contains page.pid %}
+          {% assign refs = refs | push: obj %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% assign refs = refs | sort: 'sort_date' | reverse %}
+
+{% if refs.size > 0 %}
+
+  <h2>Related Projects and Outputs:</h2>
+
+  <ul>
+  {% for ref in refs %}
+    <li>{% include reference_formatting.html pid=ref.pid %}</li>
+  {% endfor %}
+  </ul>
+
+{% endif %}

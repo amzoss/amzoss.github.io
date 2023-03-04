@@ -1,0 +1,39 @@
+@media print {
+    //.side-bar {
+        //position: relative;
+    //}
+
+    .no-print {
+        display: none;
+    }
+
+    .pagebreak {
+        clear: both;
+        page-break-after: always;
+    }
+
+    @page {
+        margin: 2cm;
+    }
+
+    h1, h2, h3, h4, h5 {
+        page-break-after: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    li, img {
+        page-break-inside: avoid;
+    }
+     
+
+    .site-header {
+        border-bottom: none;
+    }
+
+    .site-title {
+        font-size: 36px !important;
+    }
+  }

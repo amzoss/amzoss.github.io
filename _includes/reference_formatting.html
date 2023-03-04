@@ -1,0 +1,281 @@
+{% assign pid = include.pid %}
+
+{% assign html = '' %}
+
+{% assign item = '' %}
+
+{% for collection in site.collections %}
+    {% for obj in site[collection.label] %}
+        {% if obj.pid == pid %}
+            {% assign item = obj %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+
+{% assign type = item.collection %}
+
+
+{% if type == "education" %}
+
+    {% capture html %}{{item.institution}}. ({{item.year}}). {{item.degree}}.{% endcapture %}
+
+    {% if item.thesis_title %}
+        {% capture html %}{{html}} <b><i>{{item.thesis_title}}</i></b> ({{item.thesis_type}}). {{item.committee}}.{% endcapture %}
+    {% endif %}
+
+{% endif %}
+
+{% if type == "job" %}
+
+    {% capture html %}<b><a href="{{ item.url | relative_url }}">{{item.title}}</a></b> ({{item.date_range}})<br/><i>{{item.department}} &mdash; {{item.location}}</i>{% endcapture %}
+
+{% endif %}
+
+{% if type == "thesis" %}
+
+    {% assign last_char = item.author | slice: -1 %}
+
+    {% assign author_punct = '' %}
+
+    {% if last_char != "." %}
+        {% assign author_punct = "." %}
+    {% endif %}
+
+    {% assign title = '' %}
+
+    {% if item.thesis_url%}
+        {% capture title %}<a href="{{ item.thesis_url }}">{{ item.title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = item.title %}
+    {% endif %}
+
+    {% capture html %}{{ item.author }}{{ author_punct }} ({{ item.year }}). <i><b>{{ title }}</b></i>  ({{ item.type }}). Supervised by {{item.advisor}}. {{item.dept}}, {{item.university}}: {{ item.location }}.{% endcapture %}
+
+{% endif %} 
+
+{% if type == "journal-article" %}
+
+    {% assign last_char = item.authors | slice: -1 %}
+
+    {% assign author_punct = '' %}
+
+    {% if last_char != "." %}
+        {% assign author_punct = "." %}
+    {% endif %}
+
+    {% assign title = '' %}
+
+    {% if item.jrnl_url %}
+        {% capture title %}<a href="{{ item.jrnl_url }}">{{ item.title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = item.title %}
+    {% endif %}
+
+    {% assign doi_capture = '' %}
+
+    {% if item.doi %}
+        {% capture doi_capture %} doi:<a href="https://dx.doi.org/{{ item.doi }}">{{ item.doi }}</a>{% endcapture %}
+    {% endif %}
+
+    {% capture html %}{{ item.authors }}{{ author_punct }} ({{ item.year }}). <b>{{ title }}</b>. <i>{{item.journal}}, {{item.volume}}</i>({{item.issue}}), {{item.pages}}.{{doi_capture}}{% endcapture %}
+
+{% endif %} 
+
+{% if type == "book-section" %}
+
+    {% assign last_char = item.authors | slice: -1 %}
+
+    {% assign author_punct = '' %}
+
+    {% if last_char != "." %}
+        {% assign author_punct = "." %}
+    {% endif %}
+
+    {% assign title = '' %}
+
+    {% if item.chap_url %}
+        {% capture title %}<a href="{{ item.chap_url }}">{{ item.title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = item.title %}
+    {% endif %}
+
+    {% assign doi_capture = '' %}
+
+    {% if item.doi %}
+        {% capture doi_capture %} doi:<a href="https://dx.doi.org/{{ item.doi }}">{{ item.doi }}</a>{% endcapture %}
+    {% endif %}
+
+    {% assign pages_capture = '' %}
+
+    {% if item.pages %}
+        {% capture pages_capture %} (pp. {{item.pages}}){% endcapture %}
+    {% endif %}
+
+    {% assign publ_punct = '' %}
+
+    {% if item.place_published and item.publisher %}
+        {% assign publ_punct = ": " %}
+    {% endif %}
+
+    {% assign publ_punct2 = '' %}
+
+    {% if item.publisher %}
+        {% assign publ_punct2 = "." %}
+    {% endif %}
+
+    
+
+    {% capture html %}{{ item.authors }}{{ author_punct }} ({{ item.year }}). <b>{{ title }}</b>. In {{item.editor}} (Eds.), 
+    <i>{{item.book_title}}</i>{{pages_capture}}. {{item.place_published}}{{publ_punct}}{{item.publisher}}{{publ_punct2}}{{doi_capture}}{% endcapture %}
+
+{% endif %} 
+
+{% if type == "conference-paper" %}
+
+    {% assign last_char = item.authors | slice: -1 %}
+
+    {% assign author_punct = '' %}
+
+    {% if last_char != "." %}
+        {% assign author_punct = "." %}
+    {% endif %}
+
+    {% assign title = '' %}
+
+    {% if item.conf_url %}
+        {% capture title %}<a href="{{ item.conf_url }}">{{ item.title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = item.title %}
+    {% endif %}
+
+    {% assign doi_capture = '' %}
+
+    {% if item.doi %}
+        {% capture doi_capture %} doi:<a href="https://dx.doi.org/{{ item.doi }}">{{ item.doi }}</a>{% endcapture %}
+    {% endif %}
+
+    {% capture html %}{{ item.authors }}{{ author_punct }} ({{ item.year }}). <b>{{ title }}</b>. Paper presented at 
+    <i>{{item.conference_name}}</i>, {{item.conference_location}}.{{doi_capture}}{% endcapture %}
+
+{% endif %} 
+
+{% if type == "white-paper" %}
+
+    {% assign last_char = item.authors | slice: -1 %}
+
+    {% assign author_punct = '' %}
+
+    {% if last_char != "." %}
+        {% assign author_punct = "." %}
+    {% endif %}
+
+    {% assign title = '' %}
+
+    {% if item.rep_url %}
+        {% capture title %}<a href="{{ item.rep_url }}">{{ item.title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = item.title %}
+    {% endif %}
+
+    {% capture html %}{{ item.authors }}{{ author_punct }} ({{ item.year }}). <b>{{ title }}</b>. {{item.description}}.{% endcapture %}
+
+{% endif %} 
+
+{% if type == "projects" %}
+
+    {% capture html %}<strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br />
+        <em>{{ item.date_range }}</em>{% endcapture %}
+
+{% endif %} 
+
+{% if type == "certification" %}
+
+    {% capture html %}{{ item.certification }}{% endcapture %}
+
+{% endif %} 
+
+{% if type == "tools" %}
+
+    {% capture html %}<b>{{ item.grouping }}</b>: {{item.tools_list}}{% endcapture %}
+
+{% endif %} 
+
+{% if type == "award" %}
+
+    {% assign last_char = item.author | slice: -1 %}
+
+    {% assign author_punct = '' %}
+
+    {% if last_char != "." %}
+        {% assign author_punct = "." %}
+    {% endif %}
+
+    {% assign title = '' %}
+
+    {% if item.awd_url %}
+        {% capture title %}<a href="{{ item.awd_url }}">{{ item.title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = item.title %}
+    {% endif %}
+
+    {% assign award_capture = '' %}
+
+    {% if item.award %}
+        {% capture award_capture %} Won {{item.award}}.{% endcapture %}
+    {% endif %}
+
+    {% capture html %}{{ item.author }}{{ author_punct }} ({{ item.year }}). <b>{{ title }}</b>. {{item.description}}. {{item.location}}.{{award_capture}}{% endcapture %}
+
+{% endif %} 
+
+{% if type == "event" %}
+
+    {% assign title = '' %}
+
+    {% if item.event_url %}
+        {% capture title %}<a href="{{ item.event_url }}">{{ item.event_title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = {{item.event_title}} %}
+    {% endif %}
+
+    {% capture html %}{{item.event_type}}, <b>{{title}}</b> ({{item.event_date}}). Organized by {{ item.event_host_names }} at {{item.event_host_institution}} in {{item.event_location}}.{% endcapture %}
+    
+{% endif %} 
+
+{% if type == "conference-presentation" or 
+    type == "extended" or
+    type == "guest" or
+    type == "semester" or
+    type == "workshop"
+%}
+
+    {% assign last_char = item.authors | slice: -1 %}
+
+    {% assign author_punct = '' %}
+
+    {% if last_char != "." %}
+        {% assign author_punct = "." %}
+    {% endif %}
+
+    {% assign title = '' %}
+
+    {% if item.pres_url %}
+        {% capture title %}<a href="{{ item.pres_url }}">{{ item.title }}</a>{% endcapture %}
+    {% else %}
+        {% assign title = item.title %}
+    {% endif %}
+
+    {% capture html %}{{ item.authors }}{{ author_punct }} ({{ item.pres_date }}). <b>{{ title }}</b>. {{ item.type }} at {{ item.host }}, {{ item.location }}.{% endcapture %}
+
+{% endif %} 
+
+{% if type == "teaching" %}
+
+    {% capture html %}<strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br />
+        <em>{{ item.date_range }}</em>{% endcapture %}
+
+{% endif %} 
+
+{{ html }}
+

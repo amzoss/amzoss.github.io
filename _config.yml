@@ -1,0 +1,56 @@
+title: Angela Zoss
+email: angela.zoss@gmail.com
+description: ""
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.angelazoss.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+color_scheme: az_color
+
+permalink: pretty
+
+aux_links:
+  Site Repository: https://github.com/amzoss/amzoss.github.io
+
+collections:
+  education:
+    output: false
+  job:
+    output: true
+  thesis:
+    output: false
+  journal-article:
+    output: false
+  book-section:
+    output: false
+  conference-paper:
+    output: false
+  white-paper:
+    output: false
+  projects:
+    output: true
+  certification:
+    output: false
+  tools:
+    output: false
+  award:
+    output: false
+  conference-presentation:
+    output: false
+  extended:
+    output: false
+  guest:
+    output: false
+  semester:
+    output: false
+  workshop:
+    output: false
+  event:
+    output: false
+  teaching:
+    output: true
+  themes:
+    output: true
+  

@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% if page.collaborators %}
+<p>Collaborators: {{page.collaborators}}</p>
+{% endif %}
+
+<p><em>{{ page.date_range }}</em></p>
+
+{% if page.image %}
+  {% if page.image.first %}
+    {% for img in page.image %}
+    <p><a href="{{ img | relative_url }}"><img src="{{ img | relative_url }}" width="300px;" /></a></p>
+    {% endfor %}
+  {% else %}
+     <p><a href="{{ page.image | relative_url }}"><img src="{{ page.image | relative_url }}" width="300px;" /></a></p>
+  {% endif %}
+{% endif %}
+
+{{ content }}
+
+{% if page.related-links %}
+
+  <h2>Related Links:</h2>
+
+  <ul>
+  {% for lnk in page.related-links %}
+    <li>{{ lnk }}</li>
+  {% endfor %}
+  </ul>
+
+{% endif %}
+
+{% assign refs = "" | split: ',' %}
+
+{% for collection in site.collections %}
+    {% for obj in site[collection.label] %}
+        {% if obj.project == page.pid %}
+          {% assign refs = refs | push: obj %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+{% assign refs = refs | sort: 'sort_date' | reverse %}
+
+{% if refs.size > 0 %}
+
+  <h2>Project Outputs:</h2>
+
+  <ul>
+  {% for ref in refs %}
+    <li>{% include reference_formatting.html pid=ref.pid %}</li>
+  {% endfor %}
+  </ul>
+
+{% endif %}
