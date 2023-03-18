@@ -31,6 +31,8 @@ collections:
     output: false
   projects:
     output: true
+  project_archive:
+    output: true
   certification:
     output: false
   tools:

@@ -6,9 +6,19 @@ pdf_version: 'assets/files/AngelaZoss-Resume-2023-03-04.pdf'
 nav_order: 6
 ---
 
-# Résumé
+# Résumé 
+{: .no_toc }
 
 <i><a href="{{ page.pdf_version | relative_url }}" class="no-print">PDF version</a></i>
+
+<details markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+* TOC
+{:toc}
+</details>
 
 ## Education
 
@@ -39,7 +49,16 @@ nav_order: 6
 
 ## Projects
 
-{% assign sorted = site.projects | sort: 'order' %}
+{% assign items = "" | split: ',' %}
+
+{% assign proj_collections = "projects|project_archive" | split: "|" %}
+{% for collection in proj_collections %}
+  {% for obj in site[collection] %}
+    {% assign items = items | push: obj %}
+  {% endfor %}
+{% endfor %}
+
+{% assign sorted = items | sort: 'end_date' | reverse %}
 {% for prj in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=prj.pid %}</li>
