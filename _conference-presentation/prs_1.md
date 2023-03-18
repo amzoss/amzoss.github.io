@@ -5,7 +5,7 @@ authors: Nassar, Nassib, Beltaine, Sharon, Zoss, Angela M. and Walker, Kevin
 sort_year: 2020
 sort_date: 2020-02-12
 title: FOLIO Reporting with the Library Data Platform
-location: presented online.
+location: virtual
 host: FOLIO Forum
 pres_date: February 12, 2020
 type: Webinar
