@@ -11,7 +11,7 @@ nav_order: 6
 
 <i><a href="{{ page.pdf_version | relative_url }}" class="no-print">PDF version</a></i>
 
-<details markdown="block">
+<details markdown="block" class="no-print">
   <summary>
     Table of contents
   </summary>
