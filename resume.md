@@ -58,12 +58,14 @@ nav_order: 6
   {% endfor %}
 {% endfor %}
 
+<div class="multi-col pagebreak" >
 {% assign sorted = items | sort: 'end_date' | reverse %}
 {% for prj in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=prj.pid %}</li>
   </ul>
 {% endfor %}
+</div>
 
 ## Publications
 
