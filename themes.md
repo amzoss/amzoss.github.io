@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Themes
-permalink: /themes/
+title: Areas of Focus
+permalink: /areas-of-focus/
 nav_order: 5
 ---
 
