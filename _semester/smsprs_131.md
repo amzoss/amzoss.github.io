@@ -1,5 +1,5 @@
 ---
-pid: prs_131
+pid: smsprs_131
 authors: Zoss, Angela M.
 sort_year: 2011
 title: Emerging Technologies and Libraries

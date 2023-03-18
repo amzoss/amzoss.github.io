@@ -1,5 +1,5 @@
 ---
-pid: prs_130
+pid: smsprs_130
 authors: Zoss, Angela M.
 sort_year: 2011
 title: Collection Development and Management

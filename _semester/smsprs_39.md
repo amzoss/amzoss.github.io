@@ -1,5 +1,5 @@
 ---
-pid: prs_39
+pid: smsprs_39
 authors: Krishna, Anirudh, Zoss, Angela M. and Nolan, Sarah
 sort_year: 2018
 title: Visualizing Social Mobility in the Developing World

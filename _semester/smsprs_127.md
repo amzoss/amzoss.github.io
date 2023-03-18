@@ -1,5 +1,5 @@
 ---
-pid: prs_127
+pid: smsprs_127
 authors: Zoss, Angela M.
 sort_year: 2012
 title: Information Visualization

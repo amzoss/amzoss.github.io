@@ -1,5 +1,5 @@
 ---
-pid: prs_142
+pid: smsprs_142
 authors: Gay, Geri, Leshed, Gilly and Zoss, Angela M.
 sort_year: 2006
 title: Human-Computer Interaction
