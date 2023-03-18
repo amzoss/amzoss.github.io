@@ -8,7 +8,7 @@ sort_year: 2021
 label: Assessment and Data Visualization Analyst
 order: '1'
 collection: job
-blurb: Through discussion with Duke University Libraries IT leadership, I was offered the chance to build a new position to increase capacity for data-informed decisions and workflow automation.
+blurb: In response to the Libraries' growing needs for internal data expertise, my position was restructured to increase capacity in assessment, reporting, and data workflow automation.
 layout: job_post
 ---
 ## Responsibilities
