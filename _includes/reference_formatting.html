@@ -21,7 +21,7 @@
     {% capture html %}{{item.institution}}. ({{item.year}}). {{item.degree}}.{% endcapture %}
 
     {% if item.thesis_title %}
-        {% capture html %}{{html}} <b><i>{{item.thesis_title}}</i></b> ({{item.thesis_type}}). {{item.committee}}.{% endcapture %}
+        {% capture html %}{{html}} <a href="{{item.thesis_url}}"><b><i>{{item.thesis_title}}</i></b></a> ({{item.thesis_type}}). {{item.committee}}.{% endcapture %}
     {% endif %}
 
 {% endif %}
@@ -182,7 +182,8 @@
 
 {% endif %} 
 
-{% if type == "projects" %}
+{% if type == "projects" or 
+  type == "project_archive" %}
 
     {% capture html %}<strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br />
         <em>{{ item.date_range }}</em>{% endcapture %}

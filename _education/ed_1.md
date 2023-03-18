@@ -4,6 +4,7 @@ institution: Indiana University
 year: 2018
 degree: Ph.D. in Information Science. Minor in Informatics
 thesis_title: 'Network Visualization Literacy: Task, Context, and Layout'
+thesis_url: http://hdl.handle.net/2022/22117
 thesis_type: Dissertation
 committee: Supervised by Drs. Katy Börner, Hamid Ekbia, Staša Milojević, and Johan
   Bollen
