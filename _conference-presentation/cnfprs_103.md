@@ -1,0 +1,14 @@
+---
+pid: cnfprs_103
+authors: Zoss, Angela M.
+sort_year: 2014
+title: 'From imagination to visualization: Getting comfortable with data representations'
+location: Raleigh, NC
+host: THATCamp Digital Knowledge 2014
+pres_date: March 28, 2014
+type: Presentation
+grouping: conference
+label: 'From imagination to visualization: Getting comfortable with data representations'
+order: '25'
+collection: conference-presentation
+---
