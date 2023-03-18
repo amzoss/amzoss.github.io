@@ -1,5 +1,5 @@
 ---
-pid: prs_102
+pid: extprs_102
 authors: Zoss, Angela M. and Monson, Eric
 sort_year: 2014
 title: Designing Academic Figures and Posters

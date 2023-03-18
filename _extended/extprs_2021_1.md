@@ -1,16 +1,16 @@
 ---
-pid: prs_2022_01
+pid: extprs_2021_1
 authors: Zoss, Angela M.
-sort_year: 2022
-sort_date: 2022-08-12
+sort_year: 2021
+sort_date: 2021-08-13
 title: Visualization for data science in R
 location: Virtual
 host: Data Matters Data Science Short Course Series, sponsored by the National Consortium
   for Data Science, The Odum Institute, and RENCI
-pres_date: August 11-12, 2022
+pres_date: August 12-13, 2021
 type: Two-day course
 grouping: extended
-pres_url: https://github.com/amzoss/RVis-2Day/tree/fall-2022
+pres_url: https://github.com/amzoss/RVis-2Day/tree/fall-2021
 label: Visualization for data science in R
 order: '00'
 collection: extended

@@ -1,5 +1,5 @@
 ---
-pid: prs_82
+pid: extprs_82
 authors: Zoss, Angela M.
 sort_year: 2015
 title: Introduction to data visualization

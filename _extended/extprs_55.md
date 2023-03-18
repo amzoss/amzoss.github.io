@@ -1,5 +1,5 @@
 ---
-pid: prs_55
+pid: extprs_55
 authors: Zoss, Angela M.
 sort_year: 2017
 title: Visualization week

@@ -1,5 +1,5 @@
 ---
-pid: prs_12
+pid: extprs_12
 authors: Zoss, Angela M.
 sort_year: 2019
 title: Data visualization workshop

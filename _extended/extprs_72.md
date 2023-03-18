@@ -1,5 +1,5 @@
 ---
-pid: prs_72
+pid: extprs_72
 authors: Joque, Justin, Rutkowski, Andy  and Zoss, Angela M.
 sort_year: 2016
 title: Making sense of data through visualization

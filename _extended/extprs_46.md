@@ -1,15 +1,15 @@
 ---
-pid: prs_79
+pid: extprs_46
 authors: Zoss, Angela M. and Monson, Eric
-sort_year: 2015
+sort_year: 2017
 title: Designing Academic Figures and Posters
 location: Beaufort, NC
 host: Duke University Marine Lab, Research Experience for Undergraduates in Estuarine
   and Coastal Marine Systems
-pres_date: June 1, 2015
+pres_date: July 1, 2017
 type: One-day workshop for undergraduates
 grouping: extended
 label: Designing Academic Figures and Posters
-order: '16'
+order: '06'
 collection: extended
 ---

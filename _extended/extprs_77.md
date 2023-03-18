@@ -1,5 +1,5 @@
 ---
-pid: prs_77
+pid: extprs_77
 authors: Joque, Justin and Zoss, Angela M.
 sort_year: 2015
 title: 'Data visualization in the library: Collections, tools, and scalable services'

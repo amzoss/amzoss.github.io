@@ -1,5 +1,5 @@
 ---
-pid: prs_47
+pid: extprs_47
 authors: Zoss, Angela M.
 sort_year: 2017
 title: Introduction to data and visualization for humanities scholars
