@@ -22,26 +22,30 @@ layout: default
 
 {% endif %}
 
-{% assign refs = "" | split: ',' %}
-
-{% for collection in site.collections %}
-    {% for obj in site[collection.label] %}
-        {% if obj.job contains page.pid %}
-          {% assign refs = refs | push: obj %}
-        {% endif %}
-    {% endfor %}
-{% endfor %}
-
-{% assign refs = refs | sort: 'sort_date' | reverse %}
+{% assign refs = site.documents | where: "job", page.pid  %}
 
 {% if refs.size > 0 %}
 
+  {% assign cols = refs | map: 'collection' | uniq | sort %}
+
+  {% assign sorted-cols = site.collections | where_exp: "collection", "cols contains collection.label" | sort: "display_order" %}
+
   <h2>Related Projects and Outputs:</h2>
 
+  {% for col in sorted-cols %}
+
+  <h3>{{ col.display_name }}</h3>
+
+  {% assign ref_subset = refs | where: "collection", col.label %}
+
+  {% assign ref_subset = ref_subset | sort: 'sort_date' | reverse %}
+
   <ul>
-  {% for ref in refs %}
+  {% for ref in ref_subset %}
     <li>{% include reference_formatting.html pid=ref.pid %}</li>
   {% endfor %}
   </ul>
+
+  {% endfor %}
 
 {% endif %}

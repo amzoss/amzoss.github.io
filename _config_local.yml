@@ -20,42 +20,82 @@ aux_links:
 collections:
   education:
     output: false
+    display_name: "Education"
+    display_order: 1
   job:
     output: true
+    display_name: "Work Experience"
+    display_order: 2
   thesis:
     output: false
+    display_name: "Theses/Dissertations"
+    display_order: 6
   journal-article:
     output: false
+    display_name: "Journal Articles"
+    display_order: 7
   book-section:
     output: false
+    display_name: "Book Chapters"
+    display_order: 8
   conference-paper:
     output: false
+    display_name: "Conference Papers"
+    display_order: 9
   white-paper:
     output: false
+    display_name: "White Papers"
+    display_order: 10
   projects:
     output: true
+    display_name: "Projects"
+    display_order: 4
   project_archive:
     output: true
+    display_name: "Projects"
+    display_order: 5
   certification:
     output: false
+    display_name: "Certifications"
+    display_order: 11
   tools:
     output: false
+    display_name: "Skills and Experience"
+    display_order: 3
   award:
     output: false
+    display_name: "Awards/Honors"
+    display_order: 12
   conference-presentation:
     output: false
+    display_name: "Presentations at Conferences, Professional Gatherings"
+    display_order: 16
   extended:
     output: false
+    display_name: "Extended Workshop Instruction Experiences"
+    display_order: 15
   guest:
     output: false
+    display_name: "Guest Lectures"
+    display_order: 17
   semester:
     output: false
+    display_name: "Semester-Length Teaching Experiences"
+    display_order: 14
   workshop:
     output: false
+    display_name: "Short-form Instruction Experience"
+    display_order: 18
   event:
     output: false
+    display_name: "Event Participation"
+    display_order: 13
   teaching:
     output: true
+    display_name: "Teaching"
+    display_order: 19
   themes:
     output: true
+    display_name: "Areas of Focus"
+    display_order: 20
   

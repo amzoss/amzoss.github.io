@@ -2,15 +2,7 @@
 
 {% assign html = '' %}
 
-{% assign item = '' %}
-
-{% for collection in site.collections %}
-    {% for obj in site[collection.label] %}
-        {% if obj.pid == pid %}
-            {% assign item = obj %}
-        {% endif %}
-    {% endfor %}
-{% endfor %}
+{% assign item = site.documents | where: "pid", pid | first %}
 
 
 {% assign type = item.collection %}
