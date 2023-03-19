@@ -1,5 +1,5 @@
 ---
-pid: wksprs_23
+pid: cnfprs_23
 authors: Zoss, Angela M. and Herndon, Joel
 sort_year: 2018
 sort_date: 2018-07-11
@@ -8,8 +8,8 @@ location: Durham, NC
 host: Duke University Libraries – First Wednesday Series
 pres_date: July 11, 2018
 type: Presentation
-grouping: workshop
+grouping: conference-presentation
 label: 'Data lakes and canals: A case study for using data for planning and assessment'
 order: '13'
-collection: workshop
+collection: conference-presentation
 ---
