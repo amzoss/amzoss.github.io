@@ -10,4 +10,5 @@ conf_url: https://www.libraryassessment.org/wp-content/uploads/2022/10/187-Daly-
 order: '2'
 collection: conference-paper
 project: assessing-the-needs-of-patrons-with-disabilities
+theme: dei
 ---
