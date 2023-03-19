@@ -7,9 +7,11 @@ nav_order: 6
 ---
 
 # Résumé 
-{: .no_toc }
+{: .no_toc .no-print }
 
-<i><a href="{{ page.pdf_version | relative_url }}" class="no-print">PDF version</a></i>
+<p class="no-print"><i><a href="{{ page.pdf_version | relative_url }}">PDF version</a></i></p>
+
+<div class="show-print"><strong>Email:</strong> angela.zoss@gmail.com</div>
 
 <details markdown="block" class="no-print">
   <summary>
@@ -41,11 +43,11 @@ nav_order: 6
 ## Skills and Experience
 
 {% assign sorted = site.tools | sort: 'order' %}
+  <ul class="pagebreak">
 {% for tool in sorted %}
-  <ul>
     <li>{% include reference_formatting.html pid=tool.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ## Projects
 

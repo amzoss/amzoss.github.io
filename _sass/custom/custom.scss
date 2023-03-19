@@ -1,7 +1,18 @@
+@media screen {
+    .show-print {
+        display: none;
+    }
+    
+}
+
 @media print {
     //.side-bar {
         //position: relative;
     //}
+
+    .show-print {
+        display: block;
+    }
 
     .multi-col {
       column-count: 2;
