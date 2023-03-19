@@ -2,6 +2,7 @@
 pid: jrnl_4
 authors: Zoss, Angela M. and Börner, Katy
 year: 2012
+sort_date: 2011-12-23
 title: Mapping interactions within the evolving science of science and innovation
   policy community
 journal: Scientometrics

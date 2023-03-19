@@ -2,6 +2,7 @@
 pid: jrnl_2
 authors: Zoss, Angela M.
 year: 2012
+sort_date: 2012-08-21
 title: 'Seeding a field: The growth of bibliometrics through co-authorship ties'
 journal: Bulletin of the American Society for Information Science and Technology
 volume: 38

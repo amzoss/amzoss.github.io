@@ -22,7 +22,7 @@ nav_order: 6
 
 ## Education
 
-{% assign sorted = site.education | sort: 'order' %}
+{% assign sorted = site.education | sort: 'year' | reverse %}
 {% for ed in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=ed.pid %}</li>
@@ -31,7 +31,7 @@ nav_order: 6
 
 ## Work Experience
 
-{% assign sorted = site.job | sort: 'order' %}
+{% assign sorted = site.job | sort: 'sort_year' | reverse %}
 {% for pos in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=pos.pid %}</li>
@@ -71,7 +71,7 @@ nav_order: 6
 
 ### Theses/Dissertations
 
-{% assign sorted = site.thesis | sort: 'order' %}
+{% assign sorted = site.thesis | sort: 'sort_date' | reverse %}
 {% for ths in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=ths.pid %}</li>
@@ -80,7 +80,7 @@ nav_order: 6
 
 ### Journal Articles
 
-{% assign sorted = site.journal-article | sort: 'order' %}
+{% assign sorted = site.journal-article | sort: 'sort_date' | reverse %}
 {% for art in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=art.pid %}</li>
@@ -89,7 +89,7 @@ nav_order: 6
 
 ### Book Chapters
 
-{% assign sorted = site.book-section | sort: 'order' %}
+{% assign sorted = site.book-section | sort: 'sort_date' | reverse %}
 {% for chp in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=chp.pid %}</li>
@@ -98,7 +98,7 @@ nav_order: 6
 
 ### Conference Papers
 
-{% assign sorted = site.conference-paper | sort: 'year' | reverse %}
+{% assign sorted = site.conference-paper | sort: 'sort_date' | reverse %}
 {% for cnfpap in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=cnfpap.pid %}</li>
@@ -116,7 +116,7 @@ nav_order: 6
 
 ## Certifications
 
-{% assign sorted = site.certification | sort: 'order' %}
+{% assign sorted = site.certification | sort: 'sort_date' | reverse %}
 {% for cert in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=cert.pid %}</li>
@@ -125,7 +125,7 @@ nav_order: 6
 
 ## Awards/Honors
 
-{% assign sorted = site.award | sort: 'order' %}
+{% assign sorted = site.award | sort: 'year' | reverse %}
 {% for awd in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=awd.pid %}</li>

@@ -4,6 +4,6 @@ grouping: Visualization
 tools_list: Excel, Tableau, R/tidyverse, Google Data Studio, Plot.ly, Gephi, RAW,
   JMP
 label: Visualization
-order: '4'
+order: 4
 collection: tools
 ---

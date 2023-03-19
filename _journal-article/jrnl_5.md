@@ -3,6 +3,7 @@ pid: jrnl_5
 authors: Börner, K., Huang, W. (B.), Linnemeier, M., Duhon, R. J., Phillips, P., Ma,
   N., Zoss, Angela M., Guo, H. and Price, M. A.
 year: 2010
+sort_date: 2010-01-06
 title: 'Rete-netzwerk-red: analyzing and visualizing scholarly networks using the
   Network Workbench Tool'
 journal: Scientometrics

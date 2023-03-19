@@ -2,6 +2,7 @@
 pid: th_2
 author: Zoss, Angela M.
 year: 2008
+sort_date: 2008-05-01
 title: 'From Measure to Leisure: Extending Theory on Technology in the Workplace'
 dept: Department of Communication
 location: Ithaca, NY

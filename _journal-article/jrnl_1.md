@@ -3,6 +3,7 @@ pid: jrnl_1
 authors: Stipelman, Brooke A., Hall, Kara L., Zoss, Angela M., Okamoto, Janet, Stokols,
   Daniel and Börner, Katy
 year: 2014
+sort_date: 2014-08-02
 title: 'Mapping the Impact of Transdisciplinary Research: A Visual Comparison of Investigator-Initiated
   and Team-Based Tobacco Use Research Publications'
 journal: Journal of Translational Medicine & Epidemiology

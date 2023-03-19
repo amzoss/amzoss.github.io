@@ -3,6 +3,7 @@ pid: chp_4
 project_id: prj_1
 authors: Zoss, Angela M.
 year: 2014
+sort_date: 2014-12-31
 title: Cognitive processes and traits related to graphic comprehension
 editor: Huang, M. and Huang, W.
 book_title: Innovative Approaches of Data Visualization and Visual Analytics

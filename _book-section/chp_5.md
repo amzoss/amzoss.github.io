@@ -2,6 +2,7 @@
 pid: chp_5
 authors: Zoss, Angela M., Conover, Michael and Börner, Katy
 year: 2010
+sort_date: 2010-12-31
 title: Where Are the Academic Jobs? Interactive Exploration of Job Advertisements
   in Geospatial and Topical Space
 editor: Chai, S.-K., Salerno, J. and Mabry, P. L.

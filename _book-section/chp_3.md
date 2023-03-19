@@ -2,6 +2,7 @@
 pid: chp_3
 authors: Zoss, Angela M.
 year: 2016
+sort_date: 2016-09-15
 title: Designing Public Visualizations of Library Data
 editor: Magnuson, L.
 book_title: 'Data Visualization: A Guide to Visual Storytelling for Librarians'
