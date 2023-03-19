@@ -12,4 +12,5 @@ grouping: conference
 label: Data quality, transparency and reproducibility in large bibliographic datasets
 order: '19'
 collection: conference-presentation
+theme: open-source
 ---
