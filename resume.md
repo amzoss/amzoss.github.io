@@ -25,20 +25,20 @@ nav_order: 6
 ## Education
 
 {% assign sorted = site.education | sort: 'year' | reverse %}
-{% for ed in sorted %}
   <ul>
+  {% for ed in sorted %}
     <li>{% include reference_formatting.html pid=ed.pid %}</li>
+  {% endfor %}
   </ul>
-{% endfor %}
 
 ## Work Experience
 
 {% assign sorted = site.job | sort: 'sort_year' | reverse %}
+<ul>
 {% for pos in sorted %}
-  <ul>
     <li>{% include reference_formatting.html pid=pos.pid %}</li>
-  </ul>
 {% endfor %}
+</ul>
 
 ## Skills and Experience
 
@@ -62,11 +62,11 @@ nav_order: 6
 
 <div class="multi-col pagebreak" >
 {% assign sorted = items | sort: 'end_date' | reverse %}
-{% for prj in sorted %}
   <ul>
+{% for prj in sorted %}
     <li>{% include reference_formatting.html pid=prj.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 </div>
 
 ## Publications
@@ -74,119 +74,118 @@ nav_order: 6
 ### Theses/Dissertations
 
 {% assign sorted = site.thesis | sort: 'sort_date' | reverse %}
-{% for ths in sorted %}
   <ul>
+{% for ths in sorted %}
     <li>{% include reference_formatting.html pid=ths.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ### Journal Articles
 
 {% assign sorted = site.journal-article | sort: 'sort_date' | reverse %}
-{% for art in sorted %}
   <ul>
+{% for art in sorted %}
     <li>{% include reference_formatting.html pid=art.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ### Book Chapters
 
 {% assign sorted = site.book-section | sort: 'sort_date' | reverse %}
-{% for chp in sorted %}
   <ul>
+{% for chp in sorted %}
     <li>{% include reference_formatting.html pid=chp.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ### Conference Papers
 
 {% assign sorted = site.conference-paper | sort: 'sort_date' | reverse %}
-{% for cnfpap in sorted %}
   <ul>
+{% for cnfpap in sorted %}
     <li>{% include reference_formatting.html pid=cnfpap.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ### White Papers
 
 {% assign sorted = site.white-paper | sort: 'sort_date' | reverse %}
-{% for whtpap in sorted %}
   <ul>
+{% for whtpap in sorted %}
     <li>{% include reference_formatting.html pid=whtpap.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ## Certifications
 
 {% assign sorted = site.certification | sort: 'sort_date' | reverse %}
-{% for cert in sorted %}
-  <ul>
+<ul>
+  {% for cert in sorted %}
     <li>{% include reference_formatting.html pid=cert.pid %}</li>
-  </ul>
-{% endfor %}
+  {% endfor %}
+</ul>
 
 ## Awards/Honors
 
 {% assign sorted = site.award | sort: 'year' | reverse %}
-{% for awd in sorted %}
   <ul>
+{% for awd in sorted %}
     <li>{% include reference_formatting.html pid=awd.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ## Event Participation
 
 {% assign sorted = site.event | sort: 'sort_year' | reverse %}
-{% for evt in sorted %}
   <ul>
+{% for evt in sorted %}
     <li>{% include reference_formatting.html pid=evt.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ## Teaching Activities and Presentations
 
 ### Semester-Length Teaching Experiences
 
 {% assign sorted = site.semester | sort: 'sort_date' | reverse %}
-{% for sem in sorted %}
   <ul>
+{% for sem in sorted %}
     <li>{% include reference_formatting.html pid=sem.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ### Extended Workshop Instruction Experiences
 
 {% assign sorted = site.extended | sort: 'sort_date' | reverse %}
-{% for ext in sorted %}
   <ul>
+{% for ext in sorted %}
     <li>{% include reference_formatting.html pid=ext.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ### Presentations at Conferences, Professional Gatherings
 
 {% assign sorted = site.conference-presentation | sort: 'sort_date' | reverse %}
-{% for confpres in sorted %}
   <ul>
+{% for confpres in sorted %}
     <li>{% include reference_formatting.html pid=confpres.pid %}</li>
-  </ul>
-
 {% endfor %}
+  </ul>
 
 ### Guest Lectures
 
 {% assign sorted = site.guest | sort: 'sort_date' | reverse %}
-{% for gst in sorted %}
   <ul>
+{% for gst in sorted %}
     <li>{% include reference_formatting.html pid=gst.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
 
 ### Short-form Instruction Experience
 
 {% assign sorted = site.workshop | sort: 'sort_date' | reverse %}
-{% for wkshp in sorted %}
   <ul>
+{% for wkshp in sorted %}
     <li>{% include reference_formatting.html pid=wkshp.pid %}</li>
-  </ul>
 {% endfor %}
+  </ul>
