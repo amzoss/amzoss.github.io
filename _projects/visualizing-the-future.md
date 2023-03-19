@@ -44,4 +44,4 @@ as a research product and form of expression.
 * Serve as project lead and primary developer for <a href="https://visualizingthefuture.github.io/examples-repository/">Teach Viz By Example</a>, an online repository for example datasets and visualizations that are especially well suited for teaching critical issues in data visualization
 * Serve as primary designer and analyst for grant assessment work
 * Help develop and coordinate development of data visualization [instructional modules](https://visualizingthefuture.github.io/data-viz-101/) and [videos](https://www.youtube.com/playlist?list=PLNSGxw-xV6Nd88myphRROrYhodrU3m8Hd)
-* Collaborated to organize many public events, including monthly virtual discussion sessions and a three-day public symposium
+* Collaborated to organize many public events, including [monthly virtual discussion sessions](https://youtube.com/playlist?list=PLNSGxw-xV6Nf7P-HnKCCitLBU6IYd8Kup) and a [three-day public symposium](https://youtube.com/playlist?list=PLNSGxw-xV6Nfs2S3WSR_SPn5Of86YXPL3)
