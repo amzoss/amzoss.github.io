@@ -2,6 +2,7 @@
 pid: wksprs_73
 authors: Zoss, Angela M.
 sort_year: 2015
+sort_date: 2015-02-04
 title: "‘Places & Spaces: Mapping Science’ at Duke"
 location: Durham, NC
 host: the Duke University Libraries First Wednesday Series

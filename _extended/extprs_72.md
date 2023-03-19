@@ -2,6 +2,7 @@
 pid: extprs_72
 authors: Joque, Justin, Rutkowski, Andy  and Zoss, Angela M.
 sort_year: 2016
+sort_date: 2016-06-01
 title: Making sense of data through visualization
 location: Orlando, FL
 host: Annual meeting of the American Library Association

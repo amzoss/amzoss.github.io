@@ -2,6 +2,7 @@
 pid: gstprs_61
 authors: Zoss, Angela M. and Monson, Eric
 sort_year: 2016
+sort_date: 2016-09-28
 title: Data Visualization & Exploration
 location: Durham, NC
 host: graduate Statistical Science course on Programming for Statistical Science

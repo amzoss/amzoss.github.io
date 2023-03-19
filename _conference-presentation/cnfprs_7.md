@@ -2,6 +2,7 @@
 pid: cnfprs_7
 authors: Zoss, Angela M.
 sort_year: 2019
+sort_date: 2019-07-31
 title: Accessibility in Word and PowerPoint
 location: Durham, NC
 host: Duke University Libraries – Librarians’ Summer Camp

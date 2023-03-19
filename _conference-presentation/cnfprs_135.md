@@ -2,6 +2,7 @@
 pid: cnfprs_135
 authors: Zoss, Angela M.
 sort_year: 2010
+sort_date: 2010-07-08
 title: 'Information Visualization and Network Workbench: Incorporating Cyberinfrastructure
   into Instruction'
 location: Durham, NC

@@ -2,6 +2,7 @@
 pid: gstprs_31
 authors: Zoss, Angela M.
 sort_year: 2018
+sort_date: 2018-02-20
 title: Introduction to Effective Data Visualization
 location: Durham, NC
 host: graduate Public Policy course called Public Policy Presentation Practicum

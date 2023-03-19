@@ -2,6 +2,7 @@
 pid: cnfprs_141
 authors: Zoss, Angela M. and Börner, Katy
 sort_year: 2008
+sort_date: 2008-11-08
 title: Mapping Transdisciplinary Tobacco Use Research Centers (TTURC) Publications
   onto the Landscape of the Tobacco Research Field
 location: Denver, Colorado

@@ -2,6 +2,7 @@
 pid: gstprs_95
 authors: Zoss, Angela M.
 sort_year: 2014
+sort_date: 2014-01-31
 title: Comparison in Visualization
 location: Durham, NC
 host: undergraduate course on Data Visualization

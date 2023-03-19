@@ -2,6 +2,7 @@
 pid: gstprs_108
 authors: Zoss, Angela M.
 sort_year: 2014
+sort_date: 2014-04-10
 title: Practical Data Visualization
 location: Durham, NC
 host: undergraduate Computer Science course called Everything Data

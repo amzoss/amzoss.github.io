@@ -2,6 +2,7 @@
 pid: smsprs_127
 authors: Zoss, Angela M.
 sort_year: 2012
+sort_date: 2012-05-01
 title: Information Visualization
 location: Bloomington, IN
 host: Indiana University

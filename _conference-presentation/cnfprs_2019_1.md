@@ -2,6 +2,7 @@
 pid: cnfprs_2019_1
 authors: Lyon, Meghan and Zoss, Angela M.
 sort_year: 2019
+sort_date: 2019-07-11
 title: Exploring and Visualizing Manuscript Metadata for Project Prioritization
 location: Chapel Hill, NC
 host: 2019 TRLN Annual Meeting

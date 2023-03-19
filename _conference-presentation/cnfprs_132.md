@@ -2,6 +2,7 @@
 pid: cnfprs_132
 authors: Zoss, Angela M. and Börner, Katy
 sort_year: 2011
+sort_date: 2011-07-06
 title: Mapping interactions within the evolving Science of Science and Innovation
   Policy community
 location: Durban, South Africa

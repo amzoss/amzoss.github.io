@@ -2,6 +2,7 @@
 pid: cnfprs_124
 authors: Zoss, Angela M.
 sort_year: 2013
+sort_date: 2013-12-10
 title: Visualizing (:) A New Data Support Role for Duke University Libraries
 location: Washington DC
 host: Coalition for Networked Information (CNI) Fall 2013 Meeting

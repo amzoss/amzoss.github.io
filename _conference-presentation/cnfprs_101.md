@@ -2,6 +2,7 @@
 pid: cnfprs_101
 authors: Zoss, Angela M.
 sort_year: 2014
+sort_date: 2014-07-18
 title: Design and support recommendations from data visualization research
 location: Raleigh, NC
 host: Science Boot Camp Southeast

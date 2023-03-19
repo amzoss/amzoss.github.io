@@ -2,6 +2,7 @@
 pid: extprs_77
 authors: Joque, Justin and Zoss, Angela M.
 sort_year: 2015
+sort_date: 2015-06-01
 title: 'Data visualization in the library: Collections, tools, and scalable services'
 location: San Francisco, CA
 host: Annual meeting of the American Library Association

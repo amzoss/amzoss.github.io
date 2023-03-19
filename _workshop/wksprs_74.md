@@ -2,6 +2,7 @@
 pid: wksprs_74
 authors: Zoss, Angela M.
 sort_year: 2015
+sort_date: 2015-01-29
 title: "‘Places & Spaces: Mapping Science’ at Duke"
 location: Durham, NC
 host: the Duke Media Arts + Sciences Rendezvous

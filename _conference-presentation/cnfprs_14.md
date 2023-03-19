@@ -2,6 +2,7 @@
 pid: cnfprs_14
 authors: Zoss, Angela M.
 sort_year: 2019
+sort_date: 2019-03-06
 title: Improving Stakeholder Communication with Data Visualizations
 location: Austin, TX
 host: Designing for Digital (D4D) Conference 2019

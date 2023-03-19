@@ -2,6 +2,7 @@
 pid: wksprs_50
 authors: Zoss, Angela M.
 sort_year: 2017
+sort_date: 2017-11-01
 title: Network Visualization Literacy
 location: Bloomington, IN
 host: Indiana University Network Science Institute Open Science Forum

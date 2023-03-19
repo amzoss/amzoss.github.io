@@ -2,6 +2,7 @@
 pid: gstprs_66
 authors: Zoss, Angela M.
 sort_year: 2016
+sort_date: 2016-02-02
 title: Introduction to Data Visualization
 location: Durham, NC
 host: undergraduate course on Environment and Conflict

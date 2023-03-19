@@ -2,6 +2,7 @@
 pid: smsprs_131
 authors: Zoss, Angela M.
 sort_year: 2011
+sort_date: 2011-08-01
 title: Emerging Technologies and Libraries
 location: Bloomington, IN
 host: Indiana University

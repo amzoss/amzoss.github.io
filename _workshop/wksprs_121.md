@@ -2,6 +2,7 @@
 pid: wksprs_121
 authors: Zoss, Angela M.
 sort_year: 2013
+sort_date: 2013-11-01
 title: Top Ten Dos and Don’ts For Charts and Graphs
 location: Durham, NC
 host: Duke University Libraries’ Data and Visualization Services department workshop

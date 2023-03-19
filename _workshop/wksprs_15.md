@@ -2,6 +2,7 @@
 pid: wksprs_15
 authors: Zoss, Angela M.
 sort_year: 2021
+sort_date: 2021-03-31
 title: Presenting Data Science Results to Stakeholders
 location: Durham, NC
 host: DataFest Workshop Series

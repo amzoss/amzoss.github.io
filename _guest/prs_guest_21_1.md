@@ -2,6 +2,7 @@
 pid: prs_guest_21_1
 authors: Zoss, Angela M.
 sort_year: 2021
+sort_date: 2021-07-31
 title: Data Librarianship
 location: Virtual
 host: graduate Library and Information Science course on Information in Society, University

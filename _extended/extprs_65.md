@@ -2,6 +2,7 @@
 pid: extextprs_65
 authors: Zoss, Angela M.
 sort_year: 2016
+sort_date: 2016-05-01
 title: Introduction to data visualization
 location: Raleigh, NC
 host: the Data Science and Visualization Institute for Librarians, sponsored by North

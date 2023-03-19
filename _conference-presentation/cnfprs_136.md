@@ -2,6 +2,7 @@
 pid: cnfprs_136
 authors: Zoss, Angela M., Conover, Michael and Börner, Katy
 sort_year: 2010
+sort_date: 2010-03-31
 title: Where are the academic jobs? Interactive exploration of job advertisements
   in geospatial and topical space
 location: Bethesda, MD

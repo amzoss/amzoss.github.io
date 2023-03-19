@@ -2,6 +2,7 @@
 pid: gstprs_70
 authors: Zoss, Angela M.
 sort_year: 2016
+sort_date: 2016-10-03
 title: Introduction to Tableau
 location: Durham, NC
 host: graduate Environment course on Sustainable Systems

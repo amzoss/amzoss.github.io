@@ -2,6 +2,7 @@
 pid: gstprs_78
 authors: Zoss, Angela M.
 sort_year: 2015
+sort_date: 2015-10-19
 title: Data Visualization Tips and Tools
 location: Durham, NC
 host: Bass Connections course on Effects of Shale Gas Development

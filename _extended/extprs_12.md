@@ -2,6 +2,7 @@
 pid: extprs_12
 authors: Zoss, Angela M.
 sort_year: 2019
+sort_date: 2019-09-27
 title: Data visualization workshop
 location: Chapel Hill, NC and Statesville, NC
 host: State Library of North Carolina – Library Data Users’ Group

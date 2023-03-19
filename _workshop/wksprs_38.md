@@ -2,6 +2,7 @@
 pid: wksprs_38
 authors: Zoss, Angela M.
 sort_year: 2018
+sort_date: 2018-11-01
 title: Visualizing Qualitative Data
 location: Durham, NC
 host: Duke University Libraries’ Data and Visualization Services department workshop

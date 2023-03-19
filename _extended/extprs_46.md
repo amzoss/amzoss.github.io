@@ -2,6 +2,7 @@
 pid: extprs_46
 authors: Zoss, Angela M. and Monson, Eric
 sort_year: 2017
+sort_date: 2017-07-01
 title: Designing Academic Figures and Posters
 location: Beaufort, NC
 host: Duke University Marine Lab, Research Experience for Undergraduates in Estuarine

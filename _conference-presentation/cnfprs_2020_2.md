@@ -2,6 +2,7 @@
 pid: cnfprs_2020_2
 authors: Kosokoff, Jeff and Zoss, Angela M.
 sort_year: 2020
+sort_date: 2020-07-31
 title: Print Circs! A tool to inform understanding of 10 years of print acquisitions
   at Duke
 location: virtual

@@ -2,6 +2,7 @@
 pid: wksprs_91
 authors: Zoss, Angela M.
 sort_year: 2015
+sort_date: 2015-02-11
 title: Text-based disease classification of medical literature
 location: Durham, NC
 host: the Duke Center for Health Informatics Informatics Research Seminar Series

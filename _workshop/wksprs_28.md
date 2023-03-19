@@ -2,6 +2,7 @@
 pid: wksprs_28
 authors: Zoss, Angela M. and Monson, Eric
 sort_year: 2018
+sort_date: 2018-11-01
 title: Ethics and Visualization
 location: Durham, NC
 host: Duke University Libraries’ Data and Visualization Services department workshop

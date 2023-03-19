@@ -2,6 +2,7 @@
 pid: gstprs_116
 authors: Zoss, Angela M.
 sort_year: 2013
+sort_date: 2013-10-31
 title: Data Visualization for Drought & Cross Border Crisis
 location: Durham, NC
 host: First-Year FOCUS course on the refugee crisis

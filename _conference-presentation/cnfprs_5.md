@@ -2,6 +2,7 @@
 pid: cnfprs_5
 authors: Zoss, Angela M.
 sort_year: 2020
+sort_date: 2020-03-10
 title: Partnering with Data Science Students on Journal Usage Analysis
 location: Austin, TX
 host: 2020 Electronic Resources & Libraries Annual Conference (ER&L2020)

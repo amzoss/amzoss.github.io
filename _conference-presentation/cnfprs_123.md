@@ -2,6 +2,7 @@
 pid: cnfprs_123
 authors: Zoss, Angela M.
 sort_year: 2013
+sort_date: 2013-07-23
 title: Visualization Support at Duke University Libraries
 location: Smithfield, RI
 host: Gordon Research Conference on Visualization in Science & Education

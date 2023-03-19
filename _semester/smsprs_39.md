@@ -2,6 +2,7 @@
 pid: smsprs_39
 authors: Krishna, Anirudh, Zoss, Angela M. and Nolan, Sarah
 sort_year: 2018
+sort_date: 2018-05-01
 title: Visualizing Social Mobility in the Developing World
 location: Durham, NC
 host: Duke University

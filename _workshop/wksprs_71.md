@@ -2,6 +2,7 @@
 pid: wksprs_71
 authors: Zoss, Angela M.
 sort_year: 2016
+sort_date: 2016-11-01
 title: Making Data Visual
 location: Durham, NC
 host: Duke University Libraries’ Data and Visualization Services department workshop
