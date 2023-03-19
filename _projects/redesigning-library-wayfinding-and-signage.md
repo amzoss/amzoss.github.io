@@ -13,8 +13,8 @@ label: Redesigning Library Wayfinding and Signage
 order: '10'
 collection: projects
 layout: project_post
-image: 
-  - 'assets/images/Perkins2.png'
+image: 'assets/images/Perkins2.png'
+image_alt: A floorplan of a floor of a library with curved pink arrows painted on top.
 related-links:
   - Zoss, Angela M. (December 2019). <a href="https://blogs.library.duke.edu/bitstreams/2019/12/06/where-do-patrons-get-lost-a-study-of-library-navigation/">Where do patrons get lost? A study of library navigation</a>. Blog post.
 ---

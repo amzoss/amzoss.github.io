@@ -16,6 +16,7 @@ order: '02'
 collection: projects
 layout: project_post
 image: 'assets/images/AffinityDiagram.jpg'
+image_alt: A large canvas with regions defined by large boxes, covered with a series of small squares in various sizes and colors.
 theme: dei
 ---
 In 2021 and 2022, members of the Assessment Core Team (ACT) at Duke University

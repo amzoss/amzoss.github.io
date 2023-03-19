@@ -14,8 +14,9 @@ nav_order: 3
   {% else %}
     {% assign img = prj.image %}
   {% endif %}
+  {% assign image_alt = prj.image_alt %}
   <div>
-  <img src="{{ img | relative_url }}" width="150px;" style="float: right;" />
+  <img src="{{ img | relative_url }}" alt="{{ image_alt }}" width="150px;" style="float: right;" />
   <div style="margin-right: 160px;">
     <h2><a href="{{ prj.url | relative_url }}">{{ prj.title }}</a></h2>
     <p><em>{{ prj.date_range }}</em></p>

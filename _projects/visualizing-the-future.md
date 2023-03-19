@@ -18,6 +18,7 @@ order: '03'
 collection: projects
 layout: project_post
 image: 'assets/images/bowtie8d.png'
+image_alt: Visualizing the Future logo, with a rose chart on the left and a colorful group of people on the right.
 related-links:
   - '<a href="https://visualizingthefuture.github.io/">Visualizing the Future project website</a>'
   - '<a href="https://www.youtube.com/@visualizingthefuture3409">Visualizing the Future YouTube channel</a>'

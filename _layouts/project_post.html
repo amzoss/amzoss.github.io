@@ -16,7 +16,7 @@ layout: default
     <p><a href="{{ img | relative_url }}"><img src="{{ img | relative_url }}" width="300px;" /></a></p>
     {% endfor %}
   {% else %}
-     <p><a href="{{ page.image | relative_url }}"><img src="{{ page.image | relative_url }}" width="300px;" /></a></p>
+     <p><a href="{{ page.image | relative_url }}"><img src="{{ page.image | relative_url }}" width="300px;" alt="{{ page.image_alt }}"/></a></p>
   {% endif %}
 {% endif %}
 

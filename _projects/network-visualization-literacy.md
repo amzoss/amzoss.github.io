@@ -20,6 +20,7 @@ order: '11'
 collection: projects
 layout: project_post
 image: 'assets/images/netvislit-red-01.png'
+image_alt: A network of nodes and lines laid out in the shape of a brain.
 related-links:
   - <a href="http://netvislit.org/">NetVisLit Repository</a>, including analysis code and presentation slides
 theme: open-source

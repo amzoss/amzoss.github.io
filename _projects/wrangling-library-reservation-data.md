@@ -14,6 +14,7 @@ order: '04'
 collection: projects
 layout: project_post
 image: 'assets/images/CapacityOverTime.png'
+image_alt: A dashboard with lollipop charts where the point of the lollipop changes color from yellow to red according as the length of the bar increases.
 ---
 The fall of 2020 saw a host of new services added to our LibCal reservation
 system, including Library Takeout, library equipment, and library study spaces.

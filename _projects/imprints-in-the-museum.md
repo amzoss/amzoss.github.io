@@ -18,6 +18,7 @@ layout: project_post
 related-links:
   - '<a href="../../assets/images/icaposter.png">Imprints in the Museum: Social Navigation Technology for Participatory Expression</a> (poster)'
 image: 'assets/images/imprints.jpg'
+image_alt: A Java drawing program with a grid of background images on the left and a drawing canvas on the right. An apple with a smiley face has been drawn inside a picture frame.
 ---
 Personalization and social awareness, important aspects in the definition of
 a place, are traditionally overlooked in the design of technology for museums. We

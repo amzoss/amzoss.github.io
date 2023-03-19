@@ -13,6 +13,7 @@ order: '15'
 collection: projects
 layout: project_post
 image: 'assets/images/scisipprogramnetwork_final.png'
+image_alt: A network diagram with one dark central node and a halo of nodes around it.
 ---
 The Science of Science and Innovation Policy (SciSIP) program at the National
 Science Foundation (NSF) supports research designed to advance the scientific basis

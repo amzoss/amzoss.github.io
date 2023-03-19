@@ -15,6 +15,7 @@ order: '03'
 collection: projects
 layout: project_post
 image: 'assets/images/wax-facets.png'
+image_alt: Demo site using Wax Facets, including an image gallery that has faceted filters at the top.
 related-links:
   - '<a href="https://github.com/minicomp/wax-facets">Wax Facets repository</a>'
   - '<a href="https://minicomp.github.io/wax-facets/">Wax Facets demo site</a>'

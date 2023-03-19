@@ -22,6 +22,7 @@ order: '06'
 collection: projects
 layout: project_post
 image: 'assets/images/3C-full.png'
+image_alt: "Logo for 3C: Cultural Competence in Computing."
 related-links:
   - '<a href="https://identity.cs.duke.edu/fellows.html">Cultural Competence in Computing (3C) Fellows Program</a>'
   - '<a href="../you-me-and-it/">You, Me, and IT: a series on identity in IT work</a>'

@@ -15,6 +15,7 @@ order: '08'
 collection: projects
 layout: project_post
 image: '/assets/images/study-2053811.jpg'
+image_alt: Stock photo of a bundle of books floating in front of some math equations.
 related-links:
   - <a href="https://bigdata.duke.edu/projects/breaking-bundle-analyzing-duke%E2%80%99s-journal-subscriptions">Breaking the Bundle project website</a>
   - <a href="https://github.com/amzoss/journal_dashboard">Duke Libraries Journal Usage Dashboard Repository</a>

@@ -14,6 +14,7 @@ order: '12'
 collection: project
 layout: project_post
 image: 'assets/images/mental_disability-01.png'
+image_alt: A streamgraph showing the growth and decline of different terms related to mental disorders over time.
 ---
 Every decade brings changes in the perceptions of normal in mental health,
   as well as in how abnormal is labeled, understood, and dealt with. Neurosis, hysteria,

@@ -14,6 +14,7 @@ order: '01'
 collection: projects
 layout: project_post
 image: 'assets/images/FOLIO_Logo.png'
+image_alt: FOLIO logo, with the phrase "future of libraries is open" and a bee graphic in the corner.
 related-links:
   - '<a href="https://wiki.folio.org/display/RPT/">FOLIO Reporting SIG wiki</a>'
   - '<a href="https://github.com/folio-org/folio-analytics">FOLIO Analytics Query Repository</a>'

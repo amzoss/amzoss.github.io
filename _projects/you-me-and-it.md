@@ -15,6 +15,7 @@ order: '00'
 collection: projects
 layout: project_post
 image: 'assets/images/YouMeAndIT.png'
+image_alt: "You, Me & IT, presented by DiversifyIT"
 theme: dei
 ---
 The cultural competence of an individual or team affects outcomes at work in
