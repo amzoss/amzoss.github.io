@@ -107,7 +107,7 @@ nav_order: 6
 
 ### White Papers
 
-{% assign sorted = site.white-paper | sort: 'order' %}
+{% assign sorted = site.white-paper | sort: 'sort_date' | reverse %}
 {% for whtpap in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=whtpap.pid %}</li>
@@ -145,7 +145,7 @@ nav_order: 6
 
 ### Semester-Length Teaching Experiences
 
-{% assign sorted = site.semester | sort: 'order' %}
+{% assign sorted = site.semester | sort: 'sort_date' | reverse %}
 {% for sem in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=sem.pid %}</li>
@@ -154,7 +154,7 @@ nav_order: 6
 
 ### Extended Workshop Instruction Experiences
 
-{% assign sorted = site.extended | sort: 'order' %}
+{% assign sorted = site.extended | sort: 'sort_date' | reverse %}
 {% for ext in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=ext.pid %}</li>
@@ -163,7 +163,7 @@ nav_order: 6
 
 ### Presentations at Conferences, Professional Gatherings
 
-{% assign sorted = site.conference-presentation | sort: 'order' %}
+{% assign sorted = site.conference-presentation | sort: 'sort_date' | reverse %}
 {% for confpres in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=confpres.pid %}</li>
@@ -173,7 +173,7 @@ nav_order: 6
 
 ### Guest Lectures
 
-{% assign sorted = site.guest | sort: 'order' %}
+{% assign sorted = site.guest | sort: 'sort_date' | reverse %}
 {% for gst in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=gst.pid %}</li>
@@ -182,7 +182,7 @@ nav_order: 6
 
 ### Short-form Instruction Experience
 
-{% assign sorted = site.workshop | sort: 'order' %}
+{% assign sorted = site.workshop | sort: 'sort_date' | reverse %}
 {% for wkshp in sorted %}
   <ul>
     <li>{% include reference_formatting.html pid=wkshp.pid %}</li>
