@@ -270,5 +270,12 @@
 
 {% endif %} 
 
+{% if type == "service" %}
+
+    {% capture html %}<strong>{{ item.role }}, {{ item.title }}.</strong> {{ item.date_range }}.<br/>Additional team members: {{ item.addl-team-members }}.{% endcapture %}
+
+{% endif %} 
+
+
 {{ html }}
 

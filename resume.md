@@ -40,6 +40,15 @@ nav_order: 6
 {% endfor %}
 </ul>
 
+## Professional Service and Leadership Positions
+
+{% assign sorted = site.service | sort: 'sort_date' | reverse %}
+<ul>
+{% for svc in sorted %}
+    <li>{% include reference_formatting.html pid=svc.pid %}</li>
+{% endfor %}
+</ul>
+
 ## Skills and Experience
 
 {% assign sorted = site.tools | sort: 'order' %}

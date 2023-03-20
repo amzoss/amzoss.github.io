@@ -95,4 +95,8 @@ collections:
     output: true
     display_name: "Areas of Focus"
     display_order: 20
+  service:
+    output: false
+    display_name: "Professional Service and Leadership Positions"
+    display_order: 21
   
