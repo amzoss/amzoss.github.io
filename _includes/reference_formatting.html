@@ -272,7 +272,13 @@
 
 {% if type == "service" %}
 
-    {% capture html %}<strong>{{ item.role }}, {{ item.title }}.</strong> {{ item.date_range }}.<br/>Additional team members: {{ item.addl-team-members }}.{% endcapture %}
+    {% assign members = '' %}
+
+    {% if item.addl-team-members %}
+        {% capture members %}<br/>Additional team members: {{ item.addl-team-members }}.{% endcapture %}
+    {% endif %}
+
+    {% capture html %}<strong>{{ item.role }}, {{ item.title }}.</strong> {{ item.date_range }}.{{ members }}{% endcapture %}
 
 {% endif %} 
 
