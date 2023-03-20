@@ -10,10 +10,8 @@ location: virtual
 host: FOLIO Forum
 pres_date: July 15, 2020
 type: Webinar
-grouping: conference
 pres_url: https://www.youtube.com/watch?v=PvjKd1wrufA
 label: Reporting Community Update on Building Reports
 order: '05'
-collection: conference-presentation
 project: library-data-platform-query-development
 ---

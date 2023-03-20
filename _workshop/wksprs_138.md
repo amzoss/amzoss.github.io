@@ -8,8 +8,6 @@ location: Bloomington, IN
 host: Complex Adaptive Systems and Computational Intelligence Research Group
 pres_date: May 13, 2009
 type: Presentation
-grouping: workshop
 label: Tagging Neural Network
 order: '51'
-collection: workshop
 ---

@@ -10,9 +10,7 @@ host: Duke University Libraries’ Data and Visualization Services department wo
 pres_date: Fall 2019
 pres_url: https://github.com/amzoss/adv-ggplot2-F19
 type: Workshop
-grouping: workshop
 label: Advanced ggplot2 techniques
 order: '11'
-collection: workshop
 teaching: r-ggplot2-tidyverse-shiny
 ---

@@ -14,6 +14,5 @@ jrnl_url: https://publishing.escholarship.umassmed.edu/jeslib/article/id/437/
 label: 'Engaging Researchers in Data Dialogues: Designing Collaborative Programming
   to Promote Research Data Sharing'
 order: '0'
-collection: journal-article
 theme: open-source
 ---

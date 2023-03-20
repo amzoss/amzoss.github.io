@@ -7,7 +7,6 @@ date_range: June 2012-April 2018
 sort_year: 2018
 label: Data Visualization Coordinator
 order: '2'
-collection: job
 blurb: As Duke University's first Data Visualization Coordinator, I was responsible for developing, marketing, and providing the library’s first data visualization services.
 layout: job_post
 ---

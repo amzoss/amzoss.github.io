@@ -15,6 +15,5 @@ project_id: prj_1
 educ_id: ed_1
 label: 'Network Visualization Literacy: Task, Context, and Layout'
 order: '0'
-collection: thesis
 project: network-visualization-literacy
 ---

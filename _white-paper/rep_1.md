@@ -9,6 +9,5 @@ description: White paper for CISE/SBE Advisory Committee on Research Portfolio A
 rep_url: http://ivl.cns.iu.edu/km/pub/2010-borner-zoss-sbe-evolvepop.pdf
 label: Evolving and emerging populations and topics
 order: '1'
-collection: white-paper
 project: nsf-discovery-in-research-portfolio
 ---

@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2016 to Fall 2016
 type: Workshop
-grouping: workshop
 label: Making Data Visual
 order: '29'
-collection: workshop
 ---

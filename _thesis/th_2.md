@@ -14,6 +14,5 @@ thesis_url: https://hdl.handle.net/1813/10736
 educ_id: ed_2
 label: 'From Measure to Leisure: Extending Theory on Technology in the Workplace'
 order: '1'
-collection: thesis
 project: masters-thesis-sandbox
 ---

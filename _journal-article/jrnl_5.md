@@ -14,5 +14,4 @@ doi: 10.1007/s11192-009-0149-0
 label: 'Rete-netzwerk-red: analyzing and visualizing scholarly networks using the
   Network Workbench Tool'
 order: '5'
-collection: journal-article
 ---

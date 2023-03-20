@@ -9,8 +9,6 @@ host: Doctoral Forum of the 13th International Society of Scientometrics and Inf
   (ISSI) conference
 pres_date: July 4, 2011
 type: Accepted presentation
-grouping: conference
 label: Testing comprehension of informetric visualizations
 order: '30'
-collection: conference-presentation
 ---

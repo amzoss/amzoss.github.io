@@ -13,7 +13,6 @@ blurb: Personalization and social awareness, important aspects in the definition
 project_url: https://dl.acm.org/doi/10.1145/1056808.1056881
 label: Imprints in the Museum
 order: '22'
-collection: projects
 layout: project_post
 related-links:
   - '<a href="../../assets/images/icaposter.png">Imprints in the Museum: Social Navigation Technology for Participatory Expression</a> (poster)'

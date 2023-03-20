@@ -9,8 +9,6 @@ host: Data Matters Data Science Short Course Series, sponsored by the National C
   for Data Science, The Odum Institute, and RENCI
 pres_date: June 20-21, 2016
 type: Two-day course
-grouping: extended
 label: Introduction to information visualization
 order: '15'
-collection: extended
 ---

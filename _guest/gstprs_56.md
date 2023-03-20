@@ -8,8 +8,6 @@ location: Durham, NC
 host: graduate Environment course on Applied Qualitative Research Methods
 pres_date: October 25, 2017
 type: Guest lecture
-grouping: guest
 label: Visualizing Qualitative Data
 order: '11'
-collection: guest
 ---

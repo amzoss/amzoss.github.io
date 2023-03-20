@@ -13,6 +13,5 @@ doi: 10.1007/s11192-011-0574-8
 label: Mapping interactions within the evolving science of science and innovation
   policy community
 order: '4'
-collection: journal-article
 project: scisip-community
 ---

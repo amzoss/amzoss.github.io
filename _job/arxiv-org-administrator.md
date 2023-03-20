@@ -7,7 +7,6 @@ date_range: July 2006-July 2008
 sort_year: 2008
 label: arXiv.org Administrator
 order: '5'
-collection: job
 blurb: I worked for two years as one of a very small team of staff maintaining arXiv.org, blending diplomatic communication skills with technical expertise in order to support arXiv and suggest improvements.
 layout: job_post
 ---

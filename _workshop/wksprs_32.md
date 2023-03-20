@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Fall 2017 to Spring 2018
 type: Workshop
-grouping: workshop
 label: Introduction to Effective Visualization
 order: '19'
-collection: workshop
 ---

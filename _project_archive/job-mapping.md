@@ -10,7 +10,6 @@ blurb: 'In the Job Map, job postings collected via RSS feeds are visualized geos
   & Spaces: Mapping Science exhibit, 6th iteration (U.S. Job Market map).'
 label: JobMap
 order: '18'
-collection: projects
 layout: project_post
 image: 'assets/images/jobmap-geo.png'
 image_alt: A map of the US overlaid with circles of various sizes representing number of job postings.

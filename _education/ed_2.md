@@ -12,5 +12,4 @@ thesis_id: th_2
 label: M.S. in Communication. Member of Culturally-Embedded Computing Group and HCI
   Lab
 order: '1'
-collection: education
 ---

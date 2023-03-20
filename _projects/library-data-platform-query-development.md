@@ -11,7 +11,6 @@ blurb: Since joining the FOLIO [Reporting Special Interest Group (SIG)](https://
 project_url: https://wiki.folio.org/display/RPT/
 label: FOLIO (The Future of Libraries is Open), Library Data Platform
 order: '01'
-collection: projects
 layout: project_post
 image: 'assets/images/FOLIO_Logo.png'
 image_alt: "FOLIO logo, with the phrase 'future of libraries is open' and a bee graphic in the corner."

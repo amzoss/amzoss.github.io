@@ -13,6 +13,5 @@ doi: 10.9776/16303
 label: 'Mental Disorders Over Time: A Dictionary-Based Approach to the Analysis of
   Knowledge Domains'
 order: '0'
-collection: conference-paper
 project: mental-disorders-over-time
 ---

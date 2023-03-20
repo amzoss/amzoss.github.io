@@ -8,8 +8,6 @@ location: Durham, NC
 host: Course on Wikipedia and Its Ancestors
 pres_date: March 1, 2013
 type: Guest lecture
-grouping: guest
 label: Data Visualization for Wikipedia Articles
 order: '39'
-collection: guest
 ---

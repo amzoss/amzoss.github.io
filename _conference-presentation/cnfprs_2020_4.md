@@ -8,10 +8,8 @@ location: virtual
 host: Visualizing the Future Viz and Tell monthly webinar series
 pres_date: November 17, 2020
 type: Webinar
-grouping: conference
 pres_url: https://visualizingthefuture.github.io/2020/10/27/viz-and-tell-assessment/
 label: Visualization in Library Assessment
 order: '03'
-collection: conference-presentation
 project: visualizing-the-future
 ---

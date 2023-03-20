@@ -10,7 +10,6 @@ blurb: This study analyzed all Science of Science and Innovation Policy (SciSIP)
   relations between SciSIP and other areas of science. 
 label: SciSIP Community
 order: '15'
-collection: projects
 layout: project_post
 image: 'assets/images/scisipprogramnetwork_final.png'
 image_alt: A network diagram with one dark central node and a halo of nodes around it.

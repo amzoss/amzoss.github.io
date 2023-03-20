@@ -9,8 +9,6 @@ host: graduate Library and Information Science course on Information in Society,
   of Kentucky
 pres_date: July 31, 2021
 type: Guest lecture
-grouping: guest
 label: Data Librarianship
 order: '01'
-collection: guest
 ---

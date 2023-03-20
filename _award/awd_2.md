@@ -11,5 +11,4 @@ description: The Blakely Award is the highest recognition that Duke University
 location: Durham, NC
 label: 2021 Florence Blakely Award
 order: '0'
-collection: award
 ---

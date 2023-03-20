@@ -14,7 +14,6 @@ blurb: Global maps of science can be used as a reference system to chart career 
 project_url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0039464
 label: Updating Maps of Science
 order: '16'
-collection: projects
 layout: project_post
 image: 'assets/images/updating-ucsd.png'
 image_alt: A map of science where different subregions have a different color that is used for both nodes and links. 

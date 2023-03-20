@@ -9,8 +9,6 @@ host: the HASTAC NSF EAGER-sponsored event entitled Big (and messy) Data & Colla
   Workshop & Conference
 pres_date: May 28, 2014
 type: Presentation
-grouping: workshop
 label: Coauthorship and email networks as proxies for collaboration
 order: '36'
-collection: workshop
 ---

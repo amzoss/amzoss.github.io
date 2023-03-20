@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Fall 2016 to Fall 2017
 type: Workshop
-grouping: workshop
 label: Data Visualization with Excel
 order: '25'
-collection: workshop
 ---

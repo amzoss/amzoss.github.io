@@ -10,6 +10,5 @@ description: This report summarizes findings of a literature review focused on i
 rep_url: https://hdl.handle.net/10161/23214
 label: Public Report on Inclusive Library Study Space Design
 order: '0'
-collection: white-paper
 theme: dei
 ---

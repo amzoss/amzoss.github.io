@@ -11,7 +11,6 @@ blurb: As a response to repeated feedback from patrons and staff about difficult
 project_url: https://blogs.library.duke.edu/bitstreams/2019/12/06/where-do-patrons-get-lost-a-study-of-library-navigation/
 label: Redesigning Library Wayfinding and Signage
 order: '10'
-collection: projects
 layout: project_post
 image: 'assets/images/Perkins2.png'
 image_alt: A floorplan of a floor of a library with curved pink arrows painted on top.

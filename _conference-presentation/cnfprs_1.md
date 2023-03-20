@@ -9,10 +9,8 @@ location: virtual
 host: FOLIO Forum
 pres_date: February 12, 2020
 type: Webinar
-grouping: conference
 pres_url: https://www.youtube.com/watch?v=F3YT6tZTFl8
 label: FOLIO Reporting with the Library Data Platform
 order: '10'
-collection: conference-presentation
 project: library-data-platform-query-development
 ---

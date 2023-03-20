@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2017 to Fall 2018
 type: Workshop
-grouping: workshop
 label: Ethics and Visualization
 order: '18'
-collection: workshop
 ---

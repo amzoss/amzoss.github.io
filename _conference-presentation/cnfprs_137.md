@@ -8,8 +8,6 @@ location: San Sebastián, Spain
 host: 'Information Kinetics: Egoviz Workshop hosted by Arteleku'
 pres_date: August 12, 2009
 type: Presentation
-grouping: conference
 label: Analyzing and Visualizing the Structure and Evolution of the World Wide Science
 order: '35'
-collection: conference-presentation
 ---

@@ -10,7 +10,6 @@ blurb: Co-led a student team building a production-ready web app for population 
 project_url: https://codeplus.duke.edu/projects/phenom-population-growth-modeling-web-app-microbiologists
 label: 'phenom: A Population Growth Modeling Web App for Microbiologists'
 order: '08'
-collection: projects
 layout: project_post
 image: '/assets/images/PhenomPoster.png'
 image_alt: Poster for the Phenom Web App project, including basic background information, a large diagram of the user experience workflow, and a summary of the tools and framework used.

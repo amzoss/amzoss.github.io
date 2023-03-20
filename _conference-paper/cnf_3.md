@@ -11,6 +11,5 @@ pages: 1220-1223
 doi: 10.1145/1056808.1056881
 label: 'Imprints of place: Creative expressions of the museum experience'
 order: '2'
-collection: conference-paper
 project: imprints-in-the-museum
 ---

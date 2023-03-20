@@ -10,7 +10,6 @@ blurb: In a cooperative effort between Collection
   a tool for exploring circulation of printed books. 
 label: Print Collections Circulation Dashboard
 order: '07'
-collection: projects
 layout: project_post
 image: 
   - 'assets/images/dashboard.png'

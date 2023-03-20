@@ -8,10 +8,8 @@ location: virtual
 host: Visualizing the Future
 pres_date: September 22, 2020
 type: Webinar
-grouping: conference
 pres_url: https://visualizingthefuture.github.io/2020/09/29/september-webinar-update/
 label: Visualizing the Future Update
 order: '03'
-collection: conference-presentation
 project: visualizing-the-future
 ---

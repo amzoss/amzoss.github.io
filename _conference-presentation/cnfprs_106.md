@@ -8,8 +8,6 @@ location: Las Vegas, NV
 host: Annual meeting of the American Library Association 2014
 pres_date: June 28, 2014
 type: Panel presentation
-grouping: conference
 label: New Directions for Data Visualization in Library Public Services
 order: '24'
-collection: conference-presentation
 ---

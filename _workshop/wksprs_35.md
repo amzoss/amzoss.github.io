@@ -8,8 +8,6 @@ location: Durham, NC
 host: Duke Innovation Co-Lab Roots workshop series
 pres_date: April 11, 2018
 type: Presentation
-grouping: workshop
 label: UX of data visualization
 order: '15'
-collection: workshop
 ---

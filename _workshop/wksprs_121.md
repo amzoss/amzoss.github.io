@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2013 to Fall 2013
 type: Workshop
-grouping: workshop
 label: Top Ten Dos and Don’ts For Charts and Graphs
 order: '49'
-collection: workshop
 ---

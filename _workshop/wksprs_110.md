@@ -8,8 +8,6 @@ location: Durham, NC
 host: the Duke Visualization Friday Forum
 pres_date: October 24, 2014
 type: Presentation
-grouping: workshop
 label: Text-based disease classification of medical literature
 order: '39'
-collection: workshop
 ---

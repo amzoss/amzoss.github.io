@@ -13,7 +13,6 @@ funding: This research was supported in part by the National Cancer Institute at
   National Institutes of Health [contract number HHSN261200800812].
 label: Evaluation of Transdisciplinary Tobacco Use Research Centers (TTURC)
 order: '20'
-collection: projects
 layout: project_post
 image: 'assets/images/tturc.png'
 image_alt: A network diagram with nodes of various colors and links of either gray or red.

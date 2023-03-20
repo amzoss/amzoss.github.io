@@ -11,5 +11,4 @@ short_title: Challenges and Solutions for Short-Form Data Visualization Instruct
 chap_url: http://vgl.cs.usfca.edu/pdvw/2016/abstracts.html
 label: Challenges and Solutions for Short-Form Data Visualization Instruction
 order: '2'
-collection: book-section
 ---

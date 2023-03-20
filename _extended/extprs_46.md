@@ -9,8 +9,6 @@ host: Duke University Marine Lab, Research Experience for Undergraduates in Estu
   and Coastal Marine Systems
 pres_date: July 1, 2017
 type: One-day workshop for undergraduates
-grouping: extended
 label: Designing Academic Figures and Posters
 order: '06'
-collection: extended
 ---

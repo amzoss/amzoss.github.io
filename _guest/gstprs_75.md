@@ -8,8 +8,6 @@ location: Durham, NC
 host: undergraduate Economics course on Social Inequalities/Low-wage Work
 pres_date: April 1, 2015
 type: Guest lecture
-grouping: guest
 label: Basic Data Visualization
 order: '19'
-collection: guest
 ---

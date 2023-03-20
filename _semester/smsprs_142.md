@@ -8,8 +8,6 @@ location: Ithaca, NY
 host: Cornell University
 pres_date: Spring 2006
 type: Semester-long course
-grouping: semester
 label: Human-Computer Interaction
 order: '4'
-collection: semester
 ---

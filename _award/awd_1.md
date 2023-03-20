@@ -9,6 +9,5 @@ award: Student Best Entry
 awd_url: http://dx.doi.org/10.6084/m9.figshare.1033878
 label: Diseases across the Top Five Languages in PubMed
 order: '1'
-collection: award
 project: pubmed-diseases
 ---

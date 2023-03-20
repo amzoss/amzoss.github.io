@@ -8,8 +8,6 @@ location: Durham, NC
 host: First-Year FOCUS course on Refugee Camp Security
 pres_date: September 23, 2012
 type: Guest lecture
-grouping: guest
 label: Data Visualization for Refugee Camp Security
 order: '41'
-collection: guest
 ---

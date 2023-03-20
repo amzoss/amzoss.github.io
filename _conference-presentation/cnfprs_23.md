@@ -8,8 +8,6 @@ location: Durham, NC
 host: Duke University Libraries – First Wednesday Series
 pres_date: July 11, 2018
 type: Presentation
-grouping: conference-presentation
 label: 'Data lakes and canals: A case study for using data for planning and assessment'
 order: '13'
-collection: conference-presentation
 ---

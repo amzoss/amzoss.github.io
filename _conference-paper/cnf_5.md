@@ -7,6 +7,5 @@ title: 'Superficially accessible: Moving from a compliant library to an inclusiv
 conference_name: ACRL National Conference 2023
 conference_location: Pittsburgh, PA
 order: '2'
-collection: conference-paper
 project: assessing-the-needs-of-patrons-with-disabilities
 ---

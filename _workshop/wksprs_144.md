@@ -8,8 +8,6 @@ location: Albuquerque, NM
 host: Sandia National Laboratories, Student Internship Symposium 2005
 pres_date: August 1, 2005
 type: Presentation
-grouping: workshop
 label: Patterns of communication and information exchange in software development
 order: '54'
-collection: workshop
 ---

@@ -9,9 +9,7 @@ host: Duke University Libraries – Librarians’ Summer Camp
 pres_date: July 31, 2019
 pres_url: 'https://library.capture.duke.edu/Panopto/Pages/Viewer.aspx?id=8a796e88-392e-4dbc-ba73-aa8601214979'
 type: Hands-on workshop
-grouping: conference
 label: Accessibility in Word and PowerPoint
 order: '14'
-collection: conference-presentation
 theme: dei
 ---

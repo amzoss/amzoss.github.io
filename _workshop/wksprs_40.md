@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2016 to Spring 2017
 type: Workshop
-grouping: workshop
 label: Advanced Tableau (Data Structures)
 order: '24'
-collection: workshop
 ---

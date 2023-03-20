@@ -9,7 +9,6 @@ blurb: A team submission to the Data Visualization Challenge for WebSci’14.
 project_url: https://doi.org/10.6084/m9.figshare.1033878.v5
 label: 'Diseases across the Top Five Languages of the PubMed Database: 1961-2012'
 order: '13'
-collection: projects
 layout: project_post
 image: 'assets/images/WebSci14-poster.png'
 image_alt: A poster showing both a complex infographic related to languages and diseases in the PubMed database and additional information about how the graphic was created.

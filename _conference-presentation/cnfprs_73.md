@@ -8,8 +8,6 @@ location: Durham, NC
 host: the Duke University Libraries First Wednesday Series
 pres_date: February 4, 2015
 type: Presentation
-grouping: conference-presentation
 label: "‘Places & Spaces: Mapping Science’ at Duke"
 order: '30'
-collection: conference-presentation
 ---

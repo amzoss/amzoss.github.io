@@ -8,8 +8,6 @@ location: Durham, NC
 host: Duke Nicholas Institute
 pres_date: April 7, 2014
 type: Panel presentation
-grouping: workshop
 label: Better PowerPoint Presentations
 order: '35'
-collection: workshop
 ---

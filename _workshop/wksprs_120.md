@@ -8,8 +8,6 @@ location: Durham, NC
 host: the Duke Doing DH series
 pres_date: October 24, 2013
 type: Panel presentation
-grouping: workshop
 label: Digital Humanities Data
 order: '46'
-collection: workshop
 ---

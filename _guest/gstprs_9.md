@@ -8,8 +8,6 @@ location: Durham, NC
 host: undergraduate Information Science + Studies course on The Googlization of Knowledge
 pres_date: November 7, 2019
 type: Guest lecture
-grouping: guest
 label: Big Data Ethics
 order: '02'
-collection: guest
 ---

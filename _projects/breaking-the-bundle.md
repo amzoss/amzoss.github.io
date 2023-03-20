@@ -12,7 +12,6 @@ blurb: Co-led a data science project to combine and visualize various measures o
 project_url: https://bigdata.duke.edu/projects/breaking-bundle-analyzing-duke%E2%80%99s-journal-subscriptions
 label: 'Breaking the Bundle: Analyzing Duke’s Journal Subscriptions'
 order: '08'
-collection: projects
 layout: project_post
 image: '/assets/images/study-2053811.jpg'
 image_alt: Stock photo of a bundle of books floating in front of some math equations.

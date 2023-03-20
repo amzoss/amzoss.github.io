@@ -12,5 +12,4 @@ thesis_id: th_1
 project_id: prj_1
 label: Ph.D. in Information Science. Minor in Informatics
 order: '0'
-collection: education
 ---

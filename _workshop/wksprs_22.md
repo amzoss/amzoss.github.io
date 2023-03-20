@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2018
 type: Workshop
-grouping: workshop
 label: Custom Interactive Diagrams in LucidChart
 order: '16'
-collection: workshop
 ---

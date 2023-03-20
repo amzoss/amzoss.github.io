@@ -8,8 +8,6 @@ location: Raleigh, NC
 host: Science Boot Camp Southeast
 pres_date: July 18, 2014
 type: Invited presentation
-grouping: conference
 label: Design and support recommendations from data visualization research
 order: '23'
-collection: conference-presentation
 ---

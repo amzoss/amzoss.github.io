@@ -9,8 +9,6 @@ host: Special Libraries Association Southern California Chapter, Professional De
   Day
 pres_date: September 1, 2016
 type: One-day workshop
-grouping: extended
 label: Introduction to data visualization
 order: '12'
-collection: extended
 ---

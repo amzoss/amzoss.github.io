@@ -15,7 +15,6 @@ funding: This project was made possible in part by the [Institute of Museum and 
   Services](https://www.imls.gov/), [RE-73-18-0059-18](https://www.imls.gov/grants/awarded/re-73-18-0059-18).
 label: Visualizing the Future
 order: '03'
-collection: projects
 layout: project_post
 image: 'assets/images/bowtie8d.png'
 image_alt: Visualizing the Future logo, with a rose chart on the left and a colorful group of people on the right.

@@ -8,8 +8,6 @@ location: Seattle, WA
 host: Workshop on Scholarly Communication and Bibliometrics, erence 2011
 pres_date: February 8, 2011
 type: Presentation
-grouping: conference
 label: Analysis and Visualization of Science
 order: '31'
-collection: conference-presentation
 ---

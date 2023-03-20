@@ -9,7 +9,6 @@ blurb: MapSustain, building off the Job Map, visualizes funding, publication, an
   patent data related to sustainability research on linked geospatial and topic maps.
 label: MAPSustain
 order: '17'
-collection: projects
 layout: project_post
 image: 'assets/images/mapsustain-scimap.png'
 image_alt: A map of science overlaid with icons representing funding, publication, and patent data.

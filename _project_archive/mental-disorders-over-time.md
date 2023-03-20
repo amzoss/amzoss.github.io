@@ -11,7 +11,6 @@ blurb: In this project, we seek to understand mental illness categorizations
 project_url: http://dx.doi.org/10.9776/16303
 label: Mental Disorders Over Time
 order: '12'
-collection: project
 layout: project_post
 image: 'assets/images/mental_disability-01.png'
 image_alt: A streamgraph showing the growth and decline of different terms related to mental disorders over time.

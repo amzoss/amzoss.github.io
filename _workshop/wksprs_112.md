@@ -8,8 +8,6 @@ location: Durham, NC
 host: the Duke Information Initiative at Duke (iiD) Data Seminar Series
 pres_date: February 12, 2014
 type: Presentation
-grouping: workshop
 label: Visualization for exploration, communication, and inspiration
 order: '40'
-collection: workshop
 ---

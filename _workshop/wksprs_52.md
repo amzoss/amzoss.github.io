@@ -8,8 +8,6 @@ location: Durham, NC
 host: Duke Global Challenge
 pres_date: February 7, 2017
 type: Presentation
-grouping: workshop
 label: 'Visual narratives: Storytelling with visuals for effective research presentations'
 order: '23'
-collection: workshop
 ---

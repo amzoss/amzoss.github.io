@@ -9,8 +9,6 @@ host: Bass Connections course on Exploring the Intersection of Energy and Peace-
   through Film
 pres_date: October 29, 2014
 type: Guest lecture
-grouping: guest
 label: Data Visualization for Energy and Peacebuilding
 order: '31'
-collection: guest
 ---

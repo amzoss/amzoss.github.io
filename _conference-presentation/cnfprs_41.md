@@ -8,8 +8,6 @@ location: Lawrence, KS
 host: IASSIST Annual Conference 2017
 pres_date: May 24, 2017
 type: Accepted conference panel
-grouping: conference
 label: 'Cheap, fast, or good - pick two: Data instruction in the age of data science'
 order: '18'
-collection: conference-presentation
 ---

@@ -8,8 +8,6 @@ location: Durham, NC
 host: graduate course on Historical and Cultural Visualization
 pres_date: October 2, 2015
 type: Guest lecture
-grouping: guest
 label: Information Visualization and Tableau
 order: '23'
-collection: guest
 ---

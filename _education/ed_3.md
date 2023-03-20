@@ -7,5 +7,4 @@ degree: B.A. in Communication & Culture, Cognitive Science. Minors in Computer S
 label: B.A. in Communication & Culture, Cognitive Science. Minors in Computer Science,
   Music
 order: '2'
-collection: education
 ---

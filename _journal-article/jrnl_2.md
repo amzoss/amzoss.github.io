@@ -11,6 +11,5 @@ pages: 29-32
 doi: 10.1002/bult.2012.1720380608
 label: 'Seeding a field: The growth of bibliometrics through co-authorship ties'
 order: '2'
-collection: journal-article
 project: growth-of-bibliometrics
 ---

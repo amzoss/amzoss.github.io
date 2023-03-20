@@ -9,8 +9,6 @@ host: undergraduate course in Art, Art History & Visual Studies on Introduction 
   Architectural Design
 pres_date: April 11, 2018
 type: Guest lecture
-grouping: guest
 label: Data Visualization, Information Design
 order: '04'
-collection: guest
 ---

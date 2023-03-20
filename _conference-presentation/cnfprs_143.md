@@ -9,9 +9,7 @@ location: New York City, NY
 host: International Communication Association (ICA) 2005
 pres_date: May 29, 2005
 type: Poster presentation
-grouping: conference
 label: 'Imprints in the Museum: Social Navigation Technology for Participatory Expression'
 order: '37'
-collection: conference-presentation
 project: imprints-in-the-museum
 ---

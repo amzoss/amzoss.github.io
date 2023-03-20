@@ -10,9 +10,7 @@ host: 2010 HarambeeNet Workshop on Social Networks as an Introduction to Compute
   Science
 pres_date: July 8, 2010
 type: Presentation
-grouping: conference
 label: 'Information Visualization and Network Workbench: Incorporating Cyberinfrastructure
   into Instruction'
 order: '33'
-collection: conference-presentation
 ---

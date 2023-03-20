@@ -11,7 +11,6 @@ blurb: The fall of 2020 saw a host of new services added to our LibCal reservati
   processing script and a series of dashboards.
 label: Wrangling Library Reservation Data
 order: '04'
-collection: projects
 layout: project_post
 image: 'assets/images/CapacityOverTime.png'
 image_alt: A dashboard with lollipop charts where the point of the lollipop changes color from yellow to red according as the length of the bar increases.

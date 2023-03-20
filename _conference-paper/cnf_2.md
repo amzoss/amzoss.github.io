@@ -13,6 +13,5 @@ short_title: 'MAPSustain: Visualising biomass and biofuel research'
 conf_url: http://hdl.handle.net/10919/86852
 label: 'MAPSustain: Visualising biomass and biofuel research'
 order: '1'
-collection: conference-paper
 project: mapsustain
 ---

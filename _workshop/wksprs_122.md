@@ -8,8 +8,6 @@ location: Durham, NC
 host: the Duke Visualization Friday Forum
 pres_date: September 6, 2013
 type: Presentation
-grouping: workshop
 label: Visualization for teaching and research (A conference report)
 order: '48'
-collection: workshop
 ---

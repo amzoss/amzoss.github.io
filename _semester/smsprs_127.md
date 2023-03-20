@@ -8,8 +8,6 @@ location: Bloomington, IN
 host: Indiana University
 pres_date: Spring 2012
 type: Semester-long course
-grouping: semester
 label: Information Visualization
 order: '1'
-collection: semester
 ---

@@ -8,6 +8,5 @@ description: Public report on the work of the Duke University Libraries’ Data 
 rep_url: https://hdl.handle.net/10161/23594
 label: Priorities and Guiding Principles for Protecting Patron Privacy
 order: '2'
-collection: white-paper
 project: reviewing-library-data-privacy-and-retention-practices
 ---

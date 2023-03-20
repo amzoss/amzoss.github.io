@@ -10,7 +10,6 @@ blurb: A multi-year effort to review and improve how the Duke University Librari
 project_url: https://wiki.duke.edu/display/LIB/Data+Privacy+and+Retention+Task+Force
 label: Reviewing Library Data Privacy and Retention Practices
 order: '05'
-collection: projects
 layout: project_post
 image: 'assets/images/data_audit.png'
 image_alt: "Lists of library systems divided into four quadrants with the following headers: logging systems, user account systems, manual data entry systems, and the 'Wild West'."

@@ -10,9 +10,7 @@ host: 2010 International Conference on Social Computing, Behavioral Modeling, & 
   (SBP10)
 pres_date: March 31, 2010
 type: Presentation
-grouping: conference
 label: Where are the academic jobs? Interactive exploration of job advertisements
   in geospatial and topical space
 order: '34'
-collection: conference-presentation
 ---

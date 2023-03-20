@@ -9,7 +9,6 @@ blurb: A project exploring the role of technology in non-task-based activities i
 project_url: https://hdl.handle.net/1813/10736
 label: Master’s Thesis – Sandbox
 order: '21'
-collection: projects
 layout: project_post
 image: 'assets/images/sandbox.jpg'
 image_alt: A drawing program designed to look like a Zen rock garden where someone has drawn various squiggles in different shades and sizes.

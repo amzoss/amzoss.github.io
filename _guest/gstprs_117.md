@@ -8,8 +8,6 @@ location: Durham, NC
 host: Seminar on history of Rome
 pres_date: January 10, 2013
 type: Guest lecture
-grouping: guest
 label: Data Visualization for Historical Analyses
 order: '38'
-collection: guest
 ---

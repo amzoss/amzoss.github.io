@@ -12,7 +12,6 @@ blurb: The You, Me, and IT series involves three separate 90-minute sessions
   and understanding hour our identities interact with our work environment and responsibilities.
 label: 'You, Me, and IT: a series on identity in IT work'
 order: '00'
-collection: projects
 layout: project_post
 image: 'assets/images/YouMeAndIT.png'
 image_alt: "You, Me & IT, presented by DiversifyIT"

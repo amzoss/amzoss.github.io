@@ -12,7 +12,6 @@ funding: This project was made possible in part by the [Institute of Museum and 
   Services](https://www.imls.gov/), [RE-73-18-0059-18](https://www.imls.gov/grants/awarded/re-73-18-0059-18).
 label: Wax Facets
 order: '03'
-collection: projects
 layout: project_post
 image: 'assets/images/wax-facets.png'
 image_alt: Demo site using Wax Facets, including an image gallery that has faceted filters at the top.

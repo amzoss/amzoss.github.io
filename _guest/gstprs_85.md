@@ -8,8 +8,6 @@ location: Durham, NC
 host: graduate Environment course on Sustainable Systems
 pres_date: February 24, 2015
 type: Guest lecture
-grouping: guest
 label: Introduction to Tableau Public
 order: '24'
-collection: guest
 ---

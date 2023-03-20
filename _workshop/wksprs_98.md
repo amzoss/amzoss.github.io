@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2014
 type: Workshop
-grouping: workshop
 label: Data Visualization on the Web (Advanced)
 order: '41'
-collection: workshop
 ---

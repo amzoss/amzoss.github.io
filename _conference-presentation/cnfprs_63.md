@@ -8,8 +8,6 @@ location: offered online
 host: Oklahoma State University Libraries
 pres_date: December 14, 2016
 type: Invited webinar
-grouping: conference
 label: Data Visualization Support
 order: '22'
-collection: conference-presentation
 ---

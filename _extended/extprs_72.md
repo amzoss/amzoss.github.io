@@ -8,8 +8,6 @@ location: Orlando, FL
 host: Annual meeting of the American Library Association
 pres_date: June 1, 2016
 type: One-day pre-conference program
-grouping: extended
 label: Making sense of data through visualization
 order: '11'
-collection: extended
 ---

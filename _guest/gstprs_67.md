@@ -8,8 +8,6 @@ location: Durham, NC
 host: undergraduate course on Environment and Conflict
 pres_date: October 4, 2016
 type: Guest lecture
-grouping: guest
 label: Introduction to Data Visualization
 order: '14'
-collection: guest
 ---

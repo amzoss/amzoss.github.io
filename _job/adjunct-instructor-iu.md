@@ -7,7 +7,6 @@ date_range: January 2010-May 2012
 sort_year: 2012
 label: Adjunct Instructor
 order: '3'
-collection: job
 blurb: As a doctoral student at Indiana University, I assisted with or taught several course for the Master's programs in the School of Library and Information Science.
 layout: job_post
 ---

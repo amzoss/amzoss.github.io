@@ -9,9 +9,7 @@ host: 2020 Electronic Resources & Libraries Annual Conference (ER&L2020)
 pres_date: March 11, 2020
 pres_url: https://www.dropbox.com/sh/mj11b52lglkb0ph/AAAN1h_sSmLC68Tw-Qft60RUa/Angela%20Sidman%20-%20S81_Protecting_patron_privacy.pptx?dl=0
 type: Panel presentation
-grouping: conference
 label: Protecting patron privacy - what are the issues and what can we do?
 order: '06'
-collection: conference-presentation
 project: reviewing-library-data-privacy-and-retention-practices
 ---

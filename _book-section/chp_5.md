@@ -17,6 +17,5 @@ doi: 10.1007/978-3-642-12079-4_30
 label: Where Are the Academic Jobs? Interactive Exploration of Job Advertisements
   in Geospatial and Topical Space
 order: '5'
-collection: book-section
 project: job-mapping
 ---

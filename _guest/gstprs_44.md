@@ -8,8 +8,6 @@ location: Durham, NC
 host: undergraduate Statistical Science course on Data Science
 pres_date: September 12 and 14, 2017
 type: Two-part guest lecture and activity
-grouping: guest
 label: Data Visualization & Exploration
 order: '12'
-collection: guest
 ---

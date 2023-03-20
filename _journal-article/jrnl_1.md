@@ -14,6 +14,5 @@ jrnl_url: https://www.jscimedcentral.com/jounal-article-pdfd/Journal-of-Collabor
 label: 'Mapping the Impact of Transdisciplinary Research: A Visual Comparison of Investigator-Initiated
   and Team-Based Tobacco Use Research Publications'
 order: '1'
-collection: journal-article
 project: evaluation-of-transdisciplinary-tobacco-use-research-centers-tturc
 ---

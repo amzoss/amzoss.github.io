@@ -10,9 +10,7 @@ host: Data Matters Data Science Short Course Series, sponsored by the National C
 pres_date: August 10-11, 2017
 pres_url: https://github.com/amzoss/RVis-DM2017
 type: Two-day course
-grouping: extended
 label: Visualization for data science in R
 order: '09'
-collection: extended
 teaching: r-ggplot2-tidyverse-shiny
 ---

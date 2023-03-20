@@ -17,7 +17,6 @@ responsibilities: |-
 project_url: http://netvislit.org/
 label: 'Network Visualization Literacy: Task, Context, and Layout'
 order: '11'
-collection: projects
 layout: project_post
 image: 'assets/images/netvislit-red-01.png'
 image_alt: A network of nodes and lines laid out in the shape of a brain.

@@ -19,7 +19,6 @@ blurb: 'The Cultural Competence in Computing (3C) Fellows Program is a cohort-ba
 project_url: https://identity.cs.duke.edu/fellows.html
 label: Cultural Competence in Computing (3C) Fellows Program - Cohort 1
 order: '06'
-collection: projects
 layout: project_post
 image: 'assets/images/3C-full.png'
 image_alt: "Logo for 3C: Cultural Competence in Computing."

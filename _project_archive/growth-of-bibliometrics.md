@@ -12,7 +12,6 @@ blurb: '"Angela Zoss applies the latest visualization techniques to the co‐aut
 project_url: https://asistdl.onlinelibrary.wiley.com/doi/full/10.1002/bult.2012.1720380608
 label: Growth of Bibliometrics
 order: '14'
-collection: projects
 layout: project_post
 image: 'assets/images/Figure9.jpg'
 image_alt: A network diagram with about five prominent clusters, each with a halo of nodes and connected relatively directly to the other clusters.

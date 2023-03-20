@@ -9,8 +9,6 @@ host: Duke University Libraries’ Data and Visualization Services department wo
   series
 pres_date: Spring 2014 to Fall 2014
 type: Workshop
-grouping: workshop
 label: Using Gephi for Network Analysis and Visualization
 order: '44'
-collection: workshop
 ---
