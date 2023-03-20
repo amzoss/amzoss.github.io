@@ -19,6 +19,14 @@
     
 }
 
+@media (min-width: 925px) {
+    .float-right-lg {
+      float: right;
+      margin-left: 1em;
+      margin-bottom: .5em;
+    }
+}
+
 @media screen {
     .show-print {
         display: none;

@@ -4,11 +4,15 @@ layout: home
 nav_order: 1
 ---
 
-# Angela Zoss
-
-<p><img src="assets/images/angela_zoss.jpg"
+<div class="float-right-lg">
+     <img src="assets/images/angela_zoss.jpg"
      alt="Angela Zoss"
-     width="300px;" /></p>
+     width="300px;" />
+</div>
+
+<h1>Angela Zoss</h1>
+
+<a href="mailto:angela.zoss@gmail.com" class="btn btn-primary" >Email me</a>
 
 Angela is the [Interim Head](https://library.duke.edu/about/directory/staff/angela.zoss) of the [Assessment & User Experience Strategy Department](https://library.duke.edu/about/depts/assessment-user-experience) in the [Duke University Libraries](https://library.duke.edu/). She is responsible for staff supervision, collaboration, and strategic planning in the areas of assessment/user experience and web platforms.
 
