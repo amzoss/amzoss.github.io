@@ -6,10 +6,7 @@ end_date: 2004-12-15
 date_range: Aug. 2004 to Dec. 2004
 collaborators: Kirsten Boehner, Jennifer Thom-Santelli, Geri Gay, Justin S. Hall,
   Tucker Barrett
-blurb: Personalization and social awareness, important aspects in the definition of
-  a place, are traditionally overlooked in the design of technology for museums. We
-  describe Imprints, a system to enhance the role of visitor participation beyond
-  information receiver to active creator of sense of place. 
+blurb: Developed a custom drawing application for user icon creation (Java), conducted observations and interviews with museum visitors using a virtual tour on a handheld device available for the exhibit.
 project_url: https://dl.acm.org/doi/10.1145/1056808.1056881
 label: Imprints in the Museum
 order: '22'
