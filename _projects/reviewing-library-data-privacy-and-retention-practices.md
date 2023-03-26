@@ -13,6 +13,7 @@ order: '05'
 layout: project_post
 image: 'assets/images/data_audit.png'
 image_alt: "Lists of library systems divided into four quadrants with the following headers: logging systems, user account systems, manual data entry systems, and the 'Wild West'."
+featured: true
 ---
 A multi-year effort to review and improve how the Duke University Libraries approach the collection, retention, and analysis of patron data.
 

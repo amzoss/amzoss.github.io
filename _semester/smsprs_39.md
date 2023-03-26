@@ -11,4 +11,5 @@ type: Year-long research-based course and project
 pres_url: https://bassconnections.duke.edu/project-teams/visualizing-social-mobility-developing-world-2017-2018
 label: Visualizing Social Mobility in the Developing World
 order: '0'
+featured: true
 ---

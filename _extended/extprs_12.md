@@ -10,4 +10,5 @@ pres_date: September 26 and 27, 2019
 type: Half-day workshop for library data professionals
 label: Data visualization workshop
 order: '01'
+featured: true
 ---

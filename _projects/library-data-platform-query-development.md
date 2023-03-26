@@ -21,6 +21,7 @@ related-links:
 theme: 
   - open-source
   - leadership
+featured: true
 ---
 “FOLIO is a collaboration of libraries, developers and vendors building an
   open source library services platform. It supports traditional resource management

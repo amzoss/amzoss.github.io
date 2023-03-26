@@ -10,4 +10,5 @@ rep_url: https://hdl.handle.net/10161/20061
 label: Duke Libraries Data Privacy and Retention Audit Report
 order: '2'
 project: reviewing-library-data-privacy-and-retention-practices
+featured: true
 ---

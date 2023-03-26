@@ -10,4 +10,5 @@ pres_date: Spring 2019 to Spring 2021
 type: Presentation
 label: Presenting Data Science Results to Stakeholders
 order: '04'
+featured: true
 ---

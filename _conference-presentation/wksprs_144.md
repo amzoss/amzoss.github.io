@@ -10,4 +10,5 @@ pres_date: August 1, 2005
 type: Presentation
 label: Patterns of communication and information exchange in software development
 order: '54'
+featured: true
 ---

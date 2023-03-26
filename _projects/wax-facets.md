@@ -21,6 +21,7 @@ related-links:
   - '<a href="https://github.com/visualizingthefuture/examples-repository">Original proof of concept of faceted browsing</a>'
 theme: 
   - open-source
+featured: true
 ---
 {{ page.blurb }}
 

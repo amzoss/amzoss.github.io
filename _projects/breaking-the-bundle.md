@@ -21,6 +21,7 @@ related-links:
 theme: 
   - open-source
   - leadership
+featured: true
 ---
 
 A data science project to combine and visualize various measures of value for

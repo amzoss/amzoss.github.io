@@ -10,4 +10,5 @@ pres_date: March 6, 2019
 type: Accepted conference seminar
 label: Improving Stakeholder Communication with Data Visualizations
 order: '13'
+featured: true
 ---

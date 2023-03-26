@@ -9,6 +9,7 @@ label: Research Assistant
 order: '4'
 blurb: During my doctoral degree program, I worked as a research assistant for my dissertation advisor, who entrusted me to act as her proxy and work independently on various research and teaching activities.
 layout: job_post
+featured: true
 ---
 ## Responsibilities
 

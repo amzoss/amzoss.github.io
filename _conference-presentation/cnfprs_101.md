@@ -10,4 +10,5 @@ pres_date: July 18, 2014
 type: Invited presentation
 label: Design and support recommendations from data visualization research
 order: '23'
+featured: true
 ---

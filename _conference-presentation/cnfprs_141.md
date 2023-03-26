@@ -13,4 +13,5 @@ label: Mapping Transdisciplinary Tobacco Use Research Centers (TTURC) Publicatio
   onto the Landscape of the Tobacco Research Field
 order: '36'
 project: evaluation-of-transdisciplinary-tobacco-use-research-centers-tturc
+featured: true
 ---

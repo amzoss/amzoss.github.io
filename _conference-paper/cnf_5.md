@@ -8,4 +8,5 @@ conference_name: ACRL National Conference 2023
 conference_location: Pittsburgh, PA
 order: '2'
 project: assessing-the-needs-of-patrons-with-disabilities
+featured: true
 ---

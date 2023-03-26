@@ -13,4 +13,5 @@ type: Workshop
 label: Visualization in R using ggplot2
 order: '03'
 teaching: r-ggplot2-tidyverse-shiny
+featured: true
 ---

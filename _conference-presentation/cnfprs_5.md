@@ -12,4 +12,5 @@ pres_url: http://bit.ly/ERL20-60-02
 label: Partnering with Data Science Students on Journal Usage Analysis
 order: '08'
 project: breaking-the-bundle
+featured: true
 ---

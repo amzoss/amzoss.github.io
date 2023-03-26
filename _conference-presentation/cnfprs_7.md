@@ -12,4 +12,5 @@ type: Hands-on workshop
 label: Accessibility in Word and PowerPoint
 order: '14'
 theme: dei
+featured: true
 ---

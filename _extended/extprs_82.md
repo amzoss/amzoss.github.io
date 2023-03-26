@@ -11,4 +11,5 @@ pres_date: October 1, 2015
 type: One-day course for NCSU library staff
 label: Introduction to data visualization
 order: '18'
+featured: true
 ---

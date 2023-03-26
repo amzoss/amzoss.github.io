@@ -12,4 +12,5 @@ pres_url: https://2020clirevents.aviaryplatform.com/collections/1172/collection_
 label: Using Wax and Jekyll to build minimal digital projects
 order: '03'
 project: visualizing-the-future
+featured: true
 ---

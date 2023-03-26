@@ -10,4 +10,5 @@ pres_date: April 11, 2018
 type: Presentation
 label: UX of data visualization
 order: '15'
+featured: true
 ---

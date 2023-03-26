@@ -26,6 +26,7 @@ related-links:
   - '<a href="https://identity.cs.duke.edu/fellows.html">Cultural Competence in Computing (3C) Fellows Program</a>'
   - '<a href="../you-me-and-it/">You, Me, and IT: a series on identity in IT work</a>'
 theme: dei
+featured: true
 ---
 'The Cultural Competence in Computing (3C) Fellows Program is a cohort-based
 professional development program that helps computing faculty, staff, postdoctoral

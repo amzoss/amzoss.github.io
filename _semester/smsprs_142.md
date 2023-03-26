@@ -10,4 +10,5 @@ pres_date: Spring 2006
 type: Semester-long course
 label: Human-Computer Interaction
 order: '4'
+featured: true
 ---

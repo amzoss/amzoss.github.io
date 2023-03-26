@@ -10,4 +10,5 @@ pres_date: April 19, 2019
 type: Presentation
 label: Ethics and Visualization
 order: '10'
+featured: true
 ---

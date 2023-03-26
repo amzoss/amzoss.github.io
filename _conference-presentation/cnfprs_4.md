@@ -14,4 +14,5 @@ label: Building an Open Source Reporting Platform for FOLIO
 order: '07'
 image: 'assets/images/poster_for_printing.png'
 project: library-data-platform-query-development
+featured: true
 ---

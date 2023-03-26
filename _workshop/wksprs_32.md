@@ -11,4 +11,5 @@ pres_date: Fall 2017 to Spring 2018
 type: Workshop
 label: Introduction to Effective Visualization
 order: '19'
+featured: true
 ---

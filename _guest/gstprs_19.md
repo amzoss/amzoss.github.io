@@ -10,4 +10,5 @@ pres_date: February 8, 2019
 type: Guest lecture and activity
 label: Usability Studies for Data Visualization
 order: '03'
+featured: true
 ---

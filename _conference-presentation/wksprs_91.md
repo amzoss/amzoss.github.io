@@ -10,4 +10,6 @@ pres_date: February 11, 2015
 type: Presentation
 label: Text-based disease classification of medical literature
 order: '34'
+featured: true
+project: pubmed-diseases
 ---

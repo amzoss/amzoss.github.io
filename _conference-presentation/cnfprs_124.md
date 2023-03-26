@@ -10,4 +10,5 @@ pres_date: December 10, 2013
 type: Accepted presentation
 label: Visualizing (:) A New Data Support Role for Duke University Libraries
 order: '26'
+featured: true
 ---

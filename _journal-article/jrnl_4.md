@@ -14,4 +14,5 @@ label: Mapping interactions within the evolving science of science and innovatio
   policy community
 order: '4'
 project: scisip-community
+featured: true
 ---

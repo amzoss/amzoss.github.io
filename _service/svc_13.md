@@ -5,4 +5,5 @@ date_range: September 2022 to present
 title: DiversifyIT Committee
 role: Member
 theme: dei
+featured: true
 ---

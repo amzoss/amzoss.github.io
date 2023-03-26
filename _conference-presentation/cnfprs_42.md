@@ -11,4 +11,5 @@ type: Accepted conference presentation
 label: Data quality, transparency and reproducibility in large bibliographic datasets
 order: '19'
 theme: open-source
+featured: true
 ---

@@ -12,4 +12,5 @@ pres_url: https://visualizingthefuture.github.io/2020/10/27/viz-and-tell-assessm
 label: Visualization in Library Assessment
 order: '03'
 project: visualizing-the-future
+featured: true
 ---

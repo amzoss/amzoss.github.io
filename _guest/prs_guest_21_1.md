@@ -11,4 +11,5 @@ pres_date: July 31, 2021
 type: Guest lecture
 label: Data Librarianship
 order: '01'
+featured: true
 ---

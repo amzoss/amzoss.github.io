@@ -10,4 +10,5 @@ pres_date: November 16, 2018
 type: Presentation
 label: 'Learning from students & faculty: 2018 user surveys'
 order: '14'
+featured: true
 ---

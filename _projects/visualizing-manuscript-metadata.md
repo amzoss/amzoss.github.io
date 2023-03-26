@@ -12,6 +12,7 @@ order: '09'
 layout: project_post
 image: 'assets/images/manuscript_dashboard.png'
 image_alt: A dashboard with a colorful network diagram at the top, filters on the right, and a table along the bottom.
+featured: true
 ---
 A project to process and visualize metadata from manuscript collections being
 considered for a re-description project.

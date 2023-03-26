@@ -6,4 +6,5 @@ date_range: February 2020 to August 2021
 title: <a href="https://wiki.duke.edu/display/LIB/Data+Privacy+and+Retention+Task+Force">Data Privacy and Retention Task Force</a>
 role: Chair
 project: reviewing-library-data-privacy-and-retention-practices
+featured: true
 ---

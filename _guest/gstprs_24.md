@@ -10,4 +10,5 @@ pres_date: January 29 and 31, 2018
 type: Two-part guest lecture and activity
 label: Data Visualization & Exploration
 order: '09'
+featured: true
 ---

@@ -10,4 +10,5 @@ pres_date: Summer 2011
 type: Semester-long course
 label: Collection Development and Management
 order: '3'
+featured: true
 ---

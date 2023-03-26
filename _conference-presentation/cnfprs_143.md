@@ -12,4 +12,5 @@ type: Poster presentation
 label: 'Imprints in the Museum: Social Navigation Technology for Participatory Expression'
 order: '37'
 project: imprints-in-the-museum
+featured: true
 ---

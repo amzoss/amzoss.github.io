@@ -8,4 +8,5 @@ description: This blog post summarizes results of an informal survey of library 
 rep_url: https://trln.github.io/data-blog/data%20visualization/survey/visualization-librarian-census/
 label: Visualization Librarian Census
 order: '3'
+featured: true
 ---

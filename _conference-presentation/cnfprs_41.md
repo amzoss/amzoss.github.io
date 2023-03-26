@@ -10,4 +10,5 @@ pres_date: May 24, 2017
 type: Accepted conference panel
 label: 'Cheap, fast, or good - pick two: Data instruction in the age of data science'
 order: '18'
+featured: true
 ---

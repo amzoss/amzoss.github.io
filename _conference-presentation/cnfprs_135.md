@@ -13,4 +13,5 @@ type: Presentation
 label: 'Information Visualization and Network Workbench: Incorporating Cyberinfrastructure
   into Instruction'
 order: '33'
+featured: true
 ---

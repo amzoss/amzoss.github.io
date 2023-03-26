@@ -10,4 +10,5 @@ pres_date: May 3, 2017
 type: Webinar
 label: Visualization for Data Science
 order: '20'
+featured: true
 ---

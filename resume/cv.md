@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Résumé
-permalink: /resume/
+title: Curriculum Vitae
 pdf_version: 'assets/files/AngelaZoss-Resume-2023-03-19.pdf'
-nav_order: 6
+parent: Résumé
 ---
 
-# Résumé 
+# Curriculum Vitae
 {: .no_toc .no-print }
 
 <p class="no-print"><i><a href="{{ page.pdf_version | relative_url }}">PDF version</a></i></p>
 
 <div class="show-print"><strong>Email:</strong> angela.zoss@gmail.com</div>
+<div class="show-print"><strong>Website:</strong> <a href="https://www.angelazoss.com/">angelazoss.com</a></div>
 
 <details markdown="block" class="no-print">
   <summary>

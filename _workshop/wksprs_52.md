@@ -10,4 +10,5 @@ pres_date: February 7, 2017
 type: Presentation
 label: 'Visual narratives: Storytelling with visuals for effective research presentations'
 order: '23'
+featured: true
 ---

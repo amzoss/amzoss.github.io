@@ -14,4 +14,5 @@ label: 'Mental Disorders Over Time: A Dictionary-Based Approach to the Analysis 
   Knowledge Domains'
 order: '0'
 project: mental-disorders-over-time
+featured: true
 ---

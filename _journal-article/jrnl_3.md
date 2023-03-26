@@ -13,4 +13,5 @@ doi: 10.1371/journal.pone.0039464
 label: 'Design and update of a classification system: the UCSD map of science'
 order: '3'
 project: updating-maps-of-science
+featured: true
 ---

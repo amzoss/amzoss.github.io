@@ -11,4 +11,5 @@ pres_date: June 1, 2018
 type: One-day course for library professionals
 label: Introduction to data visualization
 order: '04'
+featured: true
 ---

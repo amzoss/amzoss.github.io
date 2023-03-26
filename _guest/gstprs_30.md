@@ -10,4 +10,5 @@ pres_date: March 21 and April 2, 2018
 type: Guest lecture and visualization contest
 label: Introduction to Effective Data Visualization
 order: '08'
+featured: true
 ---

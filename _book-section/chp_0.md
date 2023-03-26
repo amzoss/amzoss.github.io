@@ -15,4 +15,5 @@ chap_url: https://hdl.handle.net/10161/24218
 label: A literacy-based approach to learning visualization with R’s ggplot2 package
 order: '0'
 teaching: r-ggplot2-tidyverse-shiny
+featured: true
 ---

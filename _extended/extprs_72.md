@@ -10,4 +10,5 @@ pres_date: June 1, 2016
 type: One-day pre-conference program
 label: Making sense of data through visualization
 order: '11'
+featured: true
 ---

@@ -10,4 +10,5 @@ pres_date: October 23, 2016
 type: Accepted member of panel
 label: Curriculum Design
 order: '21'
+featured: true
 ---

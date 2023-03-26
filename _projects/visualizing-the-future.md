@@ -24,6 +24,7 @@ related-links:
 theme: 
   - open-source
   - leadership
+featured: true
 ---
 A partnership between the University of Michigan, the University of Southern
 California, and Duke University, [Visualizing the Future](https://visualizingthefuture.github.io/) will gather current and

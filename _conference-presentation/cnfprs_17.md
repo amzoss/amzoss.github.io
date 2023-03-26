@@ -12,4 +12,5 @@ pres_url: http://bit.ly/critvis
 label: Thinking (and teaching) critically for data visualization
 order: '17'
 project: visualizing-the-future
+featured: true
 ---

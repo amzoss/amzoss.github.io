@@ -6,4 +6,5 @@ date_range: December 2018 to November 2022
 title: Visualizing the Future
 role: Co-Principal Investigator
 project: visualizing-the-future
+featured: true
 ---

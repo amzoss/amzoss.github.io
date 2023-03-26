@@ -16,4 +16,5 @@ doi: 10.1007/978-3-319-77237-0_11
 label: 'Network Visualization Literacy: Novel Approaches to Measurement and Instruction'
 order: '1'
 project: network-visualization-literacy
+featured: true
 ---

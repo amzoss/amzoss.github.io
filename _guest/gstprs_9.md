@@ -10,4 +10,5 @@ pres_date: November 7, 2019
 type: Guest lecture
 label: Big Data Ethics
 order: '02'
+featured: true
 ---

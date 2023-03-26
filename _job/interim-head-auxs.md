@@ -9,6 +9,7 @@ label: Interim Head, Assessment & User Experience Strategy Department
 order: '0'
 blurb: 'In the fall of 2021, I was asked to serve as interim head of the Assessment & User Strategy Department as a result of vacancies and cascading interim appointments in other areas of the Libraries.'
 layout: job_post
+featured: true
 ---
 ## Assessment and User Experience Leadership
 * In consultation with members of AUXS and the Assessment Core Team (ACT), lead or decide to pause initiatives including user satisfaction surveys, in-depth user studies, university assessment reporting, and student advisory boards

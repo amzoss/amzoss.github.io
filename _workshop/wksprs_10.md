@@ -10,4 +10,5 @@ pres_date: February 8, 2019
 type: Presentation
 label: Communicating data through visualization
 order: '09'
+featured: true
 ---

@@ -10,4 +10,5 @@ pres_date: April 16, 2015
 type: Guest lecture
 label: How to Lie with Data Visualizations
 order: '22'
+featured: true
 ---

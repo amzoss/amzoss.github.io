@@ -15,4 +15,5 @@ label: 'Engaging Researchers in Data Dialogues: Designing Collaborative Programm
   to Promote Research Data Sharing'
 order: '0'
 theme: open-source
+featured: true
 ---

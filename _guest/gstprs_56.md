@@ -10,4 +10,5 @@ pres_date: October 25, 2017
 type: Guest lecture
 label: Visualizing Qualitative Data
 order: '11'
+featured: true
 ---

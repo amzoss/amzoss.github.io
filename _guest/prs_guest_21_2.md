@@ -10,4 +10,5 @@ pres_date: November 18, 2021
 type: Guest lecture
 label: Visual Analytics in Libraries
 order: '00'
+featured: true
 ---

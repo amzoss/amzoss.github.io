@@ -10,4 +10,5 @@ pres_date: Summer 2011
 type: Half-semester-long course
 label: Emerging Technologies and Libraries
 order: '2'
+featured: true
 ---

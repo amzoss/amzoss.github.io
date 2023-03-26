@@ -9,6 +9,7 @@ label: Assessment and Data Visualization Analyst
 order: '1'
 blurb: In response to the Libraries' growing needs for internal data expertise, my position was restructured to increase capacity in assessment, reporting, and data workflow automation.
 layout: job_post
+featured: true
 ---
 ## Responsibilities
 

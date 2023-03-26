@@ -16,6 +16,7 @@ image_alt: Poster for the Phenom Web App project, including basic background inf
 related-links:
   - <a href="https://codeplus.duke.edu/projects/phenom-population-growth-modeling-web-app-microbiologists">phenom project website</a>
 theme: leadership
+featured: true
 ---
 
 Supervised students completing a summer-long web app development project converting a proof-of-concept

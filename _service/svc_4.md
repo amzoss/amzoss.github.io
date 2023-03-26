@@ -6,4 +6,5 @@ date_range: May 2021 to present
 title: FOLIO Reporting Special Interest Group (SIG)
 role: Convener
 project: library-data-platform-query-development
+featured: true
 ---

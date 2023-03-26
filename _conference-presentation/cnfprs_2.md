@@ -11,4 +11,5 @@ pres_date: January 23, 2020
 type: Presentation and demonstration
 label: 'Reporting 101: Using the Library Data Platform (LDP) for Library Reporting'
 order: '09'
+featured: true
 ---

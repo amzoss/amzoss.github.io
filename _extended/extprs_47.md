@@ -10,4 +10,5 @@ pres_date: May 1, 2017
 type: Three-day course
 label: Introduction to data and visualization for humanities scholars
 order: '08'
+featured: true
 ---

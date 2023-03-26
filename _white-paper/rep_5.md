@@ -9,4 +9,5 @@ rep_url: https://hdl.handle.net/10161/23594
 label: Priorities and Guiding Principles for Protecting Patron Privacy
 order: '2'
 project: reviewing-library-data-privacy-and-retention-practices
+featured: true
 ---

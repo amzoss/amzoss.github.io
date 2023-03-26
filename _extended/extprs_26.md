@@ -11,4 +11,5 @@ pres_date: July 1, 2018
 type: One-day workshop for undergraduates
 label: Designing Academic Figures and Posters
 order: '03'
+featured: true
 ---

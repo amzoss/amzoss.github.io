@@ -13,4 +13,5 @@ type: Workshop
 label: Advanced ggplot2 techniques
 order: '11'
 teaching: r-ggplot2-tidyverse-shiny
+featured: true
 ---

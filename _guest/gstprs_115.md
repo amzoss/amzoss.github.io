@@ -3,11 +3,11 @@ pid: gstprs_115
 authors: Zoss, Angela M.
 sort_year: 2013
 sort_date: 2013-09-10
-title: Data Visualization for Awareness and Engagemen
+title: Data Visualization for Awareness and Engagement
 location: Durham, NC
 host: undergraduate course on Environment and Conflict
 pres_date: September 10, 2013
 type: Guest lecture
-label: Data Visualization for Awareness and Engagemen
+label: Data Visualization for Awareness and Engagement
 order: '36'
 ---
