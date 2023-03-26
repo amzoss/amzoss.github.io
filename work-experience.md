@@ -12,7 +12,8 @@ nav_order: 2
   <div>
   <div>
     <h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
-    <p><em>{{ item.date_range }}</em></p>
+    <p style="margin-bottom: 0;">{{item.department}}</p>
+    <p style="margin-top: 0;"><em>{{ item.date_range }}</em></p>
     <p>{{ item.blurb | markdownify }}</p>
   </div>
   </div>
