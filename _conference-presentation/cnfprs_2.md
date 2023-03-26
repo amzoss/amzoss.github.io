@@ -12,4 +12,5 @@ type: Presentation and demonstration
 label: 'Reporting 101: Using the Library Data Platform (LDP) for Library Reporting'
 order: '09'
 featured: true
+project: library-data-platform-query-development
 ---
