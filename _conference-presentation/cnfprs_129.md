@@ -11,4 +11,5 @@ type: Presentation
 label: Analysis and Visualization of Science
 order: '31'
 teaching: visualization-principles-and-tools
+theme: research-and-assessment
 ---

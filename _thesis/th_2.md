@@ -15,4 +15,5 @@ educ_id: ed_2
 label: 'From Measure to Leisure: Extending Theory on Technology in the Workplace'
 order: '1'
 project: masters-thesis-sandbox
+theme: research-and-assessment
 ---

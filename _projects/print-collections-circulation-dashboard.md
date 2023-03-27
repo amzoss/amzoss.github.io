@@ -16,6 +16,7 @@ image:
   - 'assets/images/download.png'
   - 'assets/images/prep.png'
 image_alt: A dashboard with filters at the top, two bar charts on the left, and a large combination table and heat map in the center.
+theme: research-and-assessment
 ---
 Analyzing usage of print materials is important for collection development,
 but the need for many years of data, and the plurality and variability of some data

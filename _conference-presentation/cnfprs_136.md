@@ -14,4 +14,5 @@ label: Where are the academic jobs? Interactive exploration of job advertisement
   in geospatial and topical space
 order: '34'
 project: job-mapping
+theme: research-and-assessment
 ---

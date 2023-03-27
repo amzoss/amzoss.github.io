@@ -15,6 +15,7 @@ order: '14'
 layout: project_post
 image: 'assets/images/Figure9.jpg'
 image_alt: A network diagram with about five prominent clusters, each with a halo of nodes and connected relatively directly to the other clusters.
+theme: research-and-assessment
 ---
 "Angela Zoss applies the latest visualization techniques to the co‐authorship
 patterns of a handful of ASIS&T award winners who have shaped the field of bibliometrics

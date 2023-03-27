@@ -10,4 +10,5 @@ pres_date: October 24, 2014
 type: Presentation
 label: Text-based disease classification of medical literature
 order: '39'
+theme: research-and-assessment
 ---

@@ -25,6 +25,7 @@ related-links:
 theme: 
   - open-source
   - leadership
+  - research-and-assessment
 ---
 
 My dissertation research on network visualization literacy included an opinion

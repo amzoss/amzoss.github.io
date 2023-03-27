@@ -12,4 +12,5 @@ label: UX of data visualization
 order: '15'
 featured: true
 teaching: visualization-principles-and-tools
+theme: research-and-assessment
 ---

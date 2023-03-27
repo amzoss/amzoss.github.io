@@ -13,4 +13,5 @@ label: 'Imprints in the Museum: Social Navigation Technology for Participatory E
 order: '37'
 project: imprints-in-the-museum
 featured: true
+theme: research-and-assessment
 ---

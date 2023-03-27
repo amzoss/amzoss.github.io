@@ -11,4 +11,5 @@ pres_date: July 4, 2011
 type: Accepted presentation
 label: Testing comprehension of informetric visualizations
 order: '30'
+theme: research-and-assessment
 ---

@@ -9,4 +9,5 @@ rep_url: https://trln.github.io/data-blog/data%20visualization/survey/visualizat
 label: Visualization Librarian Census
 order: '3'
 featured: true
+theme: research-and-assessment
 ---

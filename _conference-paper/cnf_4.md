@@ -11,4 +11,5 @@ order: '2'
 project: assessing-the-needs-of-patrons-with-disabilities
 theme: dei
 featured: true
+theme: research-and-assessment
 ---

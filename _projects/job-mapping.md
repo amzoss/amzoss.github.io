@@ -13,6 +13,7 @@ order: '18'
 layout: project_post
 image: 'assets/images/jobmap-geo.png'
 image_alt: A map of the US overlaid with circles of various sizes representing number of job postings.
+theme: research-and-assessment
 ---
 In the Job Map, job postings collected via RSS feeds are visualized geospatially
 and topically (overlaid on a Map of Science). Also accepted as a map to the [Places

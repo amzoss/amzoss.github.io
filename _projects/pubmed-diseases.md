@@ -12,6 +12,7 @@ order: '13'
 layout: project_post
 image: 'assets/images/WebSci14-poster.png'
 image_alt: A poster showing both a complex infographic related to languages and diseases in the PubMed database and additional information about how the graphic was created.
+theme: research-and-assessment
 ---
 A team submission to the Data Visualization Challenge for WebSci’14. Original
 dataset of historical MEDLINE/PubMed article titles was enhanced with additional

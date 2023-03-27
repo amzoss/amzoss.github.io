@@ -12,6 +12,7 @@ order: '17'
 layout: project_post
 image: 'assets/images/mapsustain-scimap.png'
 image_alt: A map of science overlaid with icons representing funding, publication, and patent data.
+theme: research-and-assessment
 ---
 [MapSustain](http://mapsustain.cns.iu.edu/geovis.html), building off the [Job Map](../job-mapping/), visualizes funding, publication, and
 patent data related to sustainability research on linked geospatial and topic maps.

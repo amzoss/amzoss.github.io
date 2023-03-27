@@ -15,4 +15,5 @@ label: Mapping interactions within the evolving science of science and innovatio
 order: '4'
 project: scisip-community
 featured: true
+theme: research-and-assessment
 ---

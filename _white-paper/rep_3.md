@@ -12,4 +12,5 @@ label: Public Report on Inclusive Library Study Space Design
 order: '0'
 theme: dei
 featured: true
+theme: research-and-assessment
 ---

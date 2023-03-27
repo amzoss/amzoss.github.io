@@ -6,5 +6,7 @@ date_range: October 2022 to present
 title: Assessment Core Team
 role: Convener
 featured: true
-theme: leadership
+theme: 
+  - leadership
+  - research-and-assessment
 ---

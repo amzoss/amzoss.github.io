@@ -12,4 +12,5 @@ label: Exploring and Visualizing Manuscript Metadata for Project Prioritization
 order: '11'
 project: visualizing-manuscript-metadata
 featured: true
+theme: research-and-assessment
 ---

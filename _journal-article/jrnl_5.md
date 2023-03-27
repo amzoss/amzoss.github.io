@@ -15,4 +15,5 @@ label: 'Rete-netzwerk-red: analyzing and visualizing scholarly networks using th
   Network Workbench Tool'
 order: '5'
 featured: true
+theme: research-and-assessment
 ---

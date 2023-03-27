@@ -10,4 +10,5 @@ pres_date: November 27, 2018
 type: Guest lecture
 label: Visual Analytics in Libraries
 order: '07'
+theme: research-and-assessment
 ---

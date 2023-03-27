@@ -16,4 +16,5 @@ featured: true
 teaching:
   - staff-focused-training
   - visualization-principles-and-tools
+theme: research-and-assessment
 ---

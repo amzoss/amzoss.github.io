@@ -17,6 +17,7 @@ image_alt: A floorplan of a floor of a library with curved pink arrows painted o
 related-links:
   - Zoss, Angela M. (December 2019). <a href="https://blogs.library.duke.edu/bitstreams/2019/12/06/where-do-patrons-get-lost-a-study-of-library-navigation/">Where do patrons get lost? A study of library navigation</a>. Blog post.
 featured: true
+theme: research-and-assessment
 ---
 As a response to repeated feedback from patrons and staff about difficulties
 navigating our library spaces, Duke University Libraries undertook a study to explore

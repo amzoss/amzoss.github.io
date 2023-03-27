@@ -12,4 +12,5 @@ pres_url: https://github.com/amzoss/netvislit/blob/master/Zoss-OpenScienceForum.
 label: Network Visualization Literacy
 order: '22'
 project: network-visualization-literacy
+theme: research-and-assessment
 ---

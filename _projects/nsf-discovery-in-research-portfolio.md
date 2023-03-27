@@ -14,6 +14,7 @@ order: '19'
 layout: project_post
 image: 'assets/images/NSF-MRI-Scimap-01.png'
 image_alt: A map of science where nodes representing subdisciplines have been sized by the number of matching awards.
+theme: research-and-assessment
 ---
 NSF CISE and SBE Advisory Committees contracted several teams to act as a subcommittee
 and help in identifying tools and approaches that would be effective for proposal

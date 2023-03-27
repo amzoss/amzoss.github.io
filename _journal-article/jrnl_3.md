@@ -14,4 +14,5 @@ label: 'Design and update of a classification system: the UCSD map of science'
 order: '3'
 project: updating-maps-of-science
 featured: true
+theme: research-and-assessment
 ---

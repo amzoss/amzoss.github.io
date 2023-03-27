@@ -15,4 +15,5 @@ doi: 10.4018/978-1-4666-4309-3.ch005
 label: Cognitive processes and traits related to graphic comprehension
 order: '4'
 teaching: visualization-principles-and-tools
+theme: research-and-assessment
 ---

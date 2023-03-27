@@ -13,4 +13,5 @@ label: Partnering with Data Science Students on Journal Usage Analysis
 order: '08'
 project: breaking-the-bundle
 featured: true
+theme: research-and-assessment
 ---

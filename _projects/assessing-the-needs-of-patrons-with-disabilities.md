@@ -19,6 +19,7 @@ image_alt: A large canvas with regions defined by large boxes, covered with a se
 theme: 
   - dei
   - leadership
+  - research-and-assessment
 featured: true
 ---
 In 2021 and 2022, members of the Assessment Core Team (ACT) at Duke University

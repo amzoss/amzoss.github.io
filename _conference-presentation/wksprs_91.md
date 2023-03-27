@@ -12,4 +12,5 @@ label: Text-based disease classification of medical literature
 order: '34'
 featured: true
 project: pubmed-diseases
+theme: research-and-assessment
 ---

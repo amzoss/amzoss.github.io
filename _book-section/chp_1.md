@@ -17,4 +17,5 @@ label: 'Network Visualization Literacy: Novel Approaches to Measurement and Inst
 order: '1'
 project: network-visualization-literacy
 featured: true
+theme: research-and-assessment
 ---

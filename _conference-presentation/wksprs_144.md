@@ -11,4 +11,5 @@ type: Presentation
 label: Patterns of communication and information exchange in software development
 order: '54'
 featured: true
+theme: research-and-assessment
 ---

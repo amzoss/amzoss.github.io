@@ -16,6 +16,7 @@ order: '20'
 layout: project_post
 image: 'assets/images/tturc.png'
 image_alt: A network diagram with nodes of various colors and links of either gray or red.
+theme: research-and-assessment
 ---
 This project involves a series of bibliometric analyses and visualizations
 that aid in the evaluation of TTURC projects. Visualizations include geographic

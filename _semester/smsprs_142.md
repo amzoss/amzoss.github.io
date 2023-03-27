@@ -11,4 +11,5 @@ type: Semester-long course
 label: Human-Computer Interaction
 order: '4'
 featured: true
+theme: research-and-assessment
 ---

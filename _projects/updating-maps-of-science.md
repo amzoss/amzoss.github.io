@@ -17,6 +17,7 @@ order: '16'
 layout: project_post
 image: 'assets/images/updating-ucsd.png'
 image_alt: A map of science where different subregions have a different color that is used for both nodes and links.
+theme: research-and-assessment
 ---
 Global maps of science can be used as a reference system to chart career trajectories,
   the location of emerging research frontiers, or the expertise profiles of institutes

@@ -11,4 +11,5 @@ type: Guest lecture
 label: Visual Analytics in Libraries
 order: '00'
 featured: true
+theme: research-and-assessment
 ---
