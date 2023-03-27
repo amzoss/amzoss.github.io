@@ -10,4 +10,5 @@ pres_date: January 29, 2015
 type: Presentation
 label: "‘Places & Spaces: Mapping Science’ at Duke"
 order: '31'
+project: places-spaces
 ---
