@@ -6,4 +6,5 @@ title: DiversifyIT Committee
 role: Member
 theme: dei
 featured: true
+theme: leadership
 ---

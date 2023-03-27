@@ -12,5 +12,5 @@ end_date: 2023-03-02
 
 * Completed official three-day <i>Managing at Duke</i> management training program (March 2017)
 * Regular attendance at workshops and completion of online learning in project management, meeting facilitation, Agile software development
-* Experience supervising student staff and teaching assistants
+* Regular experience supervising student staff and teaching assistants, starting in 2012
 

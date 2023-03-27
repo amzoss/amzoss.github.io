@@ -15,7 +15,9 @@ order: '00'
 layout: project_post
 image: 'assets/images/YouMeAndIT.png'
 image_alt: "You, Me & IT, presented by DiversifyIT"
-theme: dei
+theme: 
+  - dei
+  - leadership
 featured: true
 teaching: staff-focused-training
 ---

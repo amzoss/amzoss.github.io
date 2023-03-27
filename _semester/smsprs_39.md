@@ -13,4 +13,5 @@ label: Visualizing Social Mobility in the Developing World
 order: '0'
 featured: true
 teaching: visualization-principles-and-tools
+theme: leadership
 ---

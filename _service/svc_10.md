@@ -8,4 +8,5 @@ role: Local Organizer
 project: places-spaces
 featured: true
 teaching: visualization-principles-and-tools
+theme: leadership
 ---

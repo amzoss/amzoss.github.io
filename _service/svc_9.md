@@ -7,4 +7,5 @@ title: Visualization Friday Forum weekly talk series
 role: Co-Organizer
 featured: true
 teaching: visualization-principles-and-tools
+theme: leadership
 ---
