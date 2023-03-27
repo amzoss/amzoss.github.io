@@ -7,7 +7,7 @@ nav_order: 3
 
 # {{ page.title }}
 
-{% assign sorted = site.projects | sort: 'end_date' | reverse %}
+{% assign sorted = site.projects | where: "featured", "true" | sort: 'end_date' | reverse %}
 {% for prj in sorted %}
   {% if prj.image.first %}
     {% assign img = prj.image.first %}
