@@ -10,4 +10,5 @@ pres_date: March 28, 2014
 type: Presentation
 label: 'From imagination to visualization: Getting comfortable with data representations'
 order: '25'
+teaching: visualization-principles-and-tools
 ---

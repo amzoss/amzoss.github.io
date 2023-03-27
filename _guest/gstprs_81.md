@@ -10,4 +10,5 @@ pres_date: October 2, 2015
 type: Guest lecture
 label: Information Visualization and Tableau
 order: '23'
+teaching: visualization-principles-and-tools
 ---

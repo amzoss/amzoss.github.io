@@ -10,4 +10,5 @@ pres_date: February 8, 2011
 type: Presentation
 label: Analysis and Visualization of Science
 order: '31'
+teaching: visualization-principles-and-tools
 ---

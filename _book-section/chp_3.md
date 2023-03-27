@@ -14,4 +14,5 @@ doi: 10.6084/m9.figshare.3811713.v1
 label: Designing Public Visualizations of Library Data
 order: '3'
 featured: true
+teaching: visualization-principles-and-tools
 ---

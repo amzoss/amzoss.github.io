@@ -11,5 +11,7 @@ type: One-day pre-conference program
 label: Making sense of data through visualization
 order: '11'
 featured: true
-teaching: staff-focused-training
+teaching: 
+  - staff-focused-training
+  - visualization-principles-and-tools
 ---

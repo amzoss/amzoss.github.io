@@ -11,4 +11,5 @@ type: Presentation
 label: 'Visual narratives: Storytelling with visuals for effective research presentations'
 order: '23'
 featured: true
+teaching: visualization-principles-and-tools
 ---

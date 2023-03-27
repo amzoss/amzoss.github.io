@@ -11,4 +11,5 @@ type: Guest lecture and activity
 label: Usability Studies for Data Visualization
 order: '03'
 featured: true
+teaching: visualization-principles-and-tools
 ---

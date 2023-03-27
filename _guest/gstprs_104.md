@@ -10,4 +10,5 @@ pres_date: October 17, 2014
 type: Guest lecture
 label: Information Visualization and Relational Data
 order: '33'
+teaching: visualization-principles-and-tools
 ---

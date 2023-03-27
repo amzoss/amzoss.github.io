@@ -11,4 +11,5 @@ type: Two-part guest lecture and activity
 label: Data Visualization & Exploration
 order: '09'
 featured: true
+teaching: visualization-principles-and-tools
 ---

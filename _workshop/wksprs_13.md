@@ -11,4 +11,5 @@ type: Presentation
 label: Ethics and Visualization
 order: '10'
 featured: true
+teaching: visualization-principles-and-tools
 ---

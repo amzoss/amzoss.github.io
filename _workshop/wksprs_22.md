@@ -11,4 +11,5 @@ pres_date: Spring 2018
 type: Workshop
 label: Custom Interactive Diagrams in LucidChart
 order: '16'
+teaching: visualization-principles-and-tools
 ---

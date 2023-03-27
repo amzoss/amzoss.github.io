@@ -11,4 +11,5 @@ type: Guest lecture and visualization contest
 label: Introduction to Effective Data Visualization
 order: '08'
 featured: true
+teaching: visualization-principles-and-tools
 ---

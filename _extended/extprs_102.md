@@ -11,4 +11,5 @@ pres_date: June 1, 2014
 type: One-day workshop for undergraduates
 label: Designing Academic Figures and Posters
 order: '20'
+teaching: visualization-principles-and-tools
 ---

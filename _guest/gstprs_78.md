@@ -10,4 +10,5 @@ pres_date: October 19, 2015
 type: Guest lecture
 label: Data Visualization Tips and Tools
 order: '21'
+teaching: visualization-principles-and-tools
 ---

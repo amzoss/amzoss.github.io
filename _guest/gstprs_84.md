@@ -10,4 +10,5 @@ pres_date: September 22 and 24, 2015
 type: Two-part guest lecture
 label: Introduction to Tableau
 order: '29'
+teaching: visualization-principles-and-tools
 ---

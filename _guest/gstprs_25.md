@@ -11,4 +11,5 @@ pres_date: April 11, 2018
 type: Guest lecture
 label: Data Visualization, Information Design
 order: '04'
+teaching: visualization-principles-and-tools
 ---

@@ -10,4 +10,5 @@ pres_date: February 12, 2014
 type: Presentation
 label: Visualization for exploration, communication, and inspiration
 order: '40'
+teaching: visualization-principles-and-tools
 ---

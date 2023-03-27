@@ -11,4 +11,5 @@ type: Guest lecture
 label: How to Lie with Data Visualizations
 order: '22'
 featured: true
+teaching: visualization-principles-and-tools
 ---

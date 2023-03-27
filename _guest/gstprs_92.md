@@ -11,4 +11,5 @@ pres_date: February 23, 2015
 type: Guest lecture
 label: Tools for Data Visualization
 order: '27'
+teaching: visualization-principles-and-tools
 ---

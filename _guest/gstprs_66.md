@@ -10,4 +10,5 @@ pres_date: February 2, 2016
 type: Guest lecture
 label: Introduction to Data Visualization
 order: '13'
+teaching: visualization-principles-and-tools
 ---

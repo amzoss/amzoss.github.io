@@ -10,4 +10,5 @@ pres_date: October 28 and November 4, 2013
 type: Two-part guest lecture
 label: Data Visualization for Stats 101
 order: '40'
+teaching: visualization-principles-and-tools
 ---

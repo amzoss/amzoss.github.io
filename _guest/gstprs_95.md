@@ -10,4 +10,5 @@ pres_date: January 31, 2014
 type: Guest lecture
 label: Comparison in Visualization
 order: '30'
+teaching: visualization-principles-and-tools
 ---

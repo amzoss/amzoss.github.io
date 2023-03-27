@@ -10,4 +10,5 @@ pres_date: February 24, 2015
 type: Guest lecture
 label: Introduction to Tableau Public
 order: '24'
+teaching: visualization-principles-and-tools
 ---

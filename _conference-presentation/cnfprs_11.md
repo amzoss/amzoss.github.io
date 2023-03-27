@@ -11,4 +11,5 @@ type: Hands-on workshop
 label: Data cleaning and manipulation with OpenRefine
 order: '15'
 featured: true
+teaching: staff-focused-training
 ---

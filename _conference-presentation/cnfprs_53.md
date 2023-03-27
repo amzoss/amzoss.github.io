@@ -11,4 +11,5 @@ type: Webinar
 label: Visualization for Data Science
 order: '20'
 featured: true
+teaching: visualization-principles-and-tools
 ---

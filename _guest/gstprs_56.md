@@ -11,4 +11,5 @@ type: Guest lecture
 label: Visualizing Qualitative Data
 order: '11'
 featured: true
+teaching: visualization-principles-and-tools
 ---

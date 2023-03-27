@@ -11,4 +11,7 @@ type: Accepted conference seminar
 label: Improving Stakeholder Communication with Data Visualizations
 order: '13'
 featured: true
+teaching:
+  - staff-focused-training
+  - visualization-principles-and-tools
 ---

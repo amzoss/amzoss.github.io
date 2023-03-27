@@ -14,4 +14,5 @@ label: 'Information Visualization and Network Workbench: Incorporating Cyberinfr
   into Instruction'
 order: '33'
 featured: true
+teaching: visualization-principles-and-tools
 ---

@@ -11,4 +11,7 @@ type: Invited presentation
 label: Design and support recommendations from data visualization research
 order: '23'
 featured: true
+teaching:
+  - staff-focused-training
+  - visualization-principles-and-tools
 ---

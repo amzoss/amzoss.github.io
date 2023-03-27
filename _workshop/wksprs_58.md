@@ -10,4 +10,5 @@ pres_date: September 20, 2016
 type: Presentation
 label: Basic principles for effective data visualization
 order: '27'
+teaching: visualization-principles-and-tools
 ---

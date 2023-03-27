@@ -11,4 +11,5 @@ type: Semester-long course
 label: Information Visualization
 order: '1'
 featured: true
+teaching: visualization-principles-and-tools
 ---

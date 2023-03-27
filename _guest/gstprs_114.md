@@ -10,4 +10,5 @@ pres_date: April 3, 2013
 type: Guest lecture
 label: Data Visualization for Art Markets
 order: '35'
+teaching: visualization-principles-and-tools
 ---

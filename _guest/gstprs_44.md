@@ -10,4 +10,5 @@ pres_date: September 12 and 14, 2017
 type: Two-part guest lecture and activity
 label: Data Visualization & Exploration
 order: '12'
+teaching: visualization-principles-and-tools
 ---

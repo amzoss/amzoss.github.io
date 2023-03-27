@@ -10,4 +10,5 @@ pres_date: April 6, 2019
 type: Invited panel presentation
 label: SciArt & Multimedia
 order: '16'
+teaching: visualization-principles-and-tools
 ---

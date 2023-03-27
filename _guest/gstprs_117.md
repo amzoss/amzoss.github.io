@@ -10,4 +10,5 @@ pres_date: January 10, 2013
 type: Guest lecture
 label: Data Visualization for Historical Analyses
 order: '38'
+teaching: visualization-principles-and-tools
 ---

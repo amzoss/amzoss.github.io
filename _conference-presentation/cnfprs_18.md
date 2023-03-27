@@ -11,4 +11,5 @@ type: Accepted conference presentation
 label: Tools and Techniques for Scalable Survey Analysis
 order: '12'
 featured: true
+teaching: staff-focused-training
 ---

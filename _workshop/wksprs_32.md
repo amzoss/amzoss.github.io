@@ -12,4 +12,5 @@ type: Workshop
 label: Introduction to Effective Visualization
 order: '19'
 featured: true
+teaching: visualization-principles-and-tools
 ---

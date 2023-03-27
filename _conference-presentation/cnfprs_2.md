@@ -13,4 +13,5 @@ label: 'Reporting 101: Using the Library Data Platform (LDP) for Library Reporti
 order: '09'
 featured: true
 project: library-data-platform-query-development
+teaching: staff-focused-training
 ---

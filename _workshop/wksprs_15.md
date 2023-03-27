@@ -11,4 +11,5 @@ type: Presentation
 label: Presenting Data Science Results to Stakeholders
 order: '04'
 featured: true
+teaching: visualization-principles-and-tools
 ---

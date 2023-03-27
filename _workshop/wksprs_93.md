@@ -10,4 +10,5 @@ pres_date: April 7, 2014
 type: Panel presentation
 label: Better PowerPoint Presentations
 order: '35'
+teaching: visualization-principles-and-tools
 ---

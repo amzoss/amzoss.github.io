@@ -11,4 +11,5 @@ pres_date: Spring 2017 to Fall 2018
 type: Workshop
 label: Ethics and Visualization
 order: '18'
+teaching: visualization-principles-and-tools
 ---

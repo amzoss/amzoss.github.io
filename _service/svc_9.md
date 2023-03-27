@@ -6,4 +6,5 @@ date_range: August 2012 to March 2020
 title: Visualization Friday Forum weekly talk series
 role: Co-Organizer
 featured: true
+teaching: visualization-principles-and-tools
 ---

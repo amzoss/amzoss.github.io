@@ -7,4 +7,5 @@ title: '<a href="/project_archive/places-spaces/">Places & Spaces: Mapping Scien
 role: Local Organizer
 project: places-spaces
 featured: true
+teaching: visualization-principles-and-tools
 ---

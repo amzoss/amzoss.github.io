@@ -11,4 +11,5 @@ type: Presentation
 label: Communicating data through visualization
 order: '09'
 featured: true
+teaching: visualization-principles-and-tools
 ---

@@ -11,4 +11,5 @@ pres_date: Fall 2016 to Fall 2018
 type: Workshop
 label: Visualizing Qualitative Data
 order: '20'
+teaching: visualization-principles-and-tools
 ---

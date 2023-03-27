@@ -12,4 +12,5 @@ type: One-day workshop for undergraduates
 label: Designing Academic Figures and Posters
 order: '03'
 featured: true
+teaching: visualization-principles-and-tools
 ---

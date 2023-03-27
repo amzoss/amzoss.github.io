@@ -13,4 +13,5 @@ label: Thinking (and teaching) critically for data visualization
 order: '17'
 project: visualizing-the-future
 featured: true
+teaching: visualization-principles-and-tools
 ---

@@ -11,4 +11,5 @@ type: Week-long residency
 label: Visualization week
 order: '10'
 featured: true
+teaching: visualization-principles-and-tools
 ---

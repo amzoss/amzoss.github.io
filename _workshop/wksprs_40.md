@@ -11,4 +11,5 @@ pres_date: Spring 2016 to Spring 2017
 type: Workshop
 label: Advanced Tableau (Data Structures)
 order: '24'
+teaching: visualization-principles-and-tools
 ---

@@ -10,4 +10,7 @@ pres_date: December 14, 2016
 type: Invited webinar
 label: Data Visualization Support
 order: '22'
+teaching: 
+  - staff-focused-training
+  - visualization-principles-and-tools
 ---

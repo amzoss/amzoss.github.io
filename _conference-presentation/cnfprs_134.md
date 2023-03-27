@@ -10,4 +10,5 @@ pres_date: March 23, 2011
 type: Presentation
 label: Tools for Multivariate, Evolving Scientometric Visualizations
 order: '32'
+teaching: visualization-principles-and-tools
 ---

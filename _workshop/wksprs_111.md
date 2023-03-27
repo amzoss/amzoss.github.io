@@ -11,4 +11,5 @@ pres_date: Spring 2014 to Fall 2014
 type: Workshop
 label: Using Gephi for Network Analysis and Visualization
 order: '44'
+teaching: visualization-principles-and-tools
 ---

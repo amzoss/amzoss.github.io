@@ -11,5 +11,7 @@ type: Half-day workshop for library data professionals
 label: Data visualization workshop
 order: '01'
 featured: true
-teaching: staff-focused-training
+teaching: 
+ - staff-focused-training
+ - visualization-principles-and-tools
 ---

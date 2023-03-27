@@ -10,4 +10,5 @@ pres_date: September 10, 2013
 type: Guest lecture
 label: Data Visualization for Awareness and Engagement
 order: '36'
+teaching: visualization-principles-and-tools
 ---

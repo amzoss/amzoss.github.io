@@ -12,4 +12,5 @@ label: Communicating data through visualization
 order: '12'
 featured: true
 teaching: staff-focused-training
+teaching: visualization-principles-and-tools
 ---

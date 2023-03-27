@@ -11,4 +11,5 @@ pres_date: Spring 2016 to Fall 2016
 type: Workshop
 label: Making Data Visual
 order: '29'
+teaching: visualization-principles-and-tools
 ---

@@ -12,4 +12,5 @@ type: One-day course for library professionals
 label: Introduction to data visualization
 order: '14'
 teaching: staff-focused-training
+teaching: visualization-principles-and-tools
 ---

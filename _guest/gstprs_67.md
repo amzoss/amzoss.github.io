@@ -10,4 +10,5 @@ pres_date: October 4, 2016
 type: Guest lecture
 label: Introduction to Data Visualization
 order: '14'
+teaching: visualization-principles-and-tools
 ---

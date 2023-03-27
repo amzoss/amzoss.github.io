@@ -10,4 +10,5 @@ pres_date: March 19, 2018
 type: Guest lecture
 label: Network Visualizations
 order: '06'
+teaching: visualization-principles-and-tools
 ---

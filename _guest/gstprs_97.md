@@ -11,4 +11,5 @@ pres_date: October 29, 2014
 type: Guest lecture
 label: Data Visualization for Energy and Peacebuilding
 order: '31'
+teaching: visualization-principles-and-tools
 ---

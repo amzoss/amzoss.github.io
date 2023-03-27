@@ -11,4 +11,5 @@ type: Accepted member of panel
 label: Curriculum Design
 order: '21'
 featured: true
+teaching: visualization-principles-and-tools
 ---

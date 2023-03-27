@@ -11,4 +11,5 @@ pres_date: Fall 2012 to Spring 2017
 type: Workshop
 label: Introduction to Tableau Public
 order: '26'
+teaching: visualization-principles-and-tools
 ---

@@ -10,4 +10,5 @@ pres_date: March 18, 2015
 type: Guest lecture and visualization contest
 label: Practical Data Visualization
 order: '28'
+teaching: visualization-principles-and-tools
 ---

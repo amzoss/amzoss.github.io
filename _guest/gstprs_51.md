@@ -10,4 +10,5 @@ pres_date: March 23, 2017
 type: Guest lecture
 label: Practical Data Visualization
 order: '10'
+teaching: visualization-principles-and-tools
 ---

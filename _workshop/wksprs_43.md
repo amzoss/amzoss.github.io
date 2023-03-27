@@ -10,4 +10,5 @@ pres_date: November 18, 2017
 type: Presentation
 label: Data Visualization
 order: '21'
+teaching: visualization-principles-and-tools
 ---

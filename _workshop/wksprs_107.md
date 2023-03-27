@@ -10,4 +10,5 @@ pres_date: April 20, 2014
 type: Presentation
 label: Practical data visualization
 order: '37'
+teaching: visualization-principles-and-tools
 ---

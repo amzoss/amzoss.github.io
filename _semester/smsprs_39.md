@@ -12,4 +12,5 @@ pres_url: https://bassconnections.duke.edu/project-teams/visualizing-social-mobi
 label: Visualizing Social Mobility in the Developing World
 order: '0'
 featured: true
+teaching: visualization-principles-and-tools
 ---

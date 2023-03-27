@@ -11,4 +11,5 @@ pres_date: Spring 2014 to Fall 2014
 type: Workshop
 label: Data Visualization on the Web (Introduction)
 order: '42'
+teaching: visualization-principles-and-tools
 ---

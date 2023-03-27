@@ -10,4 +10,5 @@ pres_date: January 21, 2014
 type: Guest lecture
 label: Data Visualization Tips for Cartographers
 order: '32'
+teaching: visualization-principles-and-tools
 ---

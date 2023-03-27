@@ -10,4 +10,5 @@ pres_date: September 23, 2012
 type: Guest lecture
 label: Data Visualization for Refugee Camp Security
 order: '41'
+teaching: visualization-principles-and-tools
 ---

@@ -11,4 +11,5 @@ type: Three-day course
 label: Introduction to data and visualization for humanities scholars
 order: '08'
 featured: true
+teaching: visualization-principles-and-tools
 ---

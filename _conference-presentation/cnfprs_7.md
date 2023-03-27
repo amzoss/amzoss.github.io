@@ -13,4 +13,5 @@ label: Accessibility in Word and PowerPoint
 order: '14'
 theme: dei
 featured: true
+teaching: staff-focused-training
 ---

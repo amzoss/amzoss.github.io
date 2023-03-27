@@ -10,4 +10,5 @@ pres_date: August 12, 2009
 type: Presentation
 label: Analyzing and Visualizing the Structure and Evolution of the World Wide Science
 order: '35'
+teaching: visualization-principles-and-tools
 ---

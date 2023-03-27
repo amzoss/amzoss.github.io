@@ -10,4 +10,7 @@ pres_date: March 18, 2013
 type: Presentation
 label: Approaches to Teaching (Data Visualization) Tools
 order: '47'
+teaching: 
+  - staff-focused-training
+  - visualization-principles-and-tools
 ---

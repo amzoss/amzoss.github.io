@@ -13,4 +13,7 @@ label: Visualization in Library Assessment
 order: '03'
 project: visualizing-the-future
 featured: true
+teaching:
+  - staff-focused-training
+  - visualization-principles-and-tools
 ---

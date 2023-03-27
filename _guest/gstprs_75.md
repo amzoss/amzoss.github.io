@@ -10,4 +10,5 @@ pres_date: April 1, 2015
 type: Guest lecture
 label: Basic Data Visualization
 order: '19'
+teaching: visualization-principles-and-tools
 ---

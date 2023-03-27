@@ -4,9 +4,9 @@ title: "Staff-Focused Training"
 blurb: Active development of staff-focused training events and programs.
 image: 
 image_alt: 
-date_range: 2015 to present
-sort_date: 2023-03-01
-end_date: 2023-03-01
+date_range: 2013 to present
+sort_date: 2023-03-21
+end_date: 2023-03-21
 layout: teaching_post
 ---
 

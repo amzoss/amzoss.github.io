@@ -10,4 +10,5 @@ pres_date: February 11, 2016
 type: Guest lecture and activity
 label: 'Data Visualization 2: Designing and Reworking'
 order: '15'
+teaching: visualization-principles-and-tools
 ---

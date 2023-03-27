@@ -10,4 +10,5 @@ pres_date: March 1, 2013
 type: Guest lecture
 label: Data Visualization for Wikipedia Articles
 order: '39'
+teaching: visualization-principles-and-tools
 ---

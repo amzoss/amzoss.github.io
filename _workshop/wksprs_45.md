@@ -11,4 +11,5 @@ pres_date: Fall 2016 to Fall 2017
 type: Workshop
 label: Data Visualization with Excel
 order: '25'
+teaching: visualization-principles-and-tools
 ---

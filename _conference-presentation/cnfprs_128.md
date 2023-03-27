@@ -11,4 +11,5 @@ pres_date: March 29, 2012
 type: Webinar
 label: 'Preparing to incorporate visualizations into a *metrics research project'
 order: '28'
+teaching: visualization-principles-and-tools
 ---

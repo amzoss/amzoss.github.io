@@ -11,4 +11,5 @@ pres_date: June 20-21, 2016
 type: Two-day course
 label: Introduction to information visualization
 order: '15'
+teaching: visualization-principles-and-tools
 ---

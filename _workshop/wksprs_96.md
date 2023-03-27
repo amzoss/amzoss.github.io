@@ -10,4 +10,5 @@ pres_date: August 21, 2014
 type: Workshop
 label: Creating clean, effective charts and graphs
 order: '45'
+teaching: visualization-principles-and-tools
 ---

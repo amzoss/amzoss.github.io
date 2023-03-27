@@ -10,4 +10,5 @@ pres_date: February 20, 2018
 type: Guest lecture
 label: Introduction to Effective Data Visualization
 order: '05'
+teaching: visualization-principles-and-tools
 ---
