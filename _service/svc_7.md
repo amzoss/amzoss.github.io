@@ -7,4 +7,5 @@ title: Visualizing the Future
 role: Co-Principal Investigator
 project: visualizing-the-future
 featured: true
+teaching: staff-focused-training
 ---

@@ -11,4 +11,5 @@ pres_date: May 1, 2016
 type: One-day course for library professionals
 label: Introduction to data visualization
 order: '14'
+teaching: staff-focused-training
 ---

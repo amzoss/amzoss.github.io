@@ -11,4 +11,5 @@ type: Presentation
 label: Communicating data through visualization
 order: '12'
 featured: true
+teaching: staff-focused-training
 ---

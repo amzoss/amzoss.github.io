@@ -17,6 +17,7 @@ image: 'assets/images/YouMeAndIT.png'
 image_alt: "You, Me & IT, presented by DiversifyIT"
 theme: dei
 featured: true
+teaching: staff-focused-training
 ---
 The cultural competence of an individual or team affects outcomes at work in
 a myriad of ways; client interactions, team cohesion and collegiality, recruitment

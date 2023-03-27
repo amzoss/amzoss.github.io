@@ -12,4 +12,5 @@ type: One-day workshop
 label: Introduction to data visualization
 order: '12'
 featured: true
+teaching: staff-focused-training
 ---

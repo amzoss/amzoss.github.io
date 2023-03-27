@@ -25,6 +25,7 @@ theme:
   - open-source
   - leadership
 featured: true
+teaching: staff-focused-training
 ---
 A partnership between the University of Michigan, the University of Southern
 California, and Duke University, [Visualizing the Future](https://visualizingthefuture.github.io/) will gather current and

@@ -11,4 +11,5 @@ type: Half-day conference program
 label: 'Data visualization in the library: Collections, tools, and scalable services'
 order: '17'
 featured: true
+teaching: staff-focused-training
 ---

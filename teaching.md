@@ -7,7 +7,7 @@ nav_order: 4
 
 # {{ page.title }}
 
-I bring extensive professional development and experience in effective instruction and training techniques, including over 100 workshops, guest lectures, and conference presentations.
+I bring extensive professional development and experience in effective instruction and training techniques, including a wide range of workshops, guest lectures, professional presentations, and extended instruction sequences.
 
 {% assign sorted = site.teaching | sort: 'end_date' | reverse %}
 {% for tch in sorted %}

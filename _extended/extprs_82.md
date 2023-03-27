@@ -12,4 +12,5 @@ type: One-day course for NCSU library staff
 label: Introduction to data visualization
 order: '18'
 featured: true
+teaching: staff-focused-training
 ---

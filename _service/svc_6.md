@@ -6,4 +6,5 @@ title: Duke Libraries Data and Reporting Learning Group
 role: Organizer
 theme: open-source
 featured: true
+teaching: staff-focused-training
 ---
