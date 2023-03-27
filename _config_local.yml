@@ -38,10 +38,6 @@ collections:
     output: true
     display_name: "Projects"
     display_order: 5
-  project_archive:
-    output: true
-    display_name: "Projects"
-    display_order: 6
   thesis:
     output: false
     display_name: "Theses/Dissertations"

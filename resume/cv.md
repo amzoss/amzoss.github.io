@@ -60,17 +60,8 @@ parent: Résumé
 
 ## Projects
 
-{% assign items = "" | split: ',' %}
-
-{% assign proj_collections = "projects|project_archive" | split: "|" %}
-{% for collection in proj_collections %}
-  {% for obj in site[collection] %}
-    {% assign items = items | push: obj %}
-  {% endfor %}
-{% endfor %}
-
 <div class="multi-col pagebreak" >
-{% assign sorted = items | sort: 'end_date' | reverse %}
+{% assign sorted = site.projects | sort: 'end_date' | reverse %}
   <ul>
 {% for prj in sorted %}
     <li>{% include reference_formatting.html pid=prj.pid %}</li>

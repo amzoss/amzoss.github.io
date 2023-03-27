@@ -174,8 +174,7 @@
 
 {% endif %} 
 
-{% if type == "projects" or 
-  type == "project_archive" %}
+{% if type == "projects"  %}
 
     {% capture html %}<strong><a href="{{ item.url | relative_url }}">{{ item.title }}</a></strong><br />
         <em>{{ item.date_range }}</em>{% endcapture %}
