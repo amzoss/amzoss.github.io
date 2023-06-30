@@ -7,7 +7,7 @@ nav_order: 2
 
 # {{ page.title }}
 
-{% assign sorted = site.job | sort: 'sort_year' | reverse %}
+{% assign sorted = site.job | sort: 'sort_date' | reverse %}
 {% for item in sorted %}
   <div>
   <div>
