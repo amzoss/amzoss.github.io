@@ -9,4 +9,6 @@ end_date: 2023-03-02
 layout: teaching_post
 ---
 
-As the [Data Visualization Coordinator](/job/data-vis-coord/) in Duke Libraries' Data and Visualization Services group, I developed instruction on a wide range of visualization-related topics.
+<div class="highlight" style="padding: 1em 1.5em .5em 1.5em; margin-top: 1.75em;">
+<p>As the <a href="/job/data-vis-coord/">Data Visualization Coordinator</a> in Duke Libraries' Data and Visualization Services group, I developed instruction on a wide range of visualization-related topics.</p>
+</div>

@@ -7,7 +7,9 @@ nav_order: 4
 
 # {{ page.title }}
 
-I bring extensive professional development and experience in effective instruction and training techniques, including a wide range of workshops, guest lectures, professional presentations, and extended instruction sequences.
+<div class="highlight" style="padding: 1em 1.5em .5em 1.5em; margin-top: 1.75em;">
+<p>I bring extensive professional development and experience in effective instruction and training techniques, including a wide range of workshops, guest lectures, professional presentations, and extended instruction sequences.</p>
+</div>
 
 {% assign sorted = site.teaching | sort: 'end_date' | reverse %}
 {% for tch in sorted %}
