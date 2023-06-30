@@ -11,6 +11,8 @@ type: Tutorial
 pres_url: https://2020clirevents.aviaryplatform.com/collections/1172/collection_resources/31856/file/100583
 label: Using Wax and Jekyll to build minimal digital projects
 order: '03'
-project: visualizing-the-future
+project: 
+  - visualizing-the-future
+  - wax-facets
 featured: true
 ---

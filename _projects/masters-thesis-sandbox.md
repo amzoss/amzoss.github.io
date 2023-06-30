@@ -2,6 +2,7 @@
 pid: masters-thesis-sandbox
 title: Master’s Thesis – Sandbox
 sort_year: 2008
+sort_date: 2008-05-01
 end_date: 2008-05-01
 date_range: January 2006 to May 2008
 blurb: A project exploring the role of technology in non-task-based activities in

@@ -10,7 +10,7 @@
 
 {% if type == "education" %}
 
-    {% capture html %}{{item.institution}}. ({{item.year}}). {{item.degree}}.{% endcapture %}
+    {% capture html %}{{item.institution}}. ({{item.sort_date}}). {{item.degree}}.{% endcapture %}
 
     {% if item.thesis_title %}
         {% capture html %}{{html}} <a href="{{item.thesis_url}}"><b><i>{{item.thesis_title}}</i></b></a> ({{item.thesis_type}}). {{item.committee}}.{% endcapture %}
@@ -217,7 +217,7 @@
         {% capture award_capture %} Won {{item.award}}.{% endcapture %}
     {% endif %}
 
-    {% capture html %}{{ item.author }}{{ author_punct }} ({{ item.year }}). <b>{{ title }}</b>. {{item.description}}. {{item.location}}.{{award_capture}}{% endcapture %}
+    {% capture html %}{{ item.author }}{{ author_punct }} ({{ item.sort_date }}). <b>{{ title }}</b>. {{item.description}}. {{item.location}}.{{award_capture}}{% endcapture %}
 
 {% endif %} 
 

@@ -29,7 +29,7 @@ This résumé has been curated to include a selection of my past experiences. Pl
 
 ## Education
 
-{% assign sorted = site.education | sort: 'year' | reverse %}
+{% assign sorted = site.education | sort: 'sort_date' | reverse %}
   <ul>
   {% for ed in sorted %}
     <li>{% include reference_formatting.html pid=ed.pid %}</li>
@@ -38,7 +38,7 @@ This résumé has been curated to include a selection of my past experiences. Pl
 
 ## Work Experience
 
-{% assign sorted = site.job | where: "featured", "true" | sort: 'sort_year' | reverse %}
+{% assign sorted = site.job | where: "featured", "true" | sort: 'sort_date' | reverse %}
 <ul>
 {% for pos in sorted %}
     <li>{% include reference_formatting.html pid=pos.pid %}</li>
@@ -66,7 +66,7 @@ This résumé has been curated to include a selection of my past experiences. Pl
 ## Projects
 
 <div class="multi-col" >
-{% assign sorted = site.projects | where: "featured", "true" | sort: 'end_date' | reverse %}
+{% assign sorted = site.projects | where: "featured", "true" | sort: 'sort_date' | reverse %}
   <ul>
 {% for prj in sorted %}
     <li>{% include reference_formatting.html pid=prj.pid %}</li>
@@ -132,7 +132,7 @@ This résumé has been curated to include a selection of my past experiences. Pl
 
 ## Awards/Honors
 
-{% assign sorted = site.award | sort: 'year' | reverse %}
+{% assign sorted = site.award | sort: 'sort_date' | reverse %}
   <ul>
 {% for awd in sorted %}
     <li>{% include reference_formatting.html pid=awd.pid %}</li>
@@ -141,7 +141,7 @@ This résumé has been curated to include a selection of my past experiences. Pl
 
 ## Event Participation
 
-{% assign sorted = site.event | where: "featured", "true" | sort: 'sort_year' | reverse %}
+{% assign sorted = site.event | where: "featured", "true" | sort: 'sort_date' | reverse %}
   <ul>
 {% for evt in sorted %}
     <li>{% include reference_formatting.html pid=evt.pid %}</li>

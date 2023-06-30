@@ -2,6 +2,7 @@
 pid: pubmed-diseases
 title: 'Diseases across the Top Five Languages of the PubMed Database: 1961-2012'
 sort_year: 2014
+sort_date: 2014-06-01
 end_date: 2014-06-01
 date_range: January 2014 to June 2014
 collaborators: Inna Kouper, Trevor Edelblute

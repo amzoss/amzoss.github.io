@@ -4,7 +4,7 @@ title: Interim Head, Assessment & User Experience Strategy Department
 location: Durham, NC
 department: Assessment & User Experience Strategy Department, Duke University Libraries
 date_range: December 2021-present
-sort_year: 2023
+sort_date: 2023
 label: Interim Head, Assessment & User Experience Strategy Department
 order: '0'
 blurb: 'In the fall of 2021, I was asked to serve as interim head of the Assessment & User Strategy Department as a result of vacancies and cascading interim appointments in other areas of the Libraries.'

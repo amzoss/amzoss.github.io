@@ -2,6 +2,7 @@
 pid: updating-maps-of-science
 title: Updating Maps of Science
 sort_year: 2011
+sort_date: 2011-07-01
 end_date: 2011-07-01
 date_range: Jan. 2011 to July 2011
 collaborators: Richard Klavans, Michael Patek, Joseph Biberstine, Vincent Larivière,

@@ -4,7 +4,7 @@ title: Research Assistant
 location: Bloomington, IN
 department: Cyberinfrastructure for Network Science Center, SLIS, Indiana University
 date_range: August 2008-August 2011
-sort_year: 2011
+sort_date: 2011
 label: Research Assistant
 order: '4'
 blurb: During my doctoral degree program, I worked as a research assistant for my dissertation advisor, who entrusted me to act as her proxy and work independently on various research and teaching activities.

@@ -2,6 +2,7 @@
 pid: nsf-discovery-in-research-portfolio
 title: NSF Discovery in Research Portfolio
 sort_year: 2010
+sort_date: 2010-10-01
 end_date: 2010-10-01
 date_range: Apr. 2010 to Oct. 2010
 collaborators: Angela Zoss, Katy Börner

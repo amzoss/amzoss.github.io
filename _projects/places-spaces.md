@@ -2,6 +2,7 @@
 pid: places-spaces
 title: 'Places & Spaces: Mapping Science, Exhibit Organizer'
 sort_year: 2015
+sort_date: 2015-04-10
 end_date: 2015-04-10
 date_range: January to April 2015
 collaborators: Eric Monson, Meg Brown, Robert Calderbank, Larry Carin, Scott Huettel, Victoria Szabo, Julia Trimmer, along with additional support from Duke Libraries staff

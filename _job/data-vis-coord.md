@@ -4,7 +4,7 @@ title: Data Visualization Coordinator
 location: Durham, NC
 department: Data and Visualization Services Department, Duke University Libraries
 date_range: June 2012-April 2018
-sort_year: 2018
+sort_date: 2018
 label: Data Visualization Coordinator
 order: '2'
 blurb: As Duke University's first Data Visualization Coordinator, I was responsible for developing, marketing, and providing the library’s first data visualization services.

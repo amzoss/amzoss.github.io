@@ -2,6 +2,7 @@
 pid: reviewing-library-data-privacy-and-retention-practices
 title: Reviewing Library Data Privacy and Retention Practices
 sort_year: 2021
+sort_date: 2021-08-01
 end_date: 2021-08-01
 date_range: September 2018 to August 2021
 collaborators: Joyce Chapman, members of Data Privacy and Retention Task Force

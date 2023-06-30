@@ -2,6 +2,7 @@
 pid: evaluation-of-transdisciplinary-tobacco-use-research-centers-tturc
 title: Evaluation of Transdisciplinary Tobacco Use Research Centers (TTURC)
 sort_year: 2010
+sort_date: 2010-06-01
 end_date: 2010-06-01
 date_range: Aug. 2008 to June 2010
 collaborators: David Berrigan, Annie Feng, Kara Hall, Stephen Marcus, Glen Morgan,

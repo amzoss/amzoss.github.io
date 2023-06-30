@@ -2,6 +2,7 @@
 pid: mapsustain
 title: MAPSustain
 sort_year: 2010
+sort_date: 2010-12-01
 end_date: 2010-12-01
 date_range: Jan. 2010 to Dec. 2010
 collaborators: Chin Hua Kong, Nianli Ma, Michael J. Stamper, Angela Zoss, Katy Börner

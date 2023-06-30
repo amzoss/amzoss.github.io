@@ -4,7 +4,7 @@ title: Assessment and Data Visualization Analyst
 location: Durham, NC
 department: Assessment & User Experience Department, Duke University Libraries
 date_range: May 2018-November 2021
-sort_year: 2021
+sort_date: 2021
 label: Assessment and Data Visualization Analyst
 order: '1'
 blurb: In response to the Libraries' growing needs for internal data expertise, my position was restructured to increase capacity in assessment, reporting, and data workflow automation.

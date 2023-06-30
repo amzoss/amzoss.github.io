@@ -2,6 +2,7 @@
 pid: redesigning-library-wayfinding-and-signage
 title: Redesigning Library Wayfinding and Signage
 sort_year: 2019
+sort_date: 2019-07-01
 end_date: 2019-07-01
 date_range: November 2018 to July 2019
 collaborators: Janelle Hutchinson, Emily Daly

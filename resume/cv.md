@@ -24,7 +24,7 @@ parent: Résumé
 
 ## Education
 
-{% assign sorted = site.education | sort: 'year' | reverse %}
+{% assign sorted = site.education | sort: 'sort_date' | reverse %}
   <ul>
   {% for ed in sorted %}
     <li>{% include reference_formatting.html pid=ed.pid %}</li>
@@ -33,7 +33,7 @@ parent: Résumé
 
 ## Work Experience
 
-{% assign sorted = site.job | sort: 'sort_year' | reverse %}
+{% assign sorted = site.job | sort: 'sort_date' | reverse %}
 <ul>
 {% for pos in sorted %}
     <li>{% include reference_formatting.html pid=pos.pid %}</li>
@@ -61,7 +61,7 @@ parent: Résumé
 ## Projects
 
 <div class="multi-col pagebreak" >
-{% assign sorted = site.projects | sort: 'end_date' | reverse %}
+{% assign sorted = site.projects | sort: 'sort_date' | reverse %}
   <ul>
 {% for prj in sorted %}
     <li>{% include reference_formatting.html pid=prj.pid %}</li>
@@ -127,7 +127,7 @@ parent: Résumé
 
 ## Awards/Honors
 
-{% assign sorted = site.award | sort: 'year' | reverse %}
+{% assign sorted = site.award | sort: 'sort_date' | reverse %}
   <ul>
 {% for awd in sorted %}
     <li>{% include reference_formatting.html pid=awd.pid %}</li>
@@ -136,7 +136,7 @@ parent: Résumé
 
 ## Event Participation
 
-{% assign sorted = site.event | sort: 'sort_year' | reverse %}
+{% assign sorted = site.event | sort: 'sort_date' | reverse %}
   <ul>
 {% for evt in sorted %}
     <li>{% include reference_formatting.html pid=evt.pid %}</li>

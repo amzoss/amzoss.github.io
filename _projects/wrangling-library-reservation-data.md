@@ -2,6 +2,7 @@
 pid: wrangling-library-reservation-data
 title: Wrangling Library Reservation Data
 sort_year: 2021
+sort_date: 2021-08-01
 end_date: 2021-08-01
 date_range: August 2020 to August 2021
 blurb: The fall of 2020 saw a host of new services added to our LibCal reservation

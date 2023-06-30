@@ -3,6 +3,7 @@ pid: rep_1
 project_id: prj_11
 authors: Börner, Katy and Zoss, Angela M.
 year: 2010
+sort_date: 2010-10-06
 title: Evolving and emerging populations and topics
 description: White paper for CISE/SBE Advisory Committee on Research Portfolio Analysis,
   National Science Foundation

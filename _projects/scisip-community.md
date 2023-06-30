@@ -2,6 +2,7 @@
 pid: scisip-community
 title: SciSIP Community
 sort_year: 2012
+sort_date: 2012-01-01
 end_date: 2012-01-01
 date_range: September 2010 to January 2012
 collaborators: Katy Börner

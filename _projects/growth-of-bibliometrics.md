@@ -2,6 +2,7 @@
 pid: growth-of-bibliometrics
 title: Growth of Bibliometrics
 sort_year: 2012
+sort_date: 2012-06-01
 end_date: 2012-06-01
 date_range: May to June 2012
 blurb: '"Angela Zoss applies the latest visualization techniques to the co‐authorship

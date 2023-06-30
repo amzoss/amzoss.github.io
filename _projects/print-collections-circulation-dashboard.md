@@ -2,6 +2,7 @@
 pid: print-collections-circulation-dashboard
 title: Print Collections Circulation Dashboard
 sort_year: 2020
+sort_date: 2020-10-01
 end_date: 2020-10-01
 date_range: April 2020 to October 2020
 collaborators: Jeff Kosokoff

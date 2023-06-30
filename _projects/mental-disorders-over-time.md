@@ -2,6 +2,7 @@
 pid: mental-disorders-over-time
 title: Mental Disorders Over Time
 sort_year: 2016
+sort_date: 2016-01-01
 end_date: 2016-01-01
 date_range: June 2014 to January 2016
 collaborators: Inna Kouper, Trevor Edelblute

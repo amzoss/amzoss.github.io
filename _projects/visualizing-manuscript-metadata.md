@@ -2,6 +2,7 @@
 pid: visualizing-manuscript-metadata
 title: Visualizing Manuscript Metadata
 sort_year: 2019
+sort_date: 2019-07-31
 end_date: 2019-07-31
 date_range: March 2019 to July 2019
 collaborators: Meghan Lyon

@@ -2,6 +2,7 @@
 pid: imprints-in-the-museum
 title: Imprints in the Museum
 sort_year: 2004
+sort_date: 2004-12-15
 end_date: 2004-12-15
 date_range: Aug. 2004 to Dec. 2004
 collaborators: Kirsten Boehner, Jennifer Thom-Santelli, Geri Gay, Justin S. Hall,

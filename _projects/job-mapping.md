@@ -2,6 +2,7 @@
 pid: job-mapping
 title: JobMap
 sort_year: 2010
+sort_date: 2010-05-01
 end_date: 2010-05-01
 date_range: Jan. 2009 to May 2010
 collaborators: Angela Zoss, Michael Conover, Katy Börner

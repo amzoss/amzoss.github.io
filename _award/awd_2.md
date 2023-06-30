@@ -1,7 +1,7 @@
 ---
 pid: awd_2
 author: Zoss, Angela M.
-year: 2021
+sort_date: 2021
 title: 2021 Florence Blakely Award (nominee)
 description: The Blakely Award is the highest recognition that Duke University Libraries confers
   to an individual staff member, monthly or biweekly. The Blakely Award rewards extraordinary
