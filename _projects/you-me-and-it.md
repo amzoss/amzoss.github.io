@@ -20,6 +20,8 @@ theme:
   - leadership
 featured: true
 teaching: staff-focused-training
+related-links:
+  - <a href="https://identityincs.org/news/duke-diversifyit-team-develops-you-me-and-it-three-part-discussion-series-aimed-deepening/">Announcement of You, Me, and IT project on AIICE site</a>
 ---
 The cultural competence of an individual or team affects outcomes at work in
 a myriad of ways; client interactions, team cohesion and collegiality, recruitment
