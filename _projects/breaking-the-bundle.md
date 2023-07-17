@@ -22,6 +22,7 @@ theme:
   - open-source
   - leadership
   - research-and-assessment
+  - assessment-user-experience
 featured: true
 ---
 

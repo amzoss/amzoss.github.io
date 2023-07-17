@@ -9,7 +9,9 @@ conference_location: virtual
 conf_url: https://www.libraryassessment.org/wp-content/uploads/2023/05/187-Zoss-Assessing-the-Needs-of-Users-with-Disabilities.pdf
 order: '2'
 project: assessing-the-needs-of-patrons-with-disabilities
-theme: dei
+theme: 
+  - dei
+  - assessment-user-experience
+  - research-and-assessment
 featured: true
-theme: research-and-assessment
 ---

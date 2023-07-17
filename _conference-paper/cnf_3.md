@@ -13,5 +13,7 @@ label: 'Imprints of place: Creative expressions of the museum experience'
 order: '2'
 project: imprints-in-the-museum
 featured: true
-theme: research-and-assessment
+theme: 
+  - research-and-assessment
+  - assessment-user-experience
 ---

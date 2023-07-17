@@ -11,7 +11,9 @@ description: This report summarizes findings of a literature review focused on i
 rep_url: https://hdl.handle.net/10161/23214
 label: Public Report on Inclusive Library Study Space Design
 order: '0'
-theme: dei
+theme: 
+  - dei
+  - assessment-user-experience
+  - research-and-assessment
 featured: true
-theme: research-and-assessment
 ---

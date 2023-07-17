@@ -9,4 +9,5 @@ theme:
   - dei
   - leadership
   - research-and-assessment
+  - assessment-user-experience
 ---
