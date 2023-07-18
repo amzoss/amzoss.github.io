@@ -11,4 +11,5 @@ type: Accepted presentation
 label: Visualizing (:) A New Data Support Role for Duke University Libraries
 order: '26'
 featured: true
+theme: management
 ---

@@ -11,4 +11,5 @@ type: Panel presentation
 label: New Directions for Data Visualization in Library Public Services
 order: '24'
 featured: true
+theme: management
 ---
