@@ -7,5 +7,6 @@ role: Member
 theme: 
   - dei
   - leadership
+  - technology-development-leadership
 featured: true
 ---

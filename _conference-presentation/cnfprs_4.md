@@ -15,4 +15,5 @@ order: '07'
 image: 'assets/images/poster_for_printing.png'
 project: library-data-platform-query-development
 featured: true
+theme: technology-development-leadership
 ---

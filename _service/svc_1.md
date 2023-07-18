@@ -7,5 +7,7 @@ title: <a href="https://wiki.duke.edu/display/LIB/Data+Privacy+and+Retention+Tas
 role: Chair
 project: reviewing-library-data-privacy-and-retention-practices
 featured: true
-theme: leadership
+theme: 
+  - leadership
+  - technology-development-leadership
 ---

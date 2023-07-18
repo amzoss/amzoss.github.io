@@ -18,6 +18,7 @@ image_alt: "You, Me & IT, presented by DiversifyIT"
 theme: 
   - dei
   - leadership
+  - technology-development-leadership
 featured: true
 teaching: staff-focused-training
 related-links:

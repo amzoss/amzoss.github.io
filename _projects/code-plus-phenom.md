@@ -15,7 +15,9 @@ image: '/assets/images/PhenomPoster.png'
 image_alt: Poster for the Phenom Web App project, including basic background information, a large diagram of the user experience workflow, and a summary of the tools and framework used.
 related-links:
   - <a href="https://codeplus.duke.edu/projects/phenom-population-growth-modeling-web-app-microbiologists">phenom project website</a>
-theme: leadership
+theme: 
+  - leadership
+  - technology-development-leadership
 featured: true
 ---
 

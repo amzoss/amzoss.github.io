@@ -7,5 +7,7 @@ title: FOLIO Reporting Special Interest Group (SIG)
 role: Convener
 project: library-data-platform-query-development
 featured: true
-theme: leadership
+theme: 
+  - leadership
+  - technology-development-leadership
 ---

@@ -15,4 +15,5 @@ project:
   - visualizing-the-future
   - wax-facets
 featured: true
+theme: technology-development-leadership
 ---

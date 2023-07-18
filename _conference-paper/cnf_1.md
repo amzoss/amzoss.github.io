@@ -15,5 +15,7 @@ label: 'Mental Disorders Over Time: A Dictionary-Based Approach to the Analysis 
 order: '0'
 project: mental-disorders-over-time
 featured: true
-theme: research-and-assessment
+theme: 
+  - research-and-assessment
+  - technology-development-leadership
 ---

@@ -13,4 +13,5 @@ label: Protecting patron privacy - what are the issues and what can we do?
 order: '06'
 project: reviewing-library-data-privacy-and-retention-practices
 featured: true
+theme: technology-development-leadership
 ---

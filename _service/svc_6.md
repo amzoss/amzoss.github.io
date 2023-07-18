@@ -7,5 +7,7 @@ role: Organizer
 theme: open-source
 featured: true
 teaching: staff-focused-training
-theme: leadership
+theme: 
+  - leadership
+  - technology-development-leadership
 ---

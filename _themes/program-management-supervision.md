@@ -5,7 +5,7 @@ title: "Program Management and Staff Supervision"
 blurb: Progressively increasing responsibility for administrative work and staff mentorship.
 image: 
 date_range: 
-end_date: 2023-03-02
+end_date: 2023-04-02
 ---
 
 <div class="highlight" style="padding: .1em 1.5em .5em 1.5em; margin-top: 1.75em;">
