@@ -2,7 +2,7 @@
 layout: page
 title: Areas of Focus
 permalink: /areas-of-focus/
-nav_order: 5
+nav_order: 6
 ---
 
 # {{ page.title }}

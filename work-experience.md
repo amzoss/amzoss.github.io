@@ -2,7 +2,7 @@
 layout: page
 title: Work Experience
 permalink: /work-experience/
-nav_order: 2
+nav_order: 3
 ---
 
 # {{ page.title }}
