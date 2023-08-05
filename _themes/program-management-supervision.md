@@ -39,7 +39,7 @@ visualization consultant was approved after three years.
 
 <dl style="grid-template-columns: 15em 1fr;">
   <dt>Full-time staff supervision</dt>
-  <dd>Joyce Chapman and Thomas Crichlow (Jan. 2022–present); Zeke Graves (Apr. 2022–present); Sean Aery, Derrek Croney , Michael Daul (June 2022 2022–present)</dd>
+  <dd>Joyce Chapman and Thomas Crichlow (Jan. 2022–present); Zeke Graves (Apr. 2022–present); Sean Aery, Derrek Croney, Michael Daul (June 2022–present)</dd>
   <dt>Full-time staff onboarding</dt>
   <dd>Zeke Graves (2022)</dd>
   <dt>Formal staff mentorship</dt>

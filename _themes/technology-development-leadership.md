@@ -25,13 +25,13 @@ end_date: 2023-02-02
 ## Sample Development Projects
 
 * Data processing script projects
-    * Top Textbook/Course Reserves data processing (restricted access)
+    * **Top Textbook/Course Reserves data processing** (restricted access)
         * JavaScript code to transform data from FOLIO APIs for searchable public UI
         * Python script to push reserves usage data from Splunk index API into a database
         * Jupyter notebook to help process course registration and textbook data
-    * [FOLIO Schema parser](https://github.com/amzoss/schema-parser/) (Designer and developer, 2020)
+    * **[FOLIO Schema parser](https://github.com/amzoss/schema-parser/)** (Designer and developer, 2020)
     * Zoss, Angela M. (2018). [Network Visualization Literacy: Task, Context, and Layout](http://netvislit.org/). (Data analysis code repository for doctoral dissertation.)
-* [FOLIO Analytics Query Development](https://github.com/folio-org/folio-analytics)
+* **[FOLIO Analytics Query Development](https://github.com/folio-org/folio-analytics)**
 * Faceted browsing for lightweight digital exhibits
-    * [Visualizing the Future Examples Repository](https://github.com/visualizingthefuture/examples-repository) (prototype)
-    * [Wax Facets](https://github.com/minicomp/wax-facets) (an additional theme for [Wax](https://minicomp.github.io/wax/) that includes faceted browsing)
+    * **[Visualizing the Future Examples Repository](https://github.com/visualizingthefuture/examples-repository)** (prototype)
+    * **[Wax Facets](https://github.com/minicomp/wax-facets)** (an additional theme for [Wax](https://minicomp.github.io/wax/) that includes faceted browsing)
