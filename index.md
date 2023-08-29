@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 
 <div class="float-left-lg">
-     <img src="assets/images/angela_zoss.jpg"
+     <img src="assets/images/az_portrait.jpg"
      alt="Angela Zoss"
      width="150px;" />
 </div>
