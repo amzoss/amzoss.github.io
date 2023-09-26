@@ -30,7 +30,7 @@ end_date: 2023-02-02
         * Python script to push reserves usage data from Splunk index API into a database
         * Jupyter notebook to help process course registration and textbook data
     * **[FOLIO Schema parser](https://github.com/amzoss/schema-parser/)** (Designer and developer, 2020)
-    * Zoss, Angela M. (2018). [Network Visualization Literacy: Task, Context, and Layout](http://netvislit.org/). (Data analysis code repository for doctoral dissertation.)
+    * Zoss, Angela M. (2018). [Network Visualization Literacy: Task, Context, and Layout](https://github.com/amzoss/netvislit). (Data analysis code repository for doctoral dissertation.)
 * **[FOLIO Analytics Query Development](https://github.com/folio-org/folio-analytics)**
 * Faceted browsing for lightweight digital exhibits
     * **[Visualizing the Future Examples Repository](https://github.com/visualizingthefuture/examples-repository)** (prototype)
