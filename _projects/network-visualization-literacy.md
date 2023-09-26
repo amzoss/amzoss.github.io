@@ -14,7 +14,7 @@ responsibilities: |-
   <li>Constructed a series of quantitative network visualization analysis tasks</li>
   <li>Recruited hundreds of subjects to complete online test of network visualization comprehension</li>
   <li>Developed R scripts to process sample network datasets, conduct network statistics and clustering algorithms, generate test visualizations, process participant response data, apply mixed effects models, and visualize results</li></ul>
-project_url: http://netvislit.org/
+project_url: https://github.com/amzoss/netvislit
 label: 'Network Visualization Literacy: Task, Context, and Layout'
 order: '11'
 layout: project_post
