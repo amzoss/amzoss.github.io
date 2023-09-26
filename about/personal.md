@@ -1,5 +1,5 @@
 ---
-title: Personal
+title: Personal Interests
 layout: home
 parent: About
 nav_order: 1
