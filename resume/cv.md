@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curriculum Vitae
-pdf_version: 'assets/files/AngelaZoss-CV-2023-08-05.pdf'
+pdf_version: 'assets/files/AngelaZoss-CV-2024-09-01.pdf'
 parent: Résumé
 ---
 
