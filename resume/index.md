@@ -2,7 +2,7 @@
 layout: page
 title: Résumé
 permalink: /resume/
-pdf_version: 'assets/files/AngelaZoss-Resume-2023-08-05.pdf'
+pdf_version: 'assets/files/AngelaZoss-Resume-2024-09-01.pdf'
 nav_order: 7
 has_children: true
 has_toc: false
