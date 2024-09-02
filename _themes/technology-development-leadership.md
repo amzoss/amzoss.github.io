@@ -2,7 +2,7 @@
 pid: technology-development-leadership
 layout: theme_post
 title: "Technology Development and Leadership"
-blurb: Wide range of experiences with backback-end and front-end technologies. Specialty in data processing.
+blurb: Wide range of experiences with back-end and front-end technologies. Specialty in data processing.
 image: 
 date_range: 
 end_date: 2023-02-02
