@@ -4,7 +4,7 @@ title: Assessing the Needs of Patrons with Disabilities
 sort_year: 2023
 sort_date: 2023-03-18
 end_date: 2023-03-18
-date_range: July 2021 to present
+date_range: July 2021 to March 2023
 collaborators: Emily Daly, Ira King, Candice Wang, Ciara Healy, Meg Brown, Abby Wickes
 blurb: In 2021 and 2022, members of the Assessment Core Team (ACT) at Duke University
   Libraries (DUL) led a study of users with apparent and non-apparent disabilities

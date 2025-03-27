@@ -4,7 +4,7 @@ title: FOLIO (Future of Libraries is Open) Reporting SIG
 sort_year: 2023
 sort_date: 2023-04-01
 end_date: 2023-04-01
-date_range: September 2018 to present
+date_range: September 2018 to August 2023
 collaborators: Nassib Nassar, Sharon Beltaine, members of the FOLIO
   Reporting Special Interest Group (SIG)
 blurb: Since joining the FOLIO [Reporting Special Interest Group (SIG)](https://wiki.folio.org/display/RPT/) in September 2018, I have held progressively more advanced leadership roles. I am currently co-convener of the Reporting SIG and team lead for Resource Access/User Management query development.
