@@ -1,7 +1,7 @@
 ---
 pid: svc_13
-sort_date: 2023-06-05
-date_range: September 2022 to present
+sort_date: 2024-12-30
+date_range: September 2022 to December 2024
 title: DiversifyIT Committee
 role: Member
 theme: 
