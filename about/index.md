@@ -7,7 +7,7 @@ has_toc: false
 ---
 
 <div class="float-right-lg">
-     <img src="../../assets/images/angela_zoss.jpg"
+     <img src="../../assets/images/AZ-portrait-09-2024.jpeg"
      alt="Angela Zoss"
      width="300px;" />
 </div>
