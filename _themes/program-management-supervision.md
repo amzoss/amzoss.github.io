@@ -28,7 +28,7 @@ visualization consultant was approved after three years.
 
 ## Budget/Resource Management
 
-* **Assessment & User Experience Strategy Department**, budget and resource management (Interim Head, 2022–present)
+* **Assessment & User Experience Strategy Department**, budget and resource management (Head, Dec. 2023-present; Interim Head, Dec. 2021–Nov. 2023)
 * **Visualizing the Future National Forum Grant** (Co-Principal Investigator, 2018–2022)
 * **Visualization Friday Forum** weekly talk series (Co-Organizer, 2012–2020)
 * **Visualizing Social Mobility in the Developing World**, Bass Connections course (Team Co-Lead, 2017–2018)
@@ -39,15 +39,15 @@ visualization consultant was approved after three years.
 
 <dl style="grid-template-columns: 15em 1fr;">
   <dt>Full-time staff supervision</dt>
-  <dd>Joyce Chapman and Thomas Crichlow (Jan. 2022–present); Zeke Graves (Apr. 2022–present); Sean Aery, Derrek Croney, Michael Daul (June 2022–present)</dd>
+  <dd>Thomas Crichlow (Jan. 2022–present); Zeke Graves (Apr. 2022–present); Sean Aery, Michael Daul (June 2022–present), Derrek Croney (June 2022-July 2025), Annie Brown (Jan. 2025-March 2026), Joyce Chapman (Jan. 2022-May 2026)</dd>
   <dt>Full-time staff onboarding</dt>
-  <dd>Zeke Graves (2022)</dd>
+  <dd>Annie Brown (2025), Zeke Graves (2022)</dd>
   <dt>Formal staff mentorship</dt>
-  <dd>Adam Hudnut-Beumler (2022–present)</dd>
-  <dt>Hired and/or supervised paid Duke graduate student workers</dt>
-  <dd>Yasha Saxena (2023), Audrey Liu (2022–2023), Candice Wang (2022), Victoria Nneji (2018), Luke C. LeGrand (2017–2018)</dd>
+  <dd>Adam Hudnut-Beumler (2022–2024)</dd>
+  <dt>Hired and/or supervised paid Duke student workers</dt>
+  <dd>Jim Zhang (2024-2026), Stephanie Sorto-Moreno (2024-2025), Shelley Dong (2023-2025), Yasha Saxena (2023-2024), Audrey Siqi-Liu (2022–2023), Candice Wang (2022), Victoria Nneji (2018), Luke C. LeGrand (2017–2018)</dd>
   <dt>Recruited and supervised volunteer practicum students</dt>
-  <dd>Sarah Dwyer (2023), Jimmy McKinnell (2023), Gary Rowland (2023), Julie Pullen (2022), Tracey Yu (2022), Loida Pan (2022), Allison Ruvidich (2022), Beth Blackwood (2016)</dd>
+  <dd>Alex Konecky (2025), Anjali Yellapuntula Venketa (2024), Shabrina McPherson (2024), Tricia Bacon (2024), Kay-Anna West (2024), Sarah Leck (2023), Sarah Dwyer (2023), Jimmy McKinnell (2023), Gary Rowland (2023), Julie Pullen (2022), Tracey Yu (2022), Loida Pan (2022), Allison Ruvidich (2022), Beth Blackwood (2016)</dd>
 </dl>
 
 ## Activities and Professional Development
